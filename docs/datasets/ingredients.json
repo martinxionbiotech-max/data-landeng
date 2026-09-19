@@ -4428,6 +4428,575 @@
         "https://zh.wikisource.org/wiki/本草綱目/木之一",
         "https://zh.wikisource.org/wiki/香乘"
       ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "juniper",
+      "name": "Juniper",
+      "alternateName": [
+        "杜松",
+        "dùsōng",
+        "Juniperus communis"
+      ],
+      "description": "杜松 (dùsōng) is a Chinese botanical incense ingredient — Juniperus communis — with an aroma profile of woody, piney, resinous, fresh.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "杜松"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "dùsōng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Juniperus communis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "woody, piney, resinous, fresh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Woods"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/2684709"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "basil",
+      "name": "Basil",
+      "alternateName": [
+        "罗勒",
+        "luólè",
+        "Ocimum basilicum"
+      ],
+      "description": "罗勒 (luólè) is a Chinese botanical incense ingredient — Ocimum basilicum — with an aroma profile of sweet, green, spicy, anise-like.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "罗勒"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "luólè"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Ocimum basilicum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, green, spicy, anise-like"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019914",
+        "https://www.gbif.org/species/2927096",
+        "https://zh.wikisource.org/wiki/本草綱目/菜之一"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "elsholtzia",
+      "name": "Elsholtzia",
+      "alternateName": [
+        "香薷",
+        "xiāngrú",
+        "Elsholtzia ciliata"
+      ],
+      "description": "香薷 (xiāngrú) is a Chinese botanical incense ingredient — Elsholtzia ciliata — with an aroma profile of minty, herbal, spicy, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "香薷"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngrú"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Elsholtzia ciliata"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "minty, herbal, spicy, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019619",
+        "https://www.gbif.org/species/2927075",
+        "https://zh.wikisource.org/wiki/本草綱目/草之三",
+        "https://zh.wikisource.org/wiki/香乘"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "aglaia",
+      "name": "Aglaia",
+      "alternateName": [
+        "米仔兰",
+        "mǐzǎilán",
+        "Aglaia odorata"
+      ],
+      "description": "米仔兰 (mǐzǎilán) is a Chinese botanical incense ingredient — Aglaia odorata — with an aroma profile of sweet, floral, fruity, delicate.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "米仔兰"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mǐzǎilán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Aglaia odorata"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, fruity, delicate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012497",
+        "https://www.gbif.org/species/5597349"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "peony",
+      "name": "Peony",
+      "alternateName": [
+        "芍药",
+        "sháoyào",
+        "Paeonia lactiflora"
+      ],
+      "description": "芍药 (sháoyào) is a Chinese botanical incense ingredient — Paeonia lactiflora — with an aroma profile of floral, rosy, sweet, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "芍药"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "sháoyào"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Paeonia lactiflora"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, rosy, sweet, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008034",
+        "https://www.gbif.org/species/3083486",
+        "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "anise",
+      "name": "Anise",
+      "alternateName": [
+        "茴芹",
+        "huíqín",
+        "Pimpinella anisum"
+      ],
+      "description": "茴芹 (huíqín) is a Chinese botanical incense ingredient — Pimpinella anisum — with an aroma profile of sweet, licorice, warm, spicy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "茴芹"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "huíqín"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Pimpinella anisum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, licorice, warm, spicy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015767",
+        "https://www.gbif.org/species/8080300"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "cumin",
+      "name": "Cumin",
+      "alternateName": [
+        "孜然",
+        "zīrán",
+        "Cuminum cyminum"
+      ],
+      "description": "孜然 (zīrán) is a Chinese botanical incense ingredient — Cuminum cyminum — with an aroma profile of warm, spicy, earthy, slightly bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "孜然"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zīrán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Cuminum cyminum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "warm, spicy, earthy, slightly bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/3034775"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "shellac",
+      "name": "Shellac",
+      "alternateName": [
+        "紫草茸",
+        "zǐcǎoróng",
+        "Kerria lacca (lac insect; formerly Laccifer lacca) — lac resin"
+      ],
+      "description": "紫草茸 (zǐcǎoróng) is a Chinese incense ingredient (insect-derived, not botanical) — lac resin, the secretion of the lac insect Kerria lacca (formerly Laccifer lacca) — with an aroma profile of resinous, waxy, subtle, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "紫草茸"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zǐcǎoróng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Kerria lacca (lac insect; formerly Laccifer lacca) — lac resin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "resinous, waxy, subtle, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/5812747",
+        "https://zh.wikisource.org/wiki/本草綱目/蟲之一",
+        "https://zh.wikisource.org/wiki/香乘"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "beeswax",
+      "name": "Beeswax",
+      "alternateName": [
+        "蜂蜡",
+        "fēnglà",
+        "Apis cerana & A. mellifera (bee product) — beeswax"
+      ],
+      "description": "蜂蜡 (fēnglà) is a Chinese incense ingredient (bee product, not botanical) — beeswax, the wax of honey bees (Apis cerana & A. mellifera) — with an aroma profile of waxy, honeyed, warm, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "蜂蜡"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "fēnglà"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Apis cerana & A. mellifera (bee product) — beeswax"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "waxy, honeyed, warm, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Animal-derived"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/1341979",
+        "https://www.gbif.org/species/1341976",
+        "https://zh.wikisource.org/wiki/本草綱目/蟲之一"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "torreya",
+      "name": "Torreya",
+      "alternateName": [
+        "香榧",
+        "xiāngfěi",
+        "Torreya grandis"
+      ],
+      "description": "香榧 (xiāngfěi) is a Chinese botanical incense ingredient — Torreya grandis — with an aroma profile of nutty, woody, resinous, roasted.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "香榧"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngfěi"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Torreya grandis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "nutty, woody, resinous, roasted"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Seeds"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005500",
+        "https://www.gbif.org/species/5284483",
+        "https://zh.wikisource.org/wiki/本草綱目/果之三"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "kumquat",
+      "name": "Kumquat",
+      "alternateName": [
+        "金橘",
+        "jīnjú",
+        "Citrus japonica (syn. Fortunella japonica)"
+      ],
+      "description": "金橘 (jīnjú) is a Chinese botanical incense ingredient — Citrus japonica (syn. Fortunella japonica) — with an aroma profile of citrus, sweet, floral, bright.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "金橘"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jīnjú"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Citrus japonica (syn. Fortunella japonica)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "citrus, sweet, floral, bright"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fruits"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242313265",
+        "https://www.gbif.org/species/3831801",
+        "https://zh.wikisource.org/wiki/本草綱目/果之二"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "castoreum",
+      "name": "Castoreum",
+      "alternateName": [
+        "海狸香",
+        "hǎilíxiāng",
+        "Castor fiber (Eurasian beaver) — animal secretion"
+      ],
+      "description": "海狸香 (hǎilíxiāng) is a Chinese incense ingredient (animal-derived, not botanical) — castoreum, a beaver (Castor fiber) secretion — with an aroma profile of animalic, leathery, smoky, sweet. Historical Western perfumery fixative; modern 'castoreum' is synthetic.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "海狸香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "hǎilíxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Castor fiber (Eurasian beaver) — animal secretion"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "animalic, leathery, smoky, sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Animal"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/4409131"
+      ]
     }
   ]
 }
