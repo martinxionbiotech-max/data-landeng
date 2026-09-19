@@ -1,5 +1,23 @@
-# Material Database (planned)
+# Material Database
 
-`Material · Type · Source · Processing · Physical characteristics · Aroma · Burning behavior · Applications`
+13 incense-making materials — binders, bases, cores, and loose aromatic materials — as `DefinedTerm` entities.
 
-Status: in production.
+Fields per entity: `termCode` · `name` · `alternateName` (Chinese, where applicable) · `description` · `additionalProperty` (Type / Source / Processing / Physical characteristics / Aroma / Burning behavior / Applications).
+
+| termCode | Name | Type |
+|---|---|---|
+| makko | Makko (抹香) | natural binder (combustible wood powder) |
+| bamboo-core | Bamboo Core | combustion base (core) |
+| wood-powder | Wood Powder / Chips | aromatic material (loose wood) |
+| resin | Resin | aromatic material (loose resin tears) |
+| charcoal | Charcoal | combustion base (synthetic filler) |
+| sawdust | Sawdust | combustion base (synthetic filler) |
+| honey | Honey (蜂蜜) | natural binder / fixative |
+| guar-gum | Guar Gum | natural binder (plant gum) |
+| gum-arabic | Gum Arabic | natural binder (plant gum) |
+| gum-tragacanth | Gum Tragacanth | natural binder (plant gum) |
+| synthetic-binder | Synthetic Binder | synthetic binder (chemical adhesive) |
+| fragrance-oil | Fragrance Oil | synthetic aromatic material |
+| cypress-seed | Cypress Seed (柏子) | aromatic material (seed) |
+
+[Download the JSON](datasets/materials.json)

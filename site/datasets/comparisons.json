@@ -1,0 +1,508 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://data-landeng.example/datasets/comparisons.json",
+  "name": "LanDeng Incense Comparison Database",
+  "description": "Machine-readable comparison profiles for Chinese botanical incense formats and materials — aroma, smoke, burn characteristics, traditional context, common uses, and quality factors. Extracted from the LanDeng (澜灯) incense encyclopedia comparison tables; every value is traceable to a source page and nothing is fabricated.",
+  "url": "https://data-landeng.example/datasets/comparisons.json",
+  "publisher": {
+    "@id": "https://example.com/#organization"
+  },
+  "dateModified": "2026-09-19",
+  "inLanguage": [
+    "en",
+    "zh"
+  ],
+  "isAccessibleForFree": true,
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://data-landeng.example/datasets/comparisons.json"
+  },
+  "mainEntity": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "incense-stick",
+      "name": "Incense Stick",
+      "alternateName": [
+        "线香"
+      ],
+      "description": "Incense stick (线香) — the everyday default incense format, burning roughly 20–60 minutes with moderate smoke.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Incense stick (线香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "moderate (low–moderate for thin/coreless sticks)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "~20–60 min (thin/coreless ~20–40 min; standard ~30–60 min)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "daily use, meditation, timed sessions; the everyday default"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "incense-cone",
+      "name": "Incense Cone",
+      "description": "Incense cone — a short-burn format, often chosen for a quick ritual or the backflow visual effect.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Incense cone"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "moderate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "~10–15 min (format guide); ~15–30 min (burn-time matrix)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "short ritual, quick accent; backflow visual effect"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "backflow-cone",
+      "name": "Backflow Cone",
+      "alternateName": [
+        "倒流香"
+      ],
+      "description": "Backflow cone (倒流香) — a hollow cone with a central channel, chosen almost entirely for its downward-smoke waterfall effect.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Backflow cone (倒流香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "high (visual)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "~10–15 min"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "the waterfall-smoke visual effect"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "incense-coil",
+      "name": "Incense Coil",
+      "alternateName": [
+        "盘香"
+      ],
+      "description": "Incense coil (盘香) — the hours-long format, for long, steady room scent.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Incense coil (盘香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "low–moderate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "~1.5–4 hours (larger coils longer)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "long, continuous room scent; temples, long ceremonies"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "aromatherapy-beads",
+      "name": "Aromatherapy Beads",
+      "description": "Aromatherapy beads — scented bracelets worn (not burned), a portable, zero-smoke option.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Aromatherapy beads"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "none (worn, not burned)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "n/a — not burned"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "portable scent, no burning"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "incense-powder",
+      "name": "Incense Powder",
+      "alternateName": [
+        "香粉"
+      ],
+      "description": "Incense powder (香粉) — loose ground wood pressed into seal patterns or heated; a pure-material, method-dependent form.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Incense powder (香粉) / wood powder"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "pure-material scent — the actual ground wood"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "varies by method — minimal (heated) to moderate (lit seal pattern)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "method-dependent; wood powder smolders-warms (vs. resin, which melts); pressed seal pattern is lit"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "篆香 (seal incense) — powder pressed into patterns"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "seal patterns (篆香), custom blends; pure-material scent"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "wood-chips",
+      "name": "Wood Chips",
+      "alternateName": [
+        "木片"
+      ],
+      "description": "Wood chips (木片) — ground or cut agarwood or sandalwood chips, heated to release a slow, complex aroma.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Wood chips (木片) — agarwood / sandalwood"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "slow, complex aroma as the wood warms"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "minimal (heated on electric heater) to higher (charcoal)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "smolders-warms (vs. resin, which melts); heated, not burned"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "low-smoke, controlled appreciation; the pure-material format"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "incense-resin",
+      "name": "Incense Resin",
+      "alternateName": [
+        "树脂"
+      ],
+      "description": "Incense resin (树脂) — loose resin tears (frankincense, myrrh) heated rather than burned for a low-smoke, pure-material scent.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Incense resin (树脂) — frankincense / myrrh tears"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "rich, fresh scent released on heat"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "minimal (electric heater) / higher (charcoal)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "heated, not burned; resin melts and releases scent (vs. wood, which smolders-warms)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "隔火焚香 (indirect-fire incense) — the refined low-smoke method"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "low-smoke, controlled aroma; traditional bakhoor-style"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "agarwood",
+      "name": "Agarwood",
+      "alternateName": [
+        "沉香"
+      ],
+      "description": "沉香 (agarwood) — resin-saturated Aquilaria heartwood with a deep, resinous, sweet, complex aroma.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Agarwood (沉香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "deep, resinous, sweet, complex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "base note; the most prized material"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality factors",
+          "value": "very high substitution risk (oil-injection fakes, unrelated woods); highest relative price (奇楠 at the top of the market)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "sandalwood",
+      "name": "Sandalwood",
+      "alternateName": [
+        "檀香"
+      ],
+      "description": "檀香 (sandalwood) — Santalum album heartwood with a creamy, sweet, soft-woody aroma.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Sandalwood (檀香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "creamy, sweet, soft-woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "base note; the classic calm wood"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality factors",
+          "value": "high substitution risk (other Santalum species, fragrance oil); mid–high relative price"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "frankincense",
+      "name": "Frankincense",
+      "alternateName": [
+        "乳香"
+      ],
+      "description": "乳香 (frankincense) — Boswellia resin with a fresh, resinous, citrus-woody aroma.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Frankincense (乳香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "fresh, resinous, citrus-woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "bright, focusing note; ritual use"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality factors",
+          "value": "low substitution risk (usually real resin); low–mid relative price"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "borneol",
+      "name": "Borneol",
+      "alternateName": [
+        "龙脑"
+      ],
+      "description": "龙脑 (borneol) — Dryobalanops aromatica resin distillate with a cool, sharp, camphor-like aroma.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Borneol (龙脑)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "cool, sharp, camphor-like"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "cooling top note ('snow' in 雪中春信)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality factors",
+          "value": "high substitution risk (synthetic borneol often sold as 'natural'); mid relative price"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "benzoin",
+      "name": "Benzoin",
+      "alternateName": [
+        "安息香"
+      ],
+      "description": "安息香 (benzoin) — Styrax resin with a sweet, vanilla-like, warm aroma.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Benzoin (安息香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, vanilla-like, warm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "fixative; sweet base"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality factors",
+          "value": "medium substitution risk (Siam vs Sumatra grades differ); low–mid relative price"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "myrrh",
+      "name": "Myrrh",
+      "alternateName": [
+        "没药"
+      ],
+      "description": "没药 (myrrh) — Commiphora resin with a bitter, earthy, balsamic aroma.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Myrrh (没药)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "bitter, earthy, balsamic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "deep, grounding note; ritual use"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality factors",
+          "value": "low substitution risk (usually real resin); low relative price"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "clove",
+      "name": "Clove",
+      "alternateName": [
+        "丁香"
+      ],
+      "description": "丁香 (clove) — Syzygium aromaticum flower buds with a spicy, sweet, warm aroma.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Clove (丁香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "spicy, sweet, warm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "spice accent; fixative"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Quality factors",
+          "value": "low–medium substitution risk (clove vs 'clove bark' 丁皮 differ); low relative price"
+        }
+      ]
+    }
+  ]
+}

@@ -7,7 +7,7 @@ Machine-readable, link-worthy knowledge datasets for the LanDeng (澜灯) platfo
 | Ingredient database | [datasets/ingredients.json](datasets/ingredients.json) | live (22 entities) |
 | Terminology database | [datasets/terminology.json](datasets/terminology.json) | live (104 terms, CC BY-SA 4.0) |
 | Aroma database | [datasets/aroma.json](datasets/aroma.json) | live (10 aroma families) |
-| Material database | datasets/materials.json | planned |
-| Comparison database | datasets/comparisons.json | planned |
+| Material database | [datasets/materials.json](datasets/materials.json) | live (13 entities) |
+| Comparison database | [datasets/comparisons.json](datasets/comparisons.json) | live (15 profiles) |
 
 All datasets use Schema.org `Dataset` + `DefinedTerm` structures. See [Format & Governance](format.md).
