@@ -8,7 +8,7 @@ Per `ORIGINAL-DATA-ASSETS.md` (LanDeng main repo): every dataset must be accurat
 
 | Dataset | File | Status |
 |---|---|---|
-| Ingredient database | datasets/ingredients.json | live (46 entities) |
+| Ingredient database | datasets/ingredients.json | live (58 entities) |
 | Terminology database | datasets/terminology.json | live (104 terms, CC BY-SA 4.0) |
 | Aroma database | datasets/aroma.json | live (10 aroma families) |
 | Material database | datasets/materials.json | live (15 entities) |

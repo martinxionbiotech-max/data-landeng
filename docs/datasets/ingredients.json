@@ -2181,6 +2181,566 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005428",
         "https://www.gbif.org/species/2684855"
       ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "musk",
+      "name": "Musk",
+      "alternateName": [
+        "麝香",
+        "shèxiāng",
+        "Moschus spp. (musk deer) — an animal secretion, not botanical"
+      ],
+      "description": "麝香 (shèxiāng) is a Chinese incense ingredient (animal-derived, not botanical) — musk, a musk deer (Moschus spp.) secretion — with an aroma profile of animalic, musky, sweet, warm. Most 'musk' today is synthetic.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "麝香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shèxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Moschus spp. (musk deer) — an animal secretion, not botanical"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "animalic, musky, sweet, warm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Animal"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/2440988",
+        "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Moschus%20moschiferus"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "onycha",
+      "name": "Onycha",
+      "alternateName": [
+        "甲香",
+        "jiǎxiāng",
+        "operculum of marine gastropods (mollusc) — animal-derived, not botanical"
+      ],
+      "description": "甲香 (jiǎxiāng) is a Chinese incense ingredient (animal-derived, not botanical) — onycha, the operculum of marine gastropods — with an aroma profile of marine, briny, animalic, musky.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "甲香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jiǎxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "operculum of marine gastropods (mollusc) — animal-derived, not botanical"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "marine, briny, animalic, musky"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Animal-derived"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/225"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "lotus-flower",
+      "name": "Lotus Flower",
+      "alternateName": [
+        "莲花",
+        "liánhuā",
+        "Nelumbo nucifera"
+      ],
+      "description": "莲花 (liánhuā) is a Chinese botanical incense ingredient — Nelumbo nucifera — with an aroma profile of floral, sweet, aquatic, fresh.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "莲花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "liánhuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Nelumbo nucifera"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, sweet, aquatic, fresh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200007079",
+        "https://www.gbif.org/species/2882449"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "cubeb",
+      "name": "Cubeb",
+      "alternateName": [
+        "荜澄茄",
+        "bìchéngqié",
+        "Piper cubeba"
+      ],
+      "description": "荜澄茄 (bìchéngqié) is a Chinese botanical incense ingredient — Piper cubeba — with an aroma profile of spicy, peppery, woody, camphoraceous.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "荜澄茄"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bìchéngqié"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Piper cubeba"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "spicy, peppery, woody, camphoraceous"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/7606629"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "long-pepper",
+      "name": "Long Pepper",
+      "alternateName": [
+        "荜茇",
+        "bìbá",
+        "Piper longum"
+      ],
+      "description": "荜茇 (bìbá) is a Chinese botanical incense ingredient — Piper longum — with an aroma profile of spicy, pungent, warm, sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "荜茇"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bìbá"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Piper longum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "spicy, pungent, warm, sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005574",
+        "https://www.gbif.org/species/3086338"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "coriander-seed",
+      "name": "Coriander Seed",
+      "alternateName": [
+        "芫荽籽",
+        "yánsuī zǐ",
+        "Coriandrum sativum"
+      ],
+      "description": "芫荽籽 (yánsuī zǐ) is a Chinese botanical incense ingredient — Coriandrum sativum — with an aroma profile of citrus, woody, spicy, floral.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "芫荽籽"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yánsuī zǐ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Coriandrum sativum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "citrus, woody, spicy, floral"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Seeds"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015503",
+        "https://www.gbif.org/species/3034871"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "litchi-husk",
+      "name": "Litchi Husk",
+      "alternateName": [
+        "荔枝壳",
+        "lìzhī ké",
+        "Litchi chinensis (the husk / pericarp)"
+      ],
+      "description": "荔枝壳 (lìzhī ké) is a Chinese botanical incense ingredient — Litchi chinensis (the husk / pericarp) — with an aroma profile of fruity, sweet, floral, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "荔枝壳"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "lìzhī ké"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Litchi chinensis (the husk / pericarp)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "fruity, sweet, floral, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Peels"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013205",
+        "https://www.gbif.org/species/3190002"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "galangal",
+      "name": "Galangal",
+      "alternateName": [
+        "高良姜",
+        "gāoliángjiāng",
+        "Alpinia officinarum"
+      ],
+      "description": "高良姜 (gāoliángjiāng) is a Chinese botanical incense ingredient — Alpinia officinarum — with an aroma profile of spicy, gingery, camphoraceous, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "高良姜"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "gāoliángjiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Alpinia officinarum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "spicy, gingery, camphoraceous, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028288",
+        "https://www.gbif.org/species/5302199"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "dragons-blood",
+      "name": "Dragon's Blood",
+      "alternateName": [
+        "血竭",
+        "xuèjié",
+        "Daemonorops draco (syn. Calamus draco) — the fruit resin"
+      ],
+      "description": "血竭 (xuèjié) is a Chinese botanical incense ingredient — Daemonorops draco (syn. Calamus draco) — the fruit resin — with an aroma profile of resinous, sweet, woody, balsamic.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "血竭"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xuèjié"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Daemonorops draco (syn. Calamus draco) — the fruit resin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "resinous, sweet, woody, balsamic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/2735014"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "paicao",
+      "name": "Paicao",
+      "alternateName": [
+        "排草",
+        "páicǎo",
+        "Lysimachia capillipes"
+      ],
+      "description": "排草 (páicǎo) is a Chinese botanical incense ingredient — Lysimachia capillipes — with an aroma profile of herbal, sweet, hay-like, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "排草"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "páicǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Lysimachia capillipes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, sweet, hay-like, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200016984",
+        "https://www.gbif.org/species/4005914"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "rue",
+      "name": "Rue",
+      "alternateName": [
+        "芸香",
+        "yúnxiāng",
+        "Ruta graveolens"
+      ],
+      "description": "芸香 (yúnxiāng) is a Chinese botanical incense ingredient — Ruta graveolens — with an aroma profile of bitter, herbal, green, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "芸香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yúnxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Ruta graveolens"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "bitter, herbal, green, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/3190382"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "bletilla",
+      "name": "Bletilla",
+      "alternateName": [
+        "白及",
+        "báijí",
+        "Bletilla striata"
+      ],
+      "description": "白及 (báijí) is a Chinese botanical incense ingredient — Bletilla striata — with an aroma profile of neutral, slightly sweet, earthy, starchy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "白及"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "báijí"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Bletilla striata"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "neutral, slightly sweet, earthy, starchy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028535",
+        "https://www.gbif.org/species/2808791"
+      ]
     }
   ]
 }
