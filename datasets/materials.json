@@ -84,6 +84,16 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Processing",
+          "value": "coated with incense paste (hand-rolled onto the splint) or machine-coated/dipped in fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Physical characteristics",
+          "value": "a thin bamboo splint"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Burning behavior",
           "value": "serves as the combustion base that keeps the stick burning evenly"
         },
@@ -416,8 +426,18 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Physical characteristics",
+          "value": "a manufactured liquid scent (dipped/coated onto a base)"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Aroma",
           "value": "strong, uniform, often 'perfumey'"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burning behavior",
+          "value": "carried on a neutral base (charcoal/sawdust) that burns; fragrance-oil sticks burn with a louder, uniform 'perfumy' character"
         },
         {
           "@type": "PropertyValue",
@@ -470,6 +490,85 @@
           "@type": "PropertyValue",
           "name": "Applications",
           "value": "the single-material 柏子香 incense; a cheap, simple scholar's incense"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "plum-powder",
+      "name": "White Plum",
+      "alternateName": [
+        "白梅",
+        "bái méi"
+      ],
+      "description": "白梅 (bái méi) — the dried/pickled white plum — is the fruit material that builds the tart-sweet 'plum' character in the 梅花香 (plum-blossom) accord.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "aromatic material (dried fruit)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "white plum (白梅), the dried/pickled plum fruit — /blog/shouyang-princess-plum-recipe/"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Processing",
+          "value": "roasted dry and ground to a coarse powder, then aged (窨) in a sealed vessel for a month before burning"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "tart-sweet 'plum' character — an accord, not the flower"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Applications",
+          "value": "the 佐 (assistant) 'plum' note in 梅花香 / 寿阳公主梅花香"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "clove-powder",
+      "name": "Clove Powder",
+      "alternateName": [
+        "丁香",
+        "dīngxiāng"
+      ],
+      "description": "丁香 (dīngxiāng) — the dried flower bud of Syzygium aromaticum — is a warm-spice aromatic material used ground or whole in 合香 blends.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "aromatic material (spice — dried flower bud)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "Syzygium aromaticum dried flower buds (丁香) — /ingredients/clove/"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Processing",
+          "value": "buds harvested before opening and dried; sold whole or ground"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Physical characteristics",
+          "value": "dark, brown 'nail'-shaped dried buds"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "spicy, warm, aromatic (eugenol)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Applications",
+          "value": "spice accent in 合香 blends; a five-spice (五香粉) component"
         }
       ]
     }

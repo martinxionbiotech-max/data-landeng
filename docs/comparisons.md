@@ -1,8 +1,8 @@
 # Comparison Database
 
-15 comparison profiles — incense formats and classical materials — as `DefinedTerm` entities.
+17 comparison profiles — incense formats and classical materials — as `DefinedTerm` entities.
 
-Fields per entity: `termCode` · `name` · `alternateName` (Chinese, where applicable) · `description` · `additionalProperty` (Material / Aroma / Smoke / Burn characteristics / Traditional context / Common uses / Quality factors).
+Fields per entity: `termCode` · `name` · `alternateName` (Chinese, where applicable) · `description` · `additionalProperty` (Material / Aroma / Smoke / Burn characteristics / Traditional context / Common uses / Quality factors / Source).
 
 | termCode | Name | Category |
 |---|---|---|
@@ -21,5 +21,7 @@ Fields per entity: `termCode` · `name` · `alternateName` (Chinese, where appli
 | benzoin | Benzoin (安息香) | material |
 | myrrh | Myrrh (没药) | material |
 | clove | Clove (丁香) | material |
+| incense-pill | Incense Pill (香丸) | format |
+| seal-incense | Seal Incense (香篆) | format |
 
 [Download the JSON](datasets/comparisons.json)

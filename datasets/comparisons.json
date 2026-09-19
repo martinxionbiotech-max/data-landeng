@@ -46,8 +46,18 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "the everyday form, perfected in the Ming dynasty (线香)"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Common uses",
           "value": "daily use, meditation, timed sessions; the everyday default"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/blog/history-of-chinese-incense/"
         }
       ]
     },
@@ -74,8 +84,18 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "a modern convenience form, not a classical shape"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Common uses",
           "value": "short ritual, quick accent; backflow visual effect"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/blog/what-is-chinese-incense/"
         }
       ]
     },
@@ -241,8 +261,18 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "heated (隔火焚香, indirect-fire incense) rather than burned — the refined low-smoke method"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Common uses",
           "value": "low-smoke, controlled appreciation; the pure-material format"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/blog/incense-powder-resin/"
         }
       ]
     },
@@ -308,6 +338,21 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "white smoke with oil seepage when burned (a sign of genuine material); minimal when gently heated"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "smolders-warms (wood); heated (隔火焚香) rather than flamed — a direct flame destroys the delicate top notes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "one of the classical materials (沉香), imported via the Silk Road and maritime trade in the Wei–Jin period; the benchmark of fragrance in Chinese connoisseurship"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Common uses",
           "value": "base note; the most prized material"
         },
@@ -315,6 +360,11 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "very high substitution risk (oil-injection fakes, unrelated woods); highest relative price (奇楠 at the top of the market)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/blog/agarwood-incense/"
         }
       ]
     },
@@ -339,6 +389,16 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "smolders-warms (wood); burns slowly with a slow, developing 'cooked' aroma"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "a classical material (檀香), imported via the Silk Road and maritime trade; burned in Buddhist and Taoist temples and ritual"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Common uses",
           "value": "base note; the classic calm wood"
         },
@@ -346,6 +406,11 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "high substitution risk (other Santalum species, fragrance oil); mid–high relative price"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/blog/sandalwood-incense/"
         }
       ]
     },
@@ -370,6 +435,21 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "minimal on an electric heater, higher on a charcoal disc"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "melts on heat (resin); heated, not burned"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "one of the world's oldest incense resins, used for religious ritual and fumigation; classically paired with myrrh (没药)"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Common uses",
           "value": "bright, focusing note; ritual use"
         },
@@ -377,6 +457,11 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "low substitution risk (usually real resin); low–mid relative price"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/ingredients/frankincense/"
         }
       ]
     },
@@ -401,6 +486,11 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "the classic cooling top note ('snow' in 雪中春信); 冰片 (bīngpiàn) in materia medica"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Common uses",
           "value": "cooling top note ('snow' in 雪中春信)"
         },
@@ -408,6 +498,11 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "high substitution risk (synthetic borneol often sold as 'natural'); mid relative price"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/ingredients/borneol/"
         }
       ]
     },
@@ -432,6 +527,21 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "minimal on an electric heater (avoids charcoal smoke)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "resin — burned on a charcoal disc or warmed on an electric heater (like other resins)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "安息香 glossed as 'the fragrance of Parthia (安息)', reflecting its ancient overland trade origin; a sweet base in 合香"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Common uses",
           "value": "fixative; sweet base"
         },
@@ -439,6 +549,11 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "medium substitution risk (Siam vs Sumatra grades differ); low–mid relative price"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/ingredients/benzoin/"
         }
       ]
     },
@@ -463,6 +578,21 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "lower on an electric heater; higher on charcoal"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "melts on heat (resin)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "a classical resin, classically paired with frankincense (乳香); ritual and incense use"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Common uses",
           "value": "deep, grounding note; ritual use"
         },
@@ -470,6 +600,11 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "low substitution risk (usually real resin); low relative price"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/ingredients/myrrh/"
         }
       ]
     },
@@ -494,6 +629,11 @@
         },
         {
           "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "a classic warm-spice in 合香 blends; a five-spice (五香粉) component"
+        },
+        {
+          "@type": "PropertyValue",
           "name": "Common uses",
           "value": "spice accent; fixative"
         },
@@ -501,6 +641,96 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "low–medium substitution risk (clove vs 'clove bark' 丁皮 differ); low relative price"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/ingredients/clove/"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "incense-pill",
+      "name": "Incense Pill",
+      "alternateName": [
+        "香丸",
+        "xiāngwán"
+      ],
+      "description": "Incense pill (香丸) — a kneaded compound-incense pellet, bound with honey, rolled into pills, and air-dried.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Incense pill (香丸) — kneaded 合香 pellet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "compound (合香) — depends on the blend"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "blend bound with a binder (honey), rolled into pills, coated and air-dried before burning"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "香丸 — the classical kneaded-pellet form of 合香 (bound with honey, e.g. 二苏旧局)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "classical 合香 delivery form; burned as a pellet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/blog/hexiang-blending-system/"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "seal-incense",
+      "name": "Seal Incense",
+      "alternateName": [
+        "香篆",
+        "zhuàn xiāng",
+        "打香印"
+      ],
+      "description": "Seal incense (香篆, also 打香印) — incense powder pressed into a carved pattern with a mold and lit at one end, so the pattern burns in sequence.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Material",
+          "value": "Seal incense (香篆) — powder pressed into a carved pattern"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke",
+          "value": "moderate (powder lit along the pattern)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn characteristics",
+          "value": "lit at one end; burns along a timed path, duration set by the pattern's length"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Traditional context",
+          "value": "香篆 (also 打香印) — the 'incense clock': visual art + timekeeping before mechanical clocks"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Common uses",
+          "value": "timekeeping, meditation, visual ritual"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Source",
+          "value": "/blog/incense-seal-zhuanxiang/"
         }
       ]
     }

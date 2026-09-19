@@ -1,6 +1,6 @@
 # Material Database
 
-13 incense-making materials — binders, bases, cores, and loose aromatic materials — as `DefinedTerm` entities.
+15 incense-making materials — binders, bases, cores, and loose aromatic materials — as `DefinedTerm` entities.
 
 Fields per entity: `termCode` · `name` · `alternateName` (Chinese, where applicable) · `description` · `additionalProperty` (Type / Source / Processing / Physical characteristics / Aroma / Burning behavior / Applications).
 
@@ -19,5 +19,7 @@ Fields per entity: `termCode` · `name` · `alternateName` (Chinese, where appli
 | synthetic-binder | Synthetic Binder | synthetic binder (chemical adhesive) |
 | fragrance-oil | Fragrance Oil | synthetic aromatic material |
 | cypress-seed | Cypress Seed (柏子) | aromatic material (seed) |
+| plum-powder | White Plum (白梅) | aromatic material (dried fruit) |
+| clove-powder | Clove Powder (丁香) | aromatic material (spice — dried flower bud) |
 
 [Download the JSON](datasets/materials.json)
