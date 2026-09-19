@@ -3304,6 +3304,567 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242412666",
         "https://www.gbif.org/species/3190160"
       ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "thuja",
+      "name": "Thuja",
+      "alternateName": [
+        "崖柏",
+        "yábǎi",
+        "Thuja sutchuenensis"
+      ],
+      "description": "崖柏 (yábǎi) is a Chinese botanical incense ingredient — Thuja sutchuenensis — with an aroma profile of woody, cedar-like, resinous, slightly smoky.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "崖柏"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yábǎi"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Thuja sutchuenensis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "woody, cedar-like, resinous, slightly smoky"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Woods"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005459",
+        "https://www.gbif.org/species/2684170"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "banksia-rose",
+      "name": "Banksia Rose",
+      "alternateName": [
+        "木香花",
+        "mùxiānghuā",
+        "Rosa banksiae"
+      ],
+      "description": "木香花 (mùxiānghuā) is a Chinese botanical incense ingredient — Rosa banksiae — with an aroma profile of sweet, floral, honeyed, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "木香花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mùxiānghuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Rosa banksiae"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, honeyed, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011215",
+        "https://www.gbif.org/species/3004247"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "jasmine-grandiflorum",
+      "name": "Spanish Jasmine",
+      "alternateName": [
+        "素馨",
+        "sùxīn",
+        "Jasminum grandiflorum"
+      ],
+      "description": "素馨 (sùxīn) is a Chinese botanical incense ingredient — Jasminum grandiflorum — with an aroma profile of sweet, floral, heady, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "素馨"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "sùxīn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Jasminum grandiflorum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, heady, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210000862",
+        "https://www.gbif.org/species/3172262"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yulan-magnolia",
+      "name": "Yulan Magnolia",
+      "alternateName": [
+        "玉兰",
+        "yùlán",
+        "Magnolia denudata"
+      ],
+      "description": "玉兰 (yùlán) is a Chinese botanical incense ingredient — Magnolia denudata — with an aroma profile of floral, fresh, green, slightly lemony.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "玉兰"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yùlán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Magnolia denudata"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, fresh, green, slightly lemony"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250090269",
+        "https://www.gbif.org/species/3153582"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "honeysuckle",
+      "name": "Honeysuckle",
+      "alternateName": [
+        "金银花",
+        "jīnyínhuā",
+        "Lonicera japonica"
+      ],
+      "description": "金银花 (jīnyínhuā) is a Chinese botanical incense ingredient — Lonicera japonica — with an aroma profile of sweet, floral, honeyed, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "金银花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jīnyínhuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Lonicera japonica"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, honeyed, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022324",
+        "https://www.gbif.org/species/5334240"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "amomum-villosum",
+      "name": "Amomum villosum",
+      "alternateName": [
+        "砂仁",
+        "shārén",
+        "Amomum villosum (syn. Wurfbainia villosa)"
+      ],
+      "description": "砂仁 (shārén) is a Chinese botanical incense ingredient — Amomum villosum (syn. Wurfbainia villosa) — with an aroma profile of spicy, camphoraceous, warm, slightly bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "砂仁"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shārén"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Amomum villosum (syn. Wurfbainia villosa)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "spicy, camphoraceous, warm, slightly bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028347",
+        "https://www.gbif.org/species/11082522"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "tsao-ko",
+      "name": "Tsaoko",
+      "alternateName": [
+        "草果",
+        "cǎoguǒ",
+        "Amomum tsao-ko (FOC: Amomum tsaoko; syn. Lanxangia tsao-ko)"
+      ],
+      "description": "草果 (cǎoguǒ) is a Chinese botanical incense ingredient — Amomum tsao-ko (FOC: Amomum tsaoko; syn. Lanxangia tsao-ko) — with an aroma profile of smoky, spicy, camphoraceous, warm.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "草果"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "cǎoguǒ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Amomum tsao-ko (FOC: Amomum tsaoko; syn. Lanxangia tsao-ko)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "smoky, spicy, camphoraceous, warm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=240001100",
+        "https://www.gbif.org/species/10966714"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "galbanum",
+      "name": "Galbanum",
+      "alternateName": [
+        "白松香",
+        "báisōngxiāng",
+        "Ferula gummosa"
+      ],
+      "description": "白松香 (báisōngxiāng) is a Chinese botanical incense ingredient — Ferula gummosa — with an aroma profile of green, balsamic, earthy, sharp.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "白松香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "báisōngxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Ferula gummosa"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "green, balsamic, earthy, sharp"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/3034683"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "bay-leaf",
+      "name": "Bay Leaf",
+      "alternateName": [
+        "月桂叶",
+        "yuèguì yè",
+        "Laurus nobilis"
+      ],
+      "description": "月桂叶 (yuèguì yè) is a Chinese botanical incense ingredient — Laurus nobilis — with an aroma profile of herbal, camphoraceous, fresh, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "月桂叶"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yuèguì yè"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Laurus nobilis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, camphoraceous, fresh, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/3034015"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "rosemary",
+      "name": "Rosemary",
+      "alternateName": [
+        "迷迭香",
+        "mídiéxiāng",
+        "Salvia rosmarinus (syn. Rosmarinus officinalis)"
+      ],
+      "description": "迷迭香 (mídiéxiāng) is a Chinese botanical incense ingredient — Salvia rosmarinus (syn. Rosmarinus officinalis) — with an aroma profile of herbal, camphoraceous, fresh, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "迷迭香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mídiéxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Salvia rosmarinus (syn. Rosmarinus officinalis)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, camphoraceous, fresh, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/10902460"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "finger-citron",
+      "name": "Finger Citron",
+      "alternateName": [
+        "佛手",
+        "fóshǒu",
+        "Citrus medica var. sarcodactylis"
+      ],
+      "description": "佛手 (fóshǒu) is a Chinese botanical incense ingredient — Citrus medica var. sarcodactylis — with an aroma profile of citrus, floral, sweet, bright.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "佛手"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "fóshǒu"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Citrus medica var. sarcodactylis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "citrus, floral, sweet, bright"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fruits"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012432",
+        "https://www.gbif.org/species/3190157"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "citron",
+      "name": "Citron",
+      "alternateName": [
+        "香橼",
+        "xiāngyuán",
+        "Citrus medica"
+      ],
+      "description": "香橼 (xiāngyuán) is a Chinese botanical incense ingredient — Citrus medica — with an aroma profile of citrus, floral, sweet, slightly bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "香橼"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngyuán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Citrus medica"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "citrus, floral, sweet, slightly bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fruits"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012432",
+        "https://www.gbif.org/species/3190157"
+      ]
     }
   ]
 }
