@@ -855,6 +855,462 @@
           "value": "marine, sweet, earthy, waxy"
         }
       ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "agastache-rugosa",
+      "name": "Agastache",
+      "alternateName": [
+        "藿香",
+        "huòxiāng",
+        "Agastache rugosa"
+      ],
+      "description": "藿香 (huòxiāng) is a Chinese botanical incense ingredient — Agastache rugosa — with an aroma profile of minty, herbal, sweet, anise-like.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "藿香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "huòxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Agastache rugosa"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "minty, herbal, sweet, anise-like"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "atractylodes",
+      "name": "Atractylodes",
+      "alternateName": [
+        "苍术",
+        "cāngzhú",
+        "Atractylodes lancea"
+      ],
+      "description": "苍术 (cāngzhú) is a Chinese botanical incense ingredient — Atractylodes lancea — with an aroma profile of herbal, woody, pungent, earthy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "苍术"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "cāngzhú"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Atractylodes lancea"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, woody, pungent, earthy"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "borneol-oil",
+      "name": "Borneol Oil",
+      "alternateName": [
+        "龙脑油",
+        "lóngnǎo yóu",
+        "Dryobalanops aromatica (Borneo camphor tree); also Cinnamomum camphora"
+      ],
+      "description": "龙脑油 (lóngnǎo yóu) is a Chinese botanical incense ingredient — Dryobalanops aromatica (Borneo camphor tree); also Cinnamomum camphora — with an aroma profile of camphoraceous, cooling, balsamic, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "龙脑油"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "lóngnǎo yóu"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Dryobalanops aromatica (Borneo camphor tree); also Cinnamomum camphora"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "camphoraceous, cooling, balsamic, woody"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "cardamom",
+      "name": "Cardamom",
+      "alternateName": [
+        "白豆蔻",
+        "báidòukòu",
+        "Amomum kravanh (white/round cardamom)"
+      ],
+      "description": "白豆蔻 (báidòukòu) is a Chinese botanical incense ingredient — Amomum kravanh (white/round cardamom) — with an aroma profile of camphoraceous, spicy, eucalyptus, warm.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "白豆蔻"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "báidòukòu"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Amomum kravanh (white/round cardamom)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "camphoraceous, spicy, eucalyptus, warm"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "cyperus",
+      "name": "Cyperus",
+      "alternateName": [
+        "香附子",
+        "xiāngfùzǐ",
+        "Cyperus rotundus"
+      ],
+      "description": "香附子 (xiāngfùzǐ) is a Chinese botanical incense ingredient — Cyperus rotundus — with an aroma profile of woody, spicy, earthy, smoky.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "香附子"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngfùzǐ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Cyperus rotundus"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "woody, spicy, earthy, smoky"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "jiangzhenxiang",
+      "name": "Jiangzhenxiang",
+      "alternateName": [
+        "降真香",
+        "jiàngzhēnxiāng",
+        "Acronychia pedunculata (classical); cf. Dalbergia odorifera (modern conflation)"
+      ],
+      "description": "降真香 (jiàngzhēnxiāng) is a Chinese botanical incense ingredient — Acronychia pedunculata (classical); cf. Dalbergia odorifera (modern conflation) — with an aroma profile of woody, sweet, resinous, subtle.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "降真香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jiàngzhēnxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Acronychia pedunculata (classical); cf. Dalbergia odorifera (modern conflation)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "woody, sweet, resinous, subtle"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "linglingxiang",
+      "name": "Linglingxiang",
+      "alternateName": [
+        "零陵香",
+        "línglíngxiāng",
+        "Lysimachia foenum-graecum"
+      ],
+      "description": "零陵香 (línglíngxiāng) is a Chinese botanical incense ingredient — Lysimachia foenum-graecum — with an aroma profile of sweet, hay-like, herbaceous, coumarin.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "零陵香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "línglíngxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Lysimachia foenum-graecum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, hay-like, herbaceous, coumarin"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "orris-root",
+      "name": "Orris Root",
+      "alternateName": [
+        "鸢尾根",
+        "yuānwěi gēn",
+        "Iris germanica / I. pallida (orris); cf. Iris tectorum (Chinese iris)"
+      ],
+      "description": "鸢尾根 (yuānwěi gēn) is a Chinese botanical incense ingredient — Iris germanica / I. pallida (orris); cf. Iris tectorum (Chinese iris) — with an aroma profile of powdery, floral, violet, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "鸢尾根"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yuānwěi gēn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Iris germanica / I. pallida (orris); cf. Iris tectorum (Chinese iris)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "powdery, floral, violet, woody"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "plum-blossom",
+      "name": "Plum Blossom",
+      "alternateName": [
+        "梅花",
+        "méihuā",
+        "Prunus mume (syn. Armeniaca mume)"
+      ],
+      "description": "梅花 (méihuā) is a Chinese botanical incense ingredient — Prunus mume (syn. Armeniaca mume) — with an aroma profile of delicate, sweet, almondy, green-floral.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "梅花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "méihuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Prunus mume (syn. Armeniaca mume)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "delicate, sweet, almondy, green-floral"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "spikenard-nardostachys",
+      "name": "Spikenard",
+      "alternateName": [
+        "甘松",
+        "gānsōng",
+        "Nardostachys jatamansi"
+      ],
+      "description": "甘松 (gānsōng) is a Chinese botanical incense ingredient — Nardostachys jatamansi — with an aroma profile of earthy, woody, sweet, musky.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "甘松"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "gānsōng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Nardostachys jatamansi"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "earthy, woody, sweet, musky"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "star-anise",
+      "name": "Star Anise",
+      "alternateName": [
+        "八角",
+        "bājiǎo",
+        "Illicium verum"
+      ],
+      "description": "八角 (bājiǎo) is a Chinese botanical incense ingredient — Illicium verum — with an aroma profile of sweet, licorice, warm, spicy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "八角"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bājiǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Illicium verum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, licorice, warm, spicy"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "styrax-resin",
+      "name": "Storax",
+      "alternateName": [
+        "苏合香",
+        "sūhéxiāng",
+        "Liquidambar orientalis (Oriental sweetgum / storax)"
+      ],
+      "description": "苏合香 (sūhéxiāng) is a Chinese botanical incense ingredient — Liquidambar orientalis (Oriental sweetgum / storax) — with an aroma profile of sweet, balsamic, resinous, warm.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "苏合香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "sūhéxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Liquidambar orientalis (Oriental sweetgum / storax)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, balsamic, resinous, warm"
+        }
+      ]
     }
   ]
 }
