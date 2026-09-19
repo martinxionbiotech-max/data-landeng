@@ -1,0 +1,860 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://example.com/data/ingredients.json",
+  "name": "LanDeng Chinese Botanical Incense Ingredient Encyclopedia",
+  "description": "Machine-readable definitions of the botanical ingredients in the LanDeng (澜灯) Chinese incense encyclopedia. Chinese terms are the source of truth; English is the agreed translation.",
+  "url": "https://example.com/data/ingredients.json",
+  "publisher": {
+    "@id": "https://example.com/#organization"
+  },
+  "dateModified": "2026-09-10",
+  "inLanguage": [
+    "en",
+    "zh"
+  ],
+  "isAccessibleForFree": true,
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://example.com/data/ingredients.json"
+  },
+  "mainEntity": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "agarwood",
+      "name": "Agarwood",
+      "alternateName": [
+        "沉香",
+        "chénxiāng",
+        "Aquilaria spp."
+      ],
+      "description": "沉香 (chénxiāng) is a Chinese botanical incense ingredient — Aquilaria spp. — with an aroma profile of woody, resinous, sweet, complex.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "沉香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "chénxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Aquilaria spp."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "woody, resinous, sweet, complex"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "benzoin",
+      "name": "Benzoin",
+      "alternateName": [
+        "安息香",
+        "ānxīxiāng",
+        "Styrax tonkinensis (Siam); Styrax benzoin / S. paralleloneurus (Sumatra)"
+      ],
+      "description": "安息香 (ānxīxiāng) is a Chinese botanical incense ingredient — Styrax tonkinensis (Siam); Styrax benzoin / S. paralleloneurus (Sumatra) — with an aroma profile of sweet, vanilla, balsamic, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "安息香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "ānxīxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Styrax tonkinensis (Siam); Styrax benzoin / S. paralleloneurus (Sumatra)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, vanilla, balsamic, woody"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "cedar",
+      "name": "Cedar",
+      "alternateName": [
+        "雪松",
+        "xuěsōng",
+        "Cedrus spp. (true cedar); note 'cedarwood' often = Juniperus virginiana"
+      ],
+      "description": "雪松 (xuěsōng) is a Chinese botanical incense ingredient — Cedrus spp. (true cedar); note 'cedarwood' often = Juniperus virginiana — with an aroma profile of woody, clean, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "雪松"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xuěsōng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Cedrus spp. (true cedar); note 'cedarwood' often = Juniperus virginiana"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "woody, clean, slightly sweet"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "chrysanthemum",
+      "name": "Chrysanthemum",
+      "alternateName": [
+        "菊花",
+        "júhuā",
+        "Chrysanthemum morifolium (and C. indicum)"
+      ],
+      "description": "菊花 (júhuā) is a Chinese botanical incense ingredient — Chrysanthemum morifolium (and C. indicum) — with an aroma profile of floral, herbal, bittersweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "菊花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "júhuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Chrysanthemum morifolium (and C. indicum)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, herbal, bittersweet"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "cinnamon",
+      "name": "Cinnamon",
+      "alternateName": [
+        "桂皮",
+        "guìpí",
+        "Cinnamomum cassia (Chinese cinnamon/cassia); cf. C. verum (Ceylon cinnamon)"
+      ],
+      "description": "桂皮 (guìpí) is a Chinese botanical incense ingredient — Cinnamomum cassia (Chinese cinnamon/cassia); cf. C. verum (Ceylon cinnamon) — with an aroma profile of warm, spicy, sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "桂皮"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "guìpí"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Cinnamomum cassia (Chinese cinnamon/cassia); cf. C. verum (Ceylon cinnamon)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "warm, spicy, sweet"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "clove",
+      "name": "Clove",
+      "alternateName": [
+        "丁香",
+        "dīngxiāng",
+        "Syzygium aromaticum"
+      ],
+      "description": "丁香 (dīngxiāng) is a Chinese botanical incense ingredient — Syzygium aromaticum — with an aroma profile of spicy, warm, aromatic.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "丁香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "dīngxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Syzygium aromaticum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "spicy, warm, aromatic"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "frankincense",
+      "name": "Frankincense",
+      "alternateName": [
+        "乳香",
+        "rǔxiāng",
+        "Boswellia spp. (B. sacra, B. serrata, B. carterii)"
+      ],
+      "description": "乳香 (rǔxiāng) is a Chinese botanical incense ingredient — Boswellia spp. (B. sacra, B. serrata, B. carterii) — with an aroma profile of resinous, citrus, earthy, creamy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "乳香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "rǔxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Boswellia spp. (B. sacra, B. serrata, B. carterii)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "resinous, citrus, earthy, creamy"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "jasmine",
+      "name": "Jasmine",
+      "alternateName": [
+        "茉莉",
+        "mòlì",
+        "Jasminum sambac (and other Jasminum spp.)"
+      ],
+      "description": "茉莉 (mòlì) is a Chinese botanical incense ingredient — Jasminum sambac (and other Jasminum spp.) — with an aroma profile of sweet, floral, heady.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "茉莉"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mòlì"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Jasminum sambac (and other Jasminum spp.)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, heady"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "mugwort",
+      "name": "Mugwort",
+      "alternateName": [
+        "艾草",
+        "àicǎo",
+        "Artemisia spp. (A. argyi, A. vulgaris)"
+      ],
+      "description": "艾草 (àicǎo) is a Chinese botanical incense ingredient — Artemisia spp. (A. argyi, A. vulgaris) — with an aroma profile of herbal, bitter-green, camphoraceous.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "艾草"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "àicǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Artemisia spp. (A. argyi, A. vulgaris)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, bitter-green, camphoraceous"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "myrrh",
+      "name": "Myrrh",
+      "alternateName": [
+        "没药",
+        "mòyào",
+        "Commiphora myrrha (and other Commiphora spp.)"
+      ],
+      "description": "没药 (mòyào) is a Chinese botanical incense ingredient — Commiphora myrrha (and other Commiphora spp.) — with an aroma profile of balsamic, earthy, bitter, medicinal.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "没药"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mòyào"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Commiphora myrrha (and other Commiphora spp.)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "balsamic, earthy, bitter, medicinal"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "orange-peel",
+      "name": "Orange Peel / Chenpi",
+      "alternateName": [
+        "陈皮",
+        "chénpí",
+        "Citrus reticulata (aged mandarin/tangerine peel)"
+      ],
+      "description": "陈皮 (chénpí) is a Chinese botanical incense ingredient — Citrus reticulata (aged mandarin/tangerine peel) — with an aroma profile of citrus, bittersweet, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "陈皮"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "chénpí"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Citrus reticulata (aged mandarin/tangerine peel)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "citrus, bittersweet, woody"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "osmanthus",
+      "name": "Osmanthus",
+      "alternateName": [
+        "桂花",
+        "guìhuā",
+        "Osmanthus fragrans"
+      ],
+      "description": "桂花 (guìhuā) is a Chinese botanical incense ingredient — Osmanthus fragrans — with an aroma profile of sweet, floral, apricot, honey.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "桂花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "guìhuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Osmanthus fragrans"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, apricot, honey"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "patchouli",
+      "name": "Patchouli",
+      "alternateName": [
+        "广藿香",
+        "guǎnghuòxiāng",
+        "Pogostemon cablin"
+      ],
+      "description": "广藿香 (guǎnghuòxiāng) is a Chinese botanical incense ingredient — Pogostemon cablin — with an aroma profile of earthy, woody, balsamic, spicy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "广藿香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "guǎnghuòxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Pogostemon cablin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "earthy, woody, balsamic, spicy"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "rose",
+      "name": "Rose",
+      "alternateName": [
+        "玫瑰",
+        "méiguī",
+        "Rosa rugosa (Chinese rose); also Rosa damascena"
+      ],
+      "description": "玫瑰 (méiguī) is a Chinese botanical incense ingredient — Rosa rugosa (Chinese rose); also Rosa damascena — with an aroma profile of sweet, floral, romantic.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "玫瑰"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "méiguī"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Rosa rugosa (Chinese rose); also Rosa damascena"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, romantic"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "sandalwood",
+      "name": "Sandalwood",
+      "alternateName": [
+        "檀香",
+        "tánxiāng",
+        "Santalum album (and other Santalum spp.)"
+      ],
+      "description": "檀香 (tánxiāng) is a Chinese botanical incense ingredient — Santalum album (and other Santalum spp.) — with an aroma profile of creamy, sweet, soft, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "檀香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "tánxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Santalum album (and other Santalum spp.)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "creamy, sweet, soft, woody"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "vetiver",
+      "name": "Vetiver",
+      "alternateName": [
+        "岩兰草",
+        "yánláncǎo",
+        "Chrysopogon zizanioides (syn. Vetiveria zizanioides)"
+      ],
+      "description": "岩兰草 (yánláncǎo) is a Chinese botanical incense ingredient — Chrysopogon zizanioides (syn. Vetiveria zizanioides) — with an aroma profile of earthy, woody, smoky, warm.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "岩兰草"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yánláncǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Chrysopogon zizanioides (syn. Vetiveria zizanioides)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "earthy, woody, smoky, warm"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "borneol",
+      "name": "Borneol",
+      "alternateName": [
+        "龙脑",
+        "lóngnǎo",
+        "Dryobalanops aromatica (d-borneol); Blumea balsamifera (l-borneol); synthetic borneol"
+      ],
+      "description": "龙脑 (lóngnǎo) is a Chinese botanical incense ingredient — borneol (Dryobalanops aromatica d-borneol; Blumea balsamifera l-borneol; plus synthetic) — with an aroma profile of camphoraceous, cooling, minty, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "龙脑"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "lóngnǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Dryobalanops aromatica (d-borneol); Blumea balsamifera (l-borneol); synthetic borneol"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "camphoraceous, cooling, minty, woody"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "pine-resin",
+      "name": "Pine Resin",
+      "alternateName": [
+        "松香",
+        "sōngxiāng",
+        "Pinus spp. (rosin / colophony)"
+      ],
+      "description": "松香 (sōngxiāng) is a Chinese botanical incense ingredient — pine oleoresin (Pinus spp., rosin/colophony) — with an aroma profile of piney, woody, balsamic, resinous.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "松香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "sōngxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Pinus spp. (rosin / colophony from pine oleoresin)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "piney, woody, balsamic, resinous"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "angelica",
+      "name": "Angelica",
+      "alternateName": [
+        "白芷",
+        "báizhǐ",
+        "Angelica dahurica"
+      ],
+      "description": "白芷 (báizhǐ) is a Chinese botanical incense ingredient — Angelica dahurica (the dried root) — with an aroma profile of herbal, aromatic, sweet-bitter, slightly spicy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "白芷"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "báizhǐ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Angelica dahurica"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, aromatic, sweet-bitter, slightly spicy"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "calamus",
+      "name": "Calamus",
+      "alternateName": [
+        "菖蒲",
+        "chāngpú",
+        "Acorus calamus"
+      ],
+      "description": "菖蒲 (chāngpú) is a Chinese botanical incense ingredient — Acorus calamus (the rhizome) — with an aroma profile of herbal, spicy, sweet, earthy. Note: calamus oil can contain β-asarone, restricted in food use in some jurisdictions.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "菖蒲"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "chāngpú"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Acorus calamus (and related Acorus spp.)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, spicy, sweet, earthy"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "sweetgum",
+      "name": "Sweetgum",
+      "alternateName": [
+        "枫香",
+        "fēngxiāng",
+        "Liquidambar formosana (cf. L. orientalis storax)"
+      ],
+      "description": "枫香 (fēngxiāng) is a Chinese botanical incense ingredient — Liquidambar formosana resin (cf. L. orientalis storax) — with an aroma profile of sweet, balsamic, resinous, warm.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "枫香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "fēngxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Liquidambar formosana (Chinese sweetgum); cf. L. orientalis (storax)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, balsamic, resinous, warm"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "ambergris",
+      "name": "Ambergris",
+      "alternateName": [
+        "龙涎香",
+        "lóngxiánxiāng",
+        "Physeter macrocephalus (sperm whale, animal-derived)"
+      ],
+      "description": "龙涎香 (lóngxiánxiāng) is a Chinese incense ingredient (animal-derived, not botanical) — ambergris, a sperm whale (Physeter macrocephalus) secretion — with an aroma profile of marine, sweet, earthy, waxy. Most 'ambergris' today is synthetic.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "龙涎香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "lóngxiánxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Physeter macrocephalus (sperm whale) — animal-derived, not botanical"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "marine, sweet, earthy, waxy"
+        }
+      ]
+    }
+  ]
+}
