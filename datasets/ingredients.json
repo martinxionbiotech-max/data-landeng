@@ -8,7 +8,7 @@
   "publisher": {
     "@id": "https://incenseherbs.com/#organization"
   },
-  "dateModified": "2026-09-10",
+  "dateModified": "2026-09-19",
   "inLanguage": [
     "en",
     "zh"
@@ -55,7 +55,17 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "woody, resinous, sweet, complex"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Woods"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506",
+        "https://www.gbif.org/species/5524063",
+        "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis"
       ]
     },
     {
@@ -93,7 +103,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "sweet, vanilla, balsamic, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017762",
+        "https://www.gbif.org/species/5371676"
       ]
     },
     {
@@ -131,7 +150,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "woody, clean, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Woods"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005268",
+        "https://www.gbif.org/species/5284698"
       ]
     },
     {
@@ -169,7 +197,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "floral, herbal, bittersweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=220002857",
+        "https://www.gbif.org/species/3150767"
       ]
     },
     {
@@ -207,7 +244,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "warm, spicy, sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008698",
+        "https://www.gbif.org/species/3033982"
       ]
     },
     {
@@ -245,7 +291,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "spicy, warm, aromatic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=132166",
+        "https://www.gbif.org/species/3183002"
       ]
     },
     {
@@ -283,7 +338,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "resinous, citrus, earthy, creamy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
         }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/8330171",
+        "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Boswellia%20sacra"
       ]
     },
     {
@@ -321,7 +385,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "sweet, floral, heady"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017788",
+        "https://www.gbif.org/species/7587215"
       ]
     },
     {
@@ -359,7 +432,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "herbal, bitter-green, camphoraceous"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023167",
+        "https://www.gbif.org/species/3120648"
       ]
     },
     {
@@ -397,7 +479,15 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "balsamic, earthy, bitter, medicinal"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
         }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/3994082"
       ]
     },
     {
@@ -435,7 +525,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "citrus, bittersweet, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Peels"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012434",
+        "https://www.gbif.org/species/3190172"
       ]
     },
     {
@@ -473,7 +572,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "sweet, floral, apricot, honey"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001392",
+        "https://www.gbif.org/species/3172278"
       ]
     },
     {
@@ -511,7 +619,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "earthy, woody, balsamic, spicy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020033",
+        "https://www.gbif.org/species/2926672"
       ]
     },
     {
@@ -549,7 +666,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "sweet, floral, romantic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011310",
+        "https://www.gbif.org/species/3003979"
       ]
     },
     {
@@ -587,7 +713,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "creamy, sweet, soft, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Woods"
         }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/2889785",
+        "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Santalum%20album"
       ]
     },
     {
@@ -625,7 +760,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "earthy, woody, smoky, warm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242312768",
+        "https://www.gbif.org/species/5677150"
       ]
     },
     {
@@ -663,7 +807,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "camphoraceous, cooling, minty, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023545",
+        "https://www.gbif.org/species/3189690"
       ]
     },
     {
@@ -701,7 +854,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "piney, woody, balsamic, resinous"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005343",
+        "https://www.gbif.org/species/5285215"
       ]
     },
     {
@@ -739,7 +901,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "herbal, aromatic, sweet-bitter, slightly spicy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015358",
+        "https://www.gbif.org/species/5537813"
       ]
     },
     {
@@ -777,7 +948,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "herbal, spicy, sweet, earthy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027130",
+        "https://www.gbif.org/species/2873769"
       ]
     },
     {
@@ -815,7 +995,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "sweet, balsamic, resinous, warm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010557",
+        "https://www.gbif.org/species/3702542"
       ]
     },
     {
@@ -853,7 +1042,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "marine, sweet, earthy, waxy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Animal-derived"
         }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/8123917",
+        "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Physeter%20macrocephalus"
       ]
     },
     {
@@ -891,7 +1089,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "minty, herbal, sweet, anise-like"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019465",
+        "https://www.gbif.org/species/7307327"
       ]
     },
     {
@@ -929,7 +1136,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "herbal, woody, pungent, earthy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023527",
+        "https://www.gbif.org/species/3122433"
       ]
     },
     {
@@ -967,7 +1183,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "camphoraceous, cooling, balsamic, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
         }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/3189690",
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008697"
       ]
     },
     {
@@ -1005,7 +1230,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "camphoraceous, spicy, eucalyptus, warm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
         }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/7963176",
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028314"
       ]
     },
     {
@@ -1043,7 +1277,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "woody, spicy, earthy, smoky"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200026713",
+        "https://www.gbif.org/species/2714818"
       ]
     },
     {
@@ -1081,7 +1324,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "woody, sweet, resinous, subtle"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Woods"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012420",
+        "https://www.gbif.org/species/3836457"
       ]
     },
     {
@@ -1119,7 +1371,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "sweet, hay-like, herbaceous, coumarin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017018",
+        "https://www.gbif.org/species/4005054"
       ]
     },
     {
@@ -1157,7 +1418,17 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "powdery, floral, violet, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
         }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/5298069",
+        "https://www.gbif.org/species/5298086",
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028218"
       ]
     },
     {
@@ -1195,7 +1466,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "delicate, sweet, almondy, green-floral"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010631",
+        "https://www.gbif.org/species/3021046"
       ]
     },
     {
@@ -1233,7 +1513,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "earthy, woody, sweet, musky"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022534",
+        "https://www.gbif.org/species/4095989"
       ]
     },
     {
@@ -1271,7 +1560,16 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "sweet, licorice, warm, spicy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
         }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008460",
+        "https://www.gbif.org/species/2889756"
       ]
     },
     {
@@ -1309,7 +1607,579 @@
           "@type": "PropertyValue",
           "name": "Aroma",
           "value": "sweet, balsamic, resinous, warm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
         }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/3152825",
+        "https://www.gbif.org/species/3702542"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "red-sandalwood",
+      "name": "Red Sandalwood",
+      "alternateName": [
+        "紫檀",
+        "zǐtán",
+        "Pterocarpus santalinus"
+      ],
+      "description": "紫檀 (zǐtán) is a Chinese botanical incense ingredient — Pterocarpus santalinus — with an aroma profile of woody, sweet, rosy, spicy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "紫檀"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zǐtán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Pterocarpus santalinus"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "woody, sweet, rosy, spicy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Woods"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/5708628",
+        "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Pterocarpus%20santalinus"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "camphor",
+      "name": "Camphor",
+      "alternateName": [
+        "樟木",
+        "zhāngmù",
+        "Cinnamomum camphora"
+      ],
+      "description": "樟木 (zhāngmù) is a Chinese botanical incense ingredient — Cinnamomum camphora — with an aroma profile of camphoraceous, cooling, woody, fresh.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "樟木"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zhāngmù"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Cinnamomum camphora"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "camphoraceous, cooling, woody, fresh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Woods"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008697",
+        "https://www.gbif.org/species/3033991"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "fennel",
+      "name": "Fennel",
+      "alternateName": [
+        "小茴香",
+        "xiǎohuíxiāng",
+        "Foeniculum vulgare"
+      ],
+      "description": "小茴香 (xiǎohuíxiāng) is a Chinese botanical incense ingredient — Foeniculum vulgare — with an aroma profile of sweet, anise, warm, herbaceous.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "小茴香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiǎohuíxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Foeniculum vulgare"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, anise, warm, herbaceous"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015555",
+        "https://www.gbif.org/species/3034922"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "eupatorium",
+      "name": "Eupatorium",
+      "alternateName": [
+        "佩兰",
+        "pèilán",
+        "Eupatorium fortunei"
+      ],
+      "description": "佩兰 (pèilán) is a Chinese botanical incense ingredient — Eupatorium fortunei — with an aroma profile of herbal, aromatic, sweet, fresh.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "佩兰"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "pèilán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Eupatorium fortunei"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, aromatic, sweet, fresh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023934",
+        "https://www.gbif.org/species/5403095"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "ligusticum",
+      "name": "Ligusticum",
+      "alternateName": [
+        "藁本",
+        "gǎoběn",
+        "Ligusticum sinense"
+      ],
+      "description": "藁本 (gǎoběn) is a Chinese botanical incense ingredient — Ligusticum sinense — with an aroma profile of herbal, aromatic, spicy, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "藁本"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "gǎoběn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Ligusticum sinense"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, aromatic, spicy, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015664",
+        "https://www.gbif.org/species/6026996"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "citronella",
+      "name": "Citronella",
+      "alternateName": [
+        "香茅",
+        "xiāngmáo",
+        "Cymbopogon citratus"
+      ],
+      "description": "香茅 (xiāngmáo) is a Chinese botanical incense ingredient — Cymbopogon citratus — with an aroma profile of citrusy, lemony, fresh, grassy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "香茅"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngmáo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Cymbopogon citratus"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "citrusy, lemony, fresh, grassy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025088",
+        "https://www.gbif.org/species/2705275"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "gardenia",
+      "name": "Gardenia",
+      "alternateName": [
+        "栀子花",
+        "zhīzihuā",
+        "Gardenia jasminoides"
+      ],
+      "description": "栀子花 (zhīzihuā) is a Chinese botanical incense ingredient — Gardenia jasminoides — with an aroma profile of sweet, creamy, white-floral, heady.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "栀子花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zhīzihuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Gardenia jasminoides"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, creamy, white-floral, heady"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022091",
+        "https://www.gbif.org/species/5335125"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "champaca",
+      "name": "Champaca",
+      "alternateName": [
+        "白兰花",
+        "báilánhuā",
+        "Michelia alba (syn. Magnolia × alba)"
+      ],
+      "description": "白兰花 (báilánhuā) is a Chinese botanical incense ingredient — Michelia alba (syn. Magnolia × alba) — with an aroma profile of sweet, floral, fruity, heady.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "白兰花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "báilánhuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Michelia alba (syn. Magnolia × alba)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, fruity, heady"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/3987892",
+        "https://www.gbif.org/species/5635329"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "nutmeg",
+      "name": "Nutmeg",
+      "alternateName": [
+        "肉豆蔻",
+        "ròudòukòu",
+        "Myristica fragrans"
+      ],
+      "description": "肉豆蔻 (ròudòukòu) is a Chinese botanical incense ingredient — Myristica fragrans — with an aroma profile of warm, spicy, sweet, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "肉豆蔻"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "ròudòukòu"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Myristica fragrans"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "warm, spicy, sweet, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/5406817"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "sand-ginger",
+      "name": "Sand Ginger",
+      "alternateName": [
+        "山柰",
+        "shānnài",
+        "Kaempferia galanga"
+      ],
+      "description": "山柰 (shānnài) is a Chinese botanical incense ingredient — Kaempferia galanga — with an aroma profile of camphoraceous, spicy, earthy, floral.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "山柰"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shānnài"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Kaempferia galanga"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "camphoraceous, spicy, earthy, floral"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/5301451"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "costus",
+      "name": "Costus",
+      "alternateName": [
+        "木香",
+        "mùxiāng",
+        "Saussurea costus (syn. Dolomiaea costus, Aucklandia lappa)"
+      ],
+      "description": "木香 (mùxiāng) is a Chinese botanical incense ingredient — Saussurea costus (syn. Dolomiaea costus, Aucklandia lappa) — with an aroma profile of earthy, woody, musky, animalic.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "木香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mùxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Saussurea costus (syn. Dolomiaea costus, Aucklandia lappa)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "earthy, woody, musky, animalic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/5404129",
+        "https://www.gbif.org/species/10864861",
+        "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Saussurea%20costus"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "cypress-seed",
+      "name": "Cypress Seed",
+      "alternateName": [
+        "柏子",
+        "bǎizǐ",
+        "Platycladus orientalis"
+      ],
+      "description": "柏子 (bǎizǐ) is a Chinese botanical incense ingredient — Platycladus orientalis — with an aroma profile of roasted, nutty, woody, resinous.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "柏子"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bǎizǐ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Platycladus orientalis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "roasted, nutty, woody, resinous"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Seeds"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005428",
+        "https://www.gbif.org/species/2684855"
       ]
     }
   ]
