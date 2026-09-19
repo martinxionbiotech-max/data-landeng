@@ -3865,6 +3865,569 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012432",
         "https://www.gbif.org/species/3190157"
       ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "licorice",
+      "name": "Licorice",
+      "alternateName": [
+        "甘草",
+        "gāncǎo",
+        "Glycyrrhiza uralensis"
+      ],
+      "description": "甘草 (gāncǎo) is a Chinese botanical incense ingredient — Glycyrrhiza uralensis — with an aroma profile of sweet, woody, earthy, slightly bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "甘草"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "gāncǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Glycyrrhiza uralensis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, woody, earthy, slightly bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012145",
+        "https://www.gbif.org/species/7861283"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "honey",
+      "name": "Honey",
+      "alternateName": [
+        "蜂蜜",
+        "fēngmì",
+        "Apis mellifera (honey bee)"
+      ],
+      "description": "蜂蜜 (fēngmì) is a Chinese botanical incense ingredient — Apis mellifera (honey bee) — bee product, not botanical — with an aroma profile of sweet, floral, warm, caramel.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "蜂蜜"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "fēngmì"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Apis mellifera (honey bee) — bee product, not botanical"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, warm, caramel"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Animal-derived"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/1341976"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "aromatic-turmeric",
+      "name": "Aromatic Turmeric",
+      "alternateName": [
+        "郁金",
+        "yùjīn",
+        "Curcuma aromatica"
+      ],
+      "description": "郁金 (yùjīn) is a Chinese botanical incense ingredient — Curcuma aromatica — with an aroma profile of earthy, camphoraceous, warm, slightly bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "郁金"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yùjīn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Curcuma aromatica"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "earthy, camphoraceous, warm, slightly bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028365",
+        "https://www.gbif.org/species/2757544"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "zedoary",
+      "name": "Zedoary",
+      "alternateName": [
+        "莪术",
+        "ézhú",
+        "Curcuma zedoaria (cf. Curcuma phaeocaulis)"
+      ],
+      "description": "莪术 (ézhú) is a Chinese botanical incense ingredient — Curcuma zedoaria (cf. Curcuma phaeocaulis) — with an aroma profile of earthy, camphoraceous, warm, slightly bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "莪术"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "ézhú"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Curcuma zedoaria (cf. Curcuma phaeocaulis)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "earthy, camphoraceous, warm, slightly bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028371",
+        "https://www.gbif.org/species/2757545"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "orchid",
+      "name": "Orchid",
+      "alternateName": [
+        "兰花",
+        "lánhuā",
+        "Cymbidium ensifolium"
+      ],
+      "description": "兰花 (lánhuā) is a Chinese botanical incense ingredient — Cymbidium ensifolium — with an aroma profile of floral, sweet, green, delicate.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "兰花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "lánhuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Cymbidium ensifolium"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, sweet, green, delicate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028607",
+        "https://www.gbif.org/species/5305481"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "daphne",
+      "name": "Daphne",
+      "alternateName": [
+        "瑞香",
+        "ruìxiāng",
+        "Daphne odora"
+      ],
+      "description": "瑞香 (ruìxiāng) is a Chinese botanical incense ingredient — Daphne odora — with an aroma profile of sweet, floral, spicy, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "瑞香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "ruìxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Daphne odora"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, spicy, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014513",
+        "https://www.gbif.org/species/7670260"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "michelia-figo",
+      "name": "Banana Shrub",
+      "alternateName": [
+        "含笑花",
+        "hánxiào huā",
+        "Michelia figo (syn. Magnolia figo)"
+      ],
+      "description": "含笑花 (hánxiào huā) is a Chinese botanical incense ingredient — Michelia figo (syn. Magnolia figo) — with an aroma profile of sweet, fruity, floral, banana.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "含笑花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "hánxiào huā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Michelia figo (syn. Magnolia figo)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, fruity, floral, banana"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008480",
+        "https://www.gbif.org/species/3152997"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "katsumadai",
+      "name": "Katsumadai",
+      "alternateName": [
+        "草豆蔻",
+        "cǎodòukòu",
+        "Alpinia katsumadae (syn. Alpinia hainanensis)"
+      ],
+      "description": "草豆蔻 (cǎodòukòu) is a Chinese botanical incense ingredient — Alpinia katsumadae (syn. Alpinia hainanensis) — with an aroma profile of camphoraceous, spicy, warm, slightly bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "草豆蔻"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "cǎodòukòu"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Alpinia katsumadae (syn. Alpinia hainanensis)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "camphoraceous, spicy, warm, slightly bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028274",
+        "https://www.gbif.org/species/5302164"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "oxyphylla",
+      "name": "Sharp-Leaf Galangal",
+      "alternateName": [
+        "益智仁",
+        "yìzhì rén",
+        "Alpinia oxyphylla"
+      ],
+      "description": "益智仁 (yìzhì rén) is a Chinese botanical incense ingredient — Alpinia oxyphylla — with an aroma profile of spicy, warm, camphoraceous, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "益智仁"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yìzhì rén"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Alpinia oxyphylla"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "spicy, warm, camphoraceous, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028289",
+        "https://www.gbif.org/species/5302068"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "prickly-ash",
+      "name": "Sichuan Pepper",
+      "alternateName": [
+        "蜀椒",
+        "shǔjiāo",
+        "Zanthoxylum bungeanum"
+      ],
+      "description": "蜀椒 (shǔjiāo) is a Chinese botanical incense ingredient — Zanthoxylum bungeanum — with an aroma profile of spicy, citrus, numbing, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "蜀椒"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shǔjiāo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Zanthoxylum bungeanum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "spicy, citrus, numbing, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012477",
+        "https://www.gbif.org/species/7269010"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "litsea-cubeba",
+      "name": "Mountain Pepper",
+      "alternateName": [
+        "山鸡椒",
+        "shānjījiāo",
+        "Litsea cubeba"
+      ],
+      "description": "山鸡椒 (shānjījiāo) is a Chinese botanical incense ingredient — Litsea cubeba — with an aroma profile of citrus, lemony, spicy, floral.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "山鸡椒"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shānjījiāo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Litsea cubeba"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "citrus, lemony, spicy, floral"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fruits"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008831",
+        "https://www.gbif.org/species/3033977"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "amber",
+      "name": "Amber",
+      "alternateName": [
+        "琥珀",
+        "hǔpò",
+        "fossil resin (not botanical)"
+      ],
+      "description": "琥珀 (hǔpò) is a Chinese botanical incense ingredient — fossil resin (not botanical) — with an aroma profile of resinous, warm, sweet, balsamic.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "琥珀"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "hǔpò"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "fossil resin (not botanical)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "resinous, warm, sweet, balsamic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
+        }
+      ],
+      "sameAs": [
+        "https://zh.wikisource.org/wiki/本草綱目/木之一",
+        "https://zh.wikisource.org/wiki/香乘"
+      ]
     }
   ]
 }

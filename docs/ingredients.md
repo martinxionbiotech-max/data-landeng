@@ -1,6 +1,6 @@
 # Ingredient Database
 
-82 botanical incense ingredients as `DefinedTerm` entities.
+94 botanical incense ingredients as `DefinedTerm` entities.
 
 Fields per entity: `termCode` · `name` · `alternateName` (Chinese, pinyin) · `description` · `additionalProperty` (Chinese / Pinyin / Scientific name / Type / Aroma).
 
