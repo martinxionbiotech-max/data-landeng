@@ -2741,6 +2741,569 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028535",
         "https://www.gbif.org/species/2808791"
       ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "civet",
+      "name": "Civet",
+      "alternateName": [
+        "灵猫香",
+        "língmāoxiāng",
+        "Civettictis civetta (African civet); Viverricula indica (small Indian civet) — animal-derived, not botanical"
+      ],
+      "description": "灵猫香 (língmāoxiāng) is a Chinese incense ingredient (animal-derived, not botanical) — civet, the glandular secretion of civets (Civettictis civetta / Viverricula indica) — with an aroma profile of animalic, musky, sweet, warm. Most 'civet' today is synthetic.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "灵猫香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "língmāoxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Civettictis civetta (African civet); Viverricula indica (small Indian civet) — animal-derived, not botanical"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "animalic, musky, sweet, warm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Animal"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/2434634",
+        "https://www.gbif.org/species/2434600",
+        "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Viverricula%20indica"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "pepper",
+      "name": "Pepper",
+      "alternateName": [
+        "胡椒",
+        "hújiāo",
+        "Piper nigrum"
+      ],
+      "description": "胡椒 (hújiāo) is a Chinese botanical incense ingredient — Piper nigrum — with an aroma profile of spicy, pungent, warm, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "胡椒"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "hújiāo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Piper nigrum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "spicy, pungent, warm, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005581",
+        "https://www.gbif.org/species/3086357"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "ginger",
+      "name": "Dried Ginger",
+      "alternateName": [
+        "干姜",
+        "gānjiāng",
+        "Zingiber officinale"
+      ],
+      "description": "干姜 (gānjiāng) is a Chinese botanical incense ingredient — Zingiber officinale — with an aroma profile of spicy, pungent, warm, slightly citrusy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "干姜"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "gānjiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Zingiber officinale"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "spicy, pungent, warm, slightly citrusy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028468",
+        "https://www.gbif.org/species/2757280"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "magnolia-flower",
+      "name": "Magnolia Flower",
+      "alternateName": [
+        "辛夷",
+        "xīnyí",
+        "Magnolia biondii (Flora of China: Yulania biondii)"
+      ],
+      "description": "辛夷 (xīnyí) is a Chinese botanical incense ingredient — Magnolia biondii (Flora of China: Yulania biondii) — with an aroma profile of floral, spicy, green, slightly camphoraceous.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "辛夷"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xīnyí"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Magnolia biondii (Flora of China: Yulania biondii)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, spicy, green, slightly camphoraceous"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/3153889",
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250090265"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "wintersweet",
+      "name": "Wintersweet",
+      "alternateName": [
+        "蜡梅",
+        "làmèi",
+        "Chimonanthus praecox"
+      ],
+      "description": "蜡梅 (làmèi) is a Chinese botanical incense ingredient — Chimonanthus praecox — with an aroma profile of sweet, floral, honeyed, waxy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "蜡梅"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "làmèi"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Chimonanthus praecox"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, honeyed, waxy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008496",
+        "https://www.gbif.org/species/7275851"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "turmeric",
+      "name": "Turmeric",
+      "alternateName": [
+        "姜黄",
+        "jiānghuáng",
+        "Curcuma longa"
+      ],
+      "description": "姜黄 (jiānghuáng) is a Chinese botanical incense ingredient — Curcuma longa — with an aroma profile of earthy, warm, spicy, bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "姜黄"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jiānghuáng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Curcuma longa"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "earthy, warm, spicy, bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028370",
+        "https://www.gbif.org/species/2757624"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "labdanum",
+      "name": "Labdanum",
+      "alternateName": [
+        "岩蔷薇",
+        "yánqiángwēi",
+        "Cistus ladanifer (gum rockrose)"
+      ],
+      "description": "岩蔷薇 (yánqiángwēi) is a Chinese botanical incense ingredient — Cistus ladanifer (gum rockrose) — with an aroma profile of resinous, balsamic, leathery, amber.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "岩蔷薇"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yánqiángwēi"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Cistus ladanifer (gum rockrose)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "resinous, balsamic, leathery, amber"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/6437976"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "mastic",
+      "name": "Mastic",
+      "alternateName": [
+        "玛蹄脂",
+        "mǎtízhī",
+        "Pistacia lentiscus"
+      ],
+      "description": "玛蹄脂 (mǎtízhī) is a Chinese botanical incense ingredient — Pistacia lentiscus — with an aroma profile of resinous, piney, fresh, balsamic.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "玛蹄脂"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mǎtízhī"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Pistacia lentiscus"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "resinous, piney, fresh, balsamic"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/3190583"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "asafoetida",
+      "name": "Asafoetida",
+      "alternateName": [
+        "阿魏",
+        "āwèi",
+        "Ferula assa-foetida"
+      ],
+      "description": "阿魏 (āwèi) is a Chinese botanical incense ingredient — Ferula assa-foetida — with an aroma profile of pungent, sulfurous, savory, resinous.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "阿魏"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "āwèi"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Ferula assa-foetida"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "pungent, sulfurous, savory, resinous"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/8113074",
+        "https://www.gbif.org/species/3636475"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "perilla",
+      "name": "Perilla",
+      "alternateName": [
+        "紫苏",
+        "zǐsū",
+        "Perilla frutescens"
+      ],
+      "description": "紫苏 (zǐsū) is a Chinese botanical incense ingredient — Perilla frutescens — with an aroma profile of herbal, minty, sweet, anise-like.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "紫苏"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zǐsū"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Perilla frutescens"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, minty, sweet, anise-like"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019964",
+        "https://www.gbif.org/species/5341394"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "mint",
+      "name": "Mint",
+      "alternateName": [
+        "薄荷",
+        "bòhé",
+        "Mentha haplocalyx (syn. Mentha canadensis)"
+      ],
+      "description": "薄荷 (bòhé) is a Chinese botanical incense ingredient — Mentha haplocalyx (syn. Mentha canadensis) — with an aroma profile of cooling, minty, fresh, sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "薄荷"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bòhé"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Mentha haplocalyx (syn. Mentha canadensis)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "cooling, minty, fresh, sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001261",
+        "https://www.gbif.org/species/2927198"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "pomelo-peel",
+      "name": "Pomelo Peel",
+      "alternateName": [
+        "柚皮",
+        "yòupí",
+        "Citrus maxima (pomelo peel)"
+      ],
+      "description": "柚皮 (yòupí) is a Chinese botanical incense ingredient — Citrus maxima (pomelo peel) — with an aroma profile of citrus, bittersweet, floral, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "柚皮"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yòupí"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Citrus maxima (pomelo peel)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "citrus, bittersweet, floral, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Peels"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242412666",
+        "https://www.gbif.org/species/3190160"
+      ]
     }
   ]
 }
