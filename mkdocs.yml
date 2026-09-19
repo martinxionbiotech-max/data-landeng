@@ -1,0 +1,13 @@
+site_name: LanDeng Open Datasets
+site_description: Machine-readable knowledge datasets for Chinese botanical incense — ingredients, terminology, aroma, materials, comparisons.
+repo_url: https://github.com/martinxionbiotech-max/data-landeng
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Ingredient Database: ingredients.md
+  - Terminology Database: terminology.md
+  - Aroma Database: aroma.md
+  - Material Database: materials.md
+  - Comparison Database: comparisons.md
+  - Format & Governance: format.md
