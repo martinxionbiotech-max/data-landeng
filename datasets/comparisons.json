@@ -8,7 +8,7 @@
   "publisher": {
     "@id": "https://incenseherbs.com/#organization"
   },
-  "dateModified": "2026-09-19",
+  "dateModified": "2026-09-20",
   "inLanguage": [
     "en",
     "zh"
@@ -53,11 +53,14 @@
           "@type": "PropertyValue",
           "name": "Common uses",
           "value": "daily use, meditation, timed sessions; the everyday default"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/blog/history-of-chinese-incense/"
+          "type": "traditional",
+          "title": "History of Chinese Incense: Shang to Revival",
+          "url": "https://incenseherbs.com/blog/history-of-chinese-incense/",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -91,11 +94,14 @@
           "@type": "PropertyValue",
           "name": "Common uses",
           "value": "short ritual, quick accent; backflow visual effect"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/blog/what-is-chinese-incense/"
+          "type": "traditional",
+          "title": "What Is Chinese Incense? 香 (Xiāng)",
+          "url": "https://incenseherbs.com/blog/what-is-chinese-incense/",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -268,11 +274,14 @@
           "@type": "PropertyValue",
           "name": "Common uses",
           "value": "low-smoke, controlled appreciation; the pure-material format"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/blog/incense-powder-resin/"
+          "type": "traditional",
+          "title": "Incense Powder & Resin: Smoke-Light Format",
+          "url": "https://incenseherbs.com/blog/incense-powder-resin/",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -360,11 +369,14 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "very high substitution risk (oil-injection fakes, unrelated woods); highest relative price (奇楠 at the top of the market)"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/blog/agarwood-incense/"
+          "type": "traditional",
+          "title": "Agarwood Incense (沉香): Grading & Spotting Fakes",
+          "url": "https://incenseherbs.com/blog/agarwood-incense/",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -406,11 +418,14 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "high substitution risk (other Santalum species, fragrance oil); mid–high relative price"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/blog/sandalwood-incense/"
+          "type": "traditional",
+          "title": "Sandalwood Incense (檀香): Reading the Claims",
+          "url": "https://incenseherbs.com/blog/sandalwood-incense/",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -457,11 +472,14 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "low substitution risk (usually real resin); low–mid relative price"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/ingredients/frankincense/"
+          "type": "botanical",
+          "title": "Frankincense (乳香) — Ritual Resin",
+          "url": "https://incenseherbs.com/ingredients/frankincense/",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -498,11 +516,14 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "high substitution risk (synthetic borneol often sold as 'natural'); mid relative price"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/ingredients/borneol/"
+          "type": "botanical",
+          "title": "Borneol (龙脑) — Dragon Brain Aromatic",
+          "url": "https://incenseherbs.com/ingredients/borneol/",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -549,11 +570,14 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "medium substitution risk (Siam vs Sumatra grades differ); low–mid relative price"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/ingredients/benzoin/"
+          "type": "botanical",
+          "title": "Benzoin (安息香) — Sweet Resin",
+          "url": "https://incenseherbs.com/ingredients/benzoin/",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -600,11 +624,14 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "low substitution risk (usually real resin); low relative price"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/ingredients/myrrh/"
+          "type": "botanical",
+          "title": "Myrrh (没药) — Bitter Resin",
+          "url": "https://incenseherbs.com/ingredients/myrrh/",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -641,11 +668,14 @@
           "@type": "PropertyValue",
           "name": "Quality factors",
           "value": "low–medium substitution risk (clove vs 'clove bark' 丁皮 differ); low relative price"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/ingredients/clove/"
+          "type": "botanical",
+          "title": "Clove (丁香) — Warm Spice Note",
+          "url": "https://incenseherbs.com/ingredients/clove/",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -683,11 +713,14 @@
           "@type": "PropertyValue",
           "name": "Common uses",
           "value": "classical 合香 delivery form; burned as a pellet"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/blog/hexiang-blending-system/"
+          "type": "traditional",
+          "title": "The 合香 Blending System: Composed Like a Formula",
+          "url": "https://incenseherbs.com/blog/hexiang-blending-system/",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -726,11 +759,14 @@
           "@type": "PropertyValue",
           "name": "Common uses",
           "value": "timekeeping, meditation, visual ritual"
-        },
+        }
+      ],
+      "sources": [
         {
-          "@type": "PropertyValue",
-          "name": "Source",
-          "value": "/blog/incense-seal-zhuanxiang/"
+          "type": "traditional",
+          "title": "香篆 (Seal Incense): Powder Pressed Into Patterns",
+          "url": "https://incenseherbs.com/blog/incense-seal-zhuanxiang/",
+          "accessed": "2026-09-20"
         }
       ]
     }

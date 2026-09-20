@@ -66,6 +66,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506",
         "https://www.gbif.org/species/5524063",
         "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Aquilaria sinensis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014506",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Aquilaria malaccensis on GBIF",
+          "url": "https://www.gbif.org/species/5524063",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "regulatory",
+          "title": "Aquilaria in the CITES species checklist",
+          "url": "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Aquilaria%20malaccensis",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -113,6 +133,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017762",
         "https://www.gbif.org/species/5371676"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Styrax in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017762",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Styrax on GBIF",
+          "url": "https://www.gbif.org/species/5371676",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -160,6 +194,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005268",
         "https://www.gbif.org/species/5284698"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Cedrus in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005268",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Cedrus on GBIF",
+          "url": "https://www.gbif.org/species/5284698",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -207,6 +255,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=220002857",
         "https://www.gbif.org/species/3150767"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Chrysanthemum indicum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=220002857",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Chrysanthemum morifolium on GBIF",
+          "url": "https://www.gbif.org/species/3150767",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -254,6 +316,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008698",
         "https://www.gbif.org/species/3033982"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Cinnamomum cassia in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008698",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Cinnamomum aromaticum on GBIF",
+          "url": "https://www.gbif.org/species/3033982",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -301,6 +377,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=132166",
         "https://www.gbif.org/species/3183002"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Syzygium in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=132166",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Syzygium aromaticum on GBIF",
+          "url": "https://www.gbif.org/species/3183002",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -348,6 +438,26 @@
       "sameAs": [
         "https://www.gbif.org/species/8330171",
         "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Boswellia%20sacra"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Boswellia sacra on GBIF",
+          "url": "https://www.gbif.org/species/8330171",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "regulatory",
+          "title": "Boswellia sacra in the CITES species checklist",
+          "url": "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Boswellia%20sacra",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "Bencao Gangmu (本草綱目) full text on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -395,6 +505,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017788",
         "https://www.gbif.org/species/7587215"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Jasminum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017788",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Jasminum on GBIF",
+          "url": "https://www.gbif.org/species/7587215",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -442,6 +566,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023167",
         "https://www.gbif.org/species/3120648"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Artemisia in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023167",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Artemisia on GBIF",
+          "url": "https://www.gbif.org/species/3120648",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -488,6 +626,20 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/3994082"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Commiphora myrrha on GBIF",
+          "url": "https://www.gbif.org/species/3994082",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草綱目 (Bencao Gangmu) full text on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -535,6 +687,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012434",
         "https://www.gbif.org/species/3190172"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Citrus reticulata in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012434",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Citrus reticulata on GBIF",
+          "url": "https://www.gbif.org/species/3190172",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -582,6 +748,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001392",
         "https://www.gbif.org/species/3172278"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Osmanthus in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001392",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Osmanthus on GBIF",
+          "url": "https://www.gbif.org/species/3172278",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -629,6 +809,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020033",
         "https://www.gbif.org/species/2926672"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Pogostemon in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200020033",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Pogostemon on GBIF",
+          "url": "https://www.gbif.org/species/2926672",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -676,6 +870,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011310",
         "https://www.gbif.org/species/3003979"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Rosa in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011310",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Rosa on GBIF",
+          "url": "https://www.gbif.org/species/3003979",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -723,6 +931,26 @@
       "sameAs": [
         "https://www.gbif.org/species/2889785",
         "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Santalum%20album"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Santalum album on GBIF",
+          "url": "https://www.gbif.org/species/2889785",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "regulatory",
+          "title": "Santalum album in the CITES species checklist",
+          "url": "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Santalum%20album",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草綱目 (Bencao Gangmu) full text on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -770,6 +998,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242312768",
         "https://www.gbif.org/species/5677150"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Chrysopogon in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242312768",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Chrysopogon on GBIF",
+          "url": "https://www.gbif.org/species/5677150",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -817,6 +1059,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023545",
         "https://www.gbif.org/species/3189690"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Blumea balsamifera in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023545",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Dryobalanops aromatica on GBIF",
+          "url": "https://www.gbif.org/species/3189690",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -864,6 +1120,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005343",
         "https://www.gbif.org/species/5285215"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Pinus in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005343",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Pinus on GBIF",
+          "url": "https://www.gbif.org/species/5285215",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -911,6 +1181,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015358",
         "https://www.gbif.org/species/5537813"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Angelica in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015358",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Angelica on GBIF",
+          "url": "https://www.gbif.org/species/5537813",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -958,6 +1242,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027130",
         "https://www.gbif.org/species/2873769"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Acorus in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027130",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Acorus calamus on GBIF",
+          "url": "https://www.gbif.org/species/2873769",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1005,6 +1303,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010557",
         "https://www.gbif.org/species/3702542"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Liquidambar in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010557",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Liquidambar on GBIF",
+          "url": "https://www.gbif.org/species/3702542",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1052,6 +1364,26 @@
       "sameAs": [
         "https://www.gbif.org/species/8123917",
         "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Physeter%20macrocephalus"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Physeter macrocephalus (sperm whale) on GBIF",
+          "url": "https://www.gbif.org/species/8123917",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "regulatory",
+          "title": "Physeter macrocephalus in the CITES species checklist",
+          "url": "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Physeter%20macrocephalus",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "Bencao Gangmu (本草綱目) full text on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1099,6 +1431,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019465",
         "https://www.gbif.org/species/7307327"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Agastache rugosa in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019465",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Agastache rugosa on GBIF",
+          "url": "https://www.gbif.org/species/7307327",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1146,6 +1492,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023527",
         "https://www.gbif.org/species/3122433"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Atractylodes lancea in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023527",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Atractylodes lancea on GBIF",
+          "url": "https://www.gbif.org/species/3122433",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1193,6 +1553,20 @@
       "sameAs": [
         "https://www.gbif.org/species/3189690",
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008697"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Dryobalanops aromatica on GBIF",
+          "url": "https://www.gbif.org/species/3189690",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "botanical",
+          "title": "Cinnamomum camphora in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008697",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1240,6 +1614,20 @@
       "sameAs": [
         "https://www.gbif.org/species/7963176",
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028314"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Amomum kravanh on GBIF",
+          "url": "https://www.gbif.org/species/7963176",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "botanical",
+          "title": "Amomum compactum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028314",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1287,6 +1675,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200026713",
         "https://www.gbif.org/species/2714818"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Cyperus rotundus in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200026713",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Cyperus rotundus on GBIF",
+          "url": "https://www.gbif.org/species/2714818",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1334,6 +1736,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012420",
         "https://www.gbif.org/species/3836457"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Acronychia pedunculata in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012420",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Acronychia pedunculata on GBIF",
+          "url": "https://www.gbif.org/species/3836457",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1381,6 +1797,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017018",
         "https://www.gbif.org/species/4005054"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Lysimachia foenum-graecum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200017018",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Lysimachia foenum-graecum on GBIF",
+          "url": "https://www.gbif.org/species/4005054",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1429,6 +1859,26 @@
         "https://www.gbif.org/species/5298069",
         "https://www.gbif.org/species/5298086",
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028218"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Iris germanica on GBIF",
+          "url": "https://www.gbif.org/species/5298069",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Iris pallida on GBIF",
+          "url": "https://www.gbif.org/species/5298086",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "botanical",
+          "title": "Iris tectorum (Chinese iris) in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028218",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1476,6 +1926,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010631",
         "https://www.gbif.org/species/3021046"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Armeniaca mume (= Prunus mume) in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010631",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Prunus mume on GBIF",
+          "url": "https://www.gbif.org/species/3021046",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1523,6 +1987,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022534",
         "https://www.gbif.org/species/4095989"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Nardostachys jatamansi in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022534",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Nardostachys jatamansi on GBIF",
+          "url": "https://www.gbif.org/species/4095989",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1570,6 +2048,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008460",
         "https://www.gbif.org/species/2889756"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Illicium verum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008460",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Illicium verum on GBIF",
+          "url": "https://www.gbif.org/species/2889756",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1617,6 +2109,20 @@
       "sameAs": [
         "https://www.gbif.org/species/3152825",
         "https://www.gbif.org/species/3702542"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Liquidambar orientalis on GBIF",
+          "url": "https://www.gbif.org/species/3152825",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Liquidambar formosana (枫香) on GBIF",
+          "url": "https://www.gbif.org/species/3702542",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1664,6 +2170,20 @@
       "sameAs": [
         "https://www.gbif.org/species/5708628",
         "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Pterocarpus%20santalinus"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Pterocarpus santalinus on GBIF",
+          "url": "https://www.gbif.org/species/5708628",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "regulatory",
+          "title": "Pterocarpus santalinus on the CITES checklist",
+          "url": "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Pterocarpus%20santalinus",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1711,6 +2231,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008697",
         "https://www.gbif.org/species/3033991"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Cinnamomum camphora in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008697",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Cinnamomum camphora on GBIF",
+          "url": "https://www.gbif.org/species/3033991",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1758,6 +2292,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015555",
         "https://www.gbif.org/species/3034922"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Foeniculum vulgare in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015555",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Foeniculum vulgare on GBIF",
+          "url": "https://www.gbif.org/species/3034922",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1805,6 +2353,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023934",
         "https://www.gbif.org/species/5403095"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Eupatorium fortunei in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023934",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Eupatorium fortunei on GBIF",
+          "url": "https://www.gbif.org/species/5403095",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1852,6 +2414,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015664",
         "https://www.gbif.org/species/6026996"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Ligusticum sinense in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015664",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Ligusticum sinense on GBIF",
+          "url": "https://www.gbif.org/species/6026996",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1899,6 +2475,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025088",
         "https://www.gbif.org/species/2705275"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Cymbopogon citratus in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025088",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Cymbopogon citratus on GBIF",
+          "url": "https://www.gbif.org/species/2705275",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1946,6 +2536,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022091",
         "https://www.gbif.org/species/5335125"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Gardenia jasminoides in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022091",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Gardenia jasminoides on GBIF",
+          "url": "https://www.gbif.org/species/5335125",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1993,6 +2597,20 @@
       "sameAs": [
         "https://www.gbif.org/species/3987892",
         "https://www.gbif.org/species/5635329"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Magnolia × alba (syn. Michelia alba) on GBIF",
+          "url": "https://www.gbif.org/species/3987892",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Michelia alba on GBIF",
+          "url": "https://www.gbif.org/species/5635329",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2039,6 +2657,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/5406817"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Myristica fragrans on GBIF",
+          "url": "https://www.gbif.org/species/5406817",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2085,6 +2711,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/5301451"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Kaempferia galanga on GBIF",
+          "url": "https://www.gbif.org/species/5301451",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2133,6 +2767,26 @@
         "https://www.gbif.org/species/5404129",
         "https://www.gbif.org/species/10864861",
         "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Saussurea%20costus"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Saussurea costus on GBIF",
+          "url": "https://www.gbif.org/species/5404129",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Dolomiaea costus on GBIF",
+          "url": "https://www.gbif.org/species/10864861",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "regulatory",
+          "title": "Saussurea costus on the CITES checklist",
+          "url": "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Saussurea%20costus",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2180,6 +2834,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005428",
         "https://www.gbif.org/species/2684855"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Platycladus orientalis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005428",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Platycladus orientalis on GBIF",
+          "url": "https://www.gbif.org/species/2684855",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2227,6 +2895,20 @@
       "sameAs": [
         "https://www.gbif.org/species/2440988",
         "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Moschus%20moschiferus"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Moschus moschiferus (Siberian musk deer) on GBIF",
+          "url": "https://www.gbif.org/species/2440988",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "regulatory",
+          "title": "Moschus moschiferus in the CITES species checklist",
+          "url": "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Moschus%20moschiferus",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2273,6 +2955,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/225"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Gastropoda (the snail class that bears the operculum) on GBIF",
+          "url": "https://www.gbif.org/species/225",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2320,6 +3010,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200007079",
         "https://www.gbif.org/species/2882449"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Nelumbo nucifera in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200007079",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Nelumbo nucifera on GBIF",
+          "url": "https://www.gbif.org/species/2882449",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2366,6 +3070,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/7606629"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Piper cubeba on GBIF",
+          "url": "https://www.gbif.org/species/7606629",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2413,6 +3125,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005574",
         "https://www.gbif.org/species/3086338"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Piper longum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005574",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Piper longum on GBIF",
+          "url": "https://www.gbif.org/species/3086338",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2460,6 +3186,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015503",
         "https://www.gbif.org/species/3034871"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Coriandrum sativum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015503",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Coriandrum sativum on GBIF",
+          "url": "https://www.gbif.org/species/3034871",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2507,6 +3247,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013205",
         "https://www.gbif.org/species/3190002"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Litchi chinensis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200013205",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Litchi chinensis on GBIF",
+          "url": "https://www.gbif.org/species/3190002",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2554,6 +3308,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028288",
         "https://www.gbif.org/species/5302199"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Alpinia officinarum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028288",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Alpinia officinarum on GBIF",
+          "url": "https://www.gbif.org/species/5302199",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2600,6 +3368,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/2735014"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Daemonorops draco (syn. Calamus draco) on GBIF",
+          "url": "https://www.gbif.org/species/2735014",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2647,6 +3423,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200016984",
         "https://www.gbif.org/species/4005914"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Lysimachia capillipes in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200016984",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Lysimachia capillipes on GBIF",
+          "url": "https://www.gbif.org/species/4005914",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2693,6 +3483,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/3190382"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Ruta graveolens on GBIF",
+          "url": "https://www.gbif.org/species/3190382",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2740,6 +3538,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028535",
         "https://www.gbif.org/species/2808791"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Bletilla striata in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028535",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Bletilla striata on GBIF",
+          "url": "https://www.gbif.org/species/2808791",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2788,6 +3600,26 @@
         "https://www.gbif.org/species/2434634",
         "https://www.gbif.org/species/2434600",
         "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Viverricula%20indica"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Civettictis civetta (African civet) on GBIF",
+          "url": "https://www.gbif.org/species/2434634",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Viverricula indica (small Indian civet) on GBIF",
+          "url": "https://www.gbif.org/species/2434600",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "regulatory",
+          "title": "Viverricula indica in the CITES species checklist",
+          "url": "https://checklist.cites.org/#/en/search?output_layout=alphabetical&scientific_name=Viverricula%20indica",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2835,6 +3667,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005581",
         "https://www.gbif.org/species/3086357"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Piper nigrum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005581",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Piper nigrum on GBIF",
+          "url": "https://www.gbif.org/species/3086357",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2882,6 +3728,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028468",
         "https://www.gbif.org/species/2757280"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Zingiber officinale in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028468",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Zingiber officinale on GBIF",
+          "url": "https://www.gbif.org/species/2757280",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2929,6 +3789,20 @@
       "sameAs": [
         "https://www.gbif.org/species/3153889",
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250090265"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Magnolia biondii on GBIF",
+          "url": "https://www.gbif.org/species/3153889",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "botanical",
+          "title": "Yulania biondii in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250090265",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -2976,6 +3850,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008496",
         "https://www.gbif.org/species/7275851"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Chimonanthus praecox in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008496",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Chimonanthus praecox on GBIF",
+          "url": "https://www.gbif.org/species/7275851",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3023,6 +3911,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028370",
         "https://www.gbif.org/species/2757624"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Curcuma longa in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028370",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Curcuma longa on GBIF",
+          "url": "https://www.gbif.org/species/2757624",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3069,6 +3971,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/6437976"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Cistus ladanifer on GBIF",
+          "url": "https://www.gbif.org/species/6437976",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3115,6 +4025,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/3190583"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Pistacia lentiscus on GBIF",
+          "url": "https://www.gbif.org/species/3190583",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3162,6 +4080,20 @@
       "sameAs": [
         "https://www.gbif.org/species/8113074",
         "https://www.gbif.org/species/3636475"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Ferula assa-foetida on GBIF",
+          "url": "https://www.gbif.org/species/8113074",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Ferula sinkiangensis (新疆阿魏) on GBIF",
+          "url": "https://www.gbif.org/species/3636475",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3209,6 +4141,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019964",
         "https://www.gbif.org/species/5341394"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Perilla frutescens in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019964",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Perilla frutescens on GBIF",
+          "url": "https://www.gbif.org/species/5341394",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3256,6 +4202,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001261",
         "https://www.gbif.org/species/2927198"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Mentha canadensis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001261",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Mentha canadensis on GBIF",
+          "url": "https://www.gbif.org/species/2927198",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3303,6 +4263,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242412666",
         "https://www.gbif.org/species/3190160"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Citrus maxima in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242412666",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Citrus maxima on GBIF",
+          "url": "https://www.gbif.org/species/3190160",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3350,6 +4324,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005459",
         "https://www.gbif.org/species/2684170"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Thuja sutchuenensis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005459",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Thuja sutchuenensis on GBIF",
+          "url": "https://www.gbif.org/species/2684170",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3397,6 +4385,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011215",
         "https://www.gbif.org/species/3004247"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Rosa banksiae in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011215",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Rosa banksiae on GBIF",
+          "url": "https://www.gbif.org/species/3004247",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3444,6 +4446,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210000862",
         "https://www.gbif.org/species/3172262"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Jasminum grandiflorum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210000862",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Jasminum grandiflorum on GBIF",
+          "url": "https://www.gbif.org/species/3172262",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3491,6 +4507,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250090269",
         "https://www.gbif.org/species/3153582"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Yulania denudata in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=250090269",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Magnolia denudata on GBIF",
+          "url": "https://www.gbif.org/species/3153582",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3538,6 +4568,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022324",
         "https://www.gbif.org/species/5334240"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Lonicera japonica in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022324",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Lonicera japonica on GBIF",
+          "url": "https://www.gbif.org/species/5334240",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3585,6 +4629,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028347",
         "https://www.gbif.org/species/11082522"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Amomum villosum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028347",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Wurfbainia villosa on GBIF",
+          "url": "https://www.gbif.org/species/11082522",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3632,6 +4690,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=240001100",
         "https://www.gbif.org/species/10966714"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Amomum tsaoko in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=240001100",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Lanxangia tsao-ko on GBIF",
+          "url": "https://www.gbif.org/species/10966714",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3678,6 +4750,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/3034683"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Ferula gummosa on GBIF",
+          "url": "https://www.gbif.org/species/3034683",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3724,6 +4804,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/3034015"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Laurus nobilis on GBIF",
+          "url": "https://www.gbif.org/species/3034015",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3770,6 +4858,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/10902460"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Salvia rosmarinus on GBIF",
+          "url": "https://www.gbif.org/species/10902460",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3817,6 +4913,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012432",
         "https://www.gbif.org/species/3190157"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Citrus medica in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012432",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Citrus medica on GBIF",
+          "url": "https://www.gbif.org/species/3190157",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3864,6 +4974,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012432",
         "https://www.gbif.org/species/3190157"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Citrus medica in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012432",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Citrus medica on GBIF",
+          "url": "https://www.gbif.org/species/3190157",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3911,6 +5035,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012145",
         "https://www.gbif.org/species/7861283"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Glycyrrhiza uralensis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012145",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Glycyrrhiza uralensis on GBIF",
+          "url": "https://www.gbif.org/species/7861283",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -3957,6 +5095,20 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/1341976"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Apis mellifera (Western honey bee) on GBIF",
+          "url": "https://www.gbif.org/species/1341976",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "香乘 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4004,6 +5156,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028365",
         "https://www.gbif.org/species/2757544"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Curcuma aromatica in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028365",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Curcuma aromatica on GBIF",
+          "url": "https://www.gbif.org/species/2757544",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4051,6 +5217,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028371",
         "https://www.gbif.org/species/2757545"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Curcuma phaeocaulis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028371",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Curcuma zedoaria on GBIF",
+          "url": "https://www.gbif.org/species/2757545",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4098,6 +5278,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028607",
         "https://www.gbif.org/species/5305481"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Cymbidium ensifolium in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028607",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Cymbidium ensifolium on GBIF",
+          "url": "https://www.gbif.org/species/5305481",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4145,6 +5339,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014513",
         "https://www.gbif.org/species/7670260"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Daphne odora in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014513",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Daphne odora on GBIF",
+          "url": "https://www.gbif.org/species/7670260",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4192,6 +5400,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008480",
         "https://www.gbif.org/species/3152997"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Michelia figo in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008480",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Magnolia figo (syn. Michelia figo) on GBIF",
+          "url": "https://www.gbif.org/species/3152997",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4239,6 +5461,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028274",
         "https://www.gbif.org/species/5302164"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Alpinia hainanensis (草豆蔻) in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028274",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Alpinia hainanensis on GBIF",
+          "url": "https://www.gbif.org/species/5302164",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4286,6 +5522,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028289",
         "https://www.gbif.org/species/5302068"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Alpinia oxyphylla in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200028289",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Alpinia oxyphylla on GBIF",
+          "url": "https://www.gbif.org/species/5302068",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4333,6 +5583,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012477",
         "https://www.gbif.org/species/7269010"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Zanthoxylum bungeanum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012477",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Zanthoxylum bungeanum on GBIF",
+          "url": "https://www.gbif.org/species/7269010",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4380,6 +5644,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008831",
         "https://www.gbif.org/species/3033977"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Litsea cubeba in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008831",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Litsea cubeba on GBIF",
+          "url": "https://www.gbif.org/species/3033977",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4427,6 +5705,20 @@
       "sameAs": [
         "https://zh.wikisource.org/wiki/本草綱目/木之一",
         "https://zh.wikisource.org/wiki/香乘"
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "本草纲目 木之一 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/木之一",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "香乘 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4473,6 +5765,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/2684709"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Juniperus communis on GBIF",
+          "url": "https://www.gbif.org/species/2684709",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4521,6 +5821,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019914",
         "https://www.gbif.org/species/2927096",
         "https://zh.wikisource.org/wiki/本草綱目/菜之一"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Ocimum basilicum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019914",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Ocimum basilicum on GBIF",
+          "url": "https://www.gbif.org/species/2927096",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 菜之一 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/菜之一",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4570,6 +5890,32 @@
         "https://www.gbif.org/species/2927075",
         "https://zh.wikisource.org/wiki/本草綱目/草之三",
         "https://zh.wikisource.org/wiki/香乘"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Elsholtzia ciliata in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019619",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Elsholtzia ciliata on GBIF",
+          "url": "https://www.gbif.org/species/2927075",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之三 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之三",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "香乘 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4617,6 +5963,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012497",
         "https://www.gbif.org/species/5597349"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Aglaia odorata in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012497",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Aglaia odorata on GBIF",
+          "url": "https://www.gbif.org/species/5597349",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4665,6 +6025,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008034",
         "https://www.gbif.org/species/3083486",
         "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Paeonia lactiflora in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008034",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Paeonia lactiflora on GBIF",
+          "url": "https://www.gbif.org/species/3083486",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之三 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之三",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4712,6 +6092,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015767",
         "https://www.gbif.org/species/8080300"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Pimpinella anisum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015767",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Pimpinella anisum on GBIF",
+          "url": "https://www.gbif.org/species/8080300",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4758,6 +6152,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/3034775"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Cuminum cyminum on GBIF",
+          "url": "https://www.gbif.org/species/3034775",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4806,6 +6208,26 @@
         "https://www.gbif.org/species/5812747",
         "https://zh.wikisource.org/wiki/本草綱目/蟲之一",
         "https://zh.wikisource.org/wiki/香乘"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Kerria lacca (lac insect) on GBIF",
+          "url": "https://www.gbif.org/species/5812747",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 虫之一 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/蟲之一",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "香乘 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4854,6 +6276,26 @@
         "https://www.gbif.org/species/1341979",
         "https://www.gbif.org/species/1341976",
         "https://zh.wikisource.org/wiki/本草綱目/蟲之一"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Apis cerana (Eastern honey bee) on GBIF",
+          "url": "https://www.gbif.org/species/1341979",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Apis mellifera (Western honey bee) on GBIF",
+          "url": "https://www.gbif.org/species/1341976",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 虫之一 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/蟲之一",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4902,6 +6344,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005500",
         "https://www.gbif.org/species/5284483",
         "https://zh.wikisource.org/wiki/本草綱目/果之三"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Torreya grandis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005500",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Torreya grandis on GBIF",
+          "url": "https://www.gbif.org/species/5284483",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 果之三 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/果之三",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4950,6 +6412,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242313265",
         "https://www.gbif.org/species/3831801",
         "https://zh.wikisource.org/wiki/本草綱目/果之二"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Citrus japonica in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=242313265",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Citrus japonica on GBIF",
+          "url": "https://www.gbif.org/species/3831801",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 果之二 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/果之二",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -4996,6 +6478,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/4409131"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Castor fiber (Eurasian beaver) on GBIF",
+          "url": "https://www.gbif.org/species/4409131",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5044,6 +6534,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023545",
         "https://www.gbif.org/species/5395786",
         "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Blumea balsamifera in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023545",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Blumea balsamifera on GBIF",
+          "url": "https://www.gbif.org/species/5395786",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之三 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之三",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5091,6 +6601,20 @@
       "sameAs": [
         "https://www.gbif.org/species/10868891",
         "https://www.gbif.org/species/2775487"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Agave amica on GBIF",
+          "url": "https://www.gbif.org/species/10868891",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Polianthes tuberosa (synonym) on GBIF",
+          "url": "https://www.gbif.org/species/2775487",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5139,6 +6663,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015349",
         "https://www.gbif.org/species/3034646",
         "https://zh.wikisource.org/wiki/本草綱目/菜之一"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Anethum graveolens in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015349",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Anethum graveolens on GBIF",
+          "url": "https://www.gbif.org/species/3034646",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 菜之一 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/菜之一",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5188,6 +6732,32 @@
         "https://www.gbif.org/species/3047621",
         "https://www.gbif.org/species/3042751",
         "https://zh.wikisource.org/wiki/本草綱目/菜之一"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Brassica juncea in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200009253",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Sinapis alba on GBIF",
+          "url": "https://www.gbif.org/species/3047621",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Brassica juncea on GBIF",
+          "url": "https://www.gbif.org/species/3042751",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 菜之一 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/菜之一",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5236,6 +6806,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010636",
         "https://www.gbif.org/species/7818643",
         "https://zh.wikisource.org/wiki/本草綱目/果之一"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Armeniaca vulgaris (apricot) in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010636",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Prunus armeniaca on GBIF",
+          "url": "https://www.gbif.org/species/7818643",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 果之一 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/果之一",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5284,6 +6874,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005235",
         "https://www.gbif.org/species/2687885",
         "https://zh.wikisource.org/wiki/本草綱目/果之二"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Ginkgo biloba in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005235",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Ginkgo biloba on GBIF",
+          "url": "https://www.gbif.org/species/2687885",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 果之二 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/果之二",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5332,6 +6942,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015389",
         "https://www.gbif.org/species/6027415",
         "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Angelica sinensis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015389",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Angelica sinensis on GBIF",
+          "url": "https://www.gbif.org/species/6027415",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之三 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之三",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5378,6 +7008,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/5357190"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Myroxylon balsamum on GBIF",
+          "url": "https://www.gbif.org/species/5357190",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5426,6 +7064,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010697",
         "https://www.gbif.org/species/3000699",
         "https://zh.wikisource.org/wiki/本草綱目/果之二"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Chaenomeles sinensis (Chinese quince) in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010697",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Pseudocydonia sinensis on GBIF",
+          "url": "https://www.gbif.org/species/3000699",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 果之二 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/果之二",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5474,6 +7132,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005428",
         "https://www.gbif.org/species/2684855",
         "https://zh.wikisource.org/wiki/本草綱目/木之一"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Platycladus orientalis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005428",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Platycladus orientalis on GBIF",
+          "url": "https://www.gbif.org/species/2684855",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 木之一 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/木之一",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5520,6 +7198,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/2803398"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Vanilla planifolia on GBIF",
+          "url": "https://www.gbif.org/species/2803398",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5568,6 +7254,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011875",
         "https://www.gbif.org/species/2972983",
         "https://zh.wikisource.org/wiki/本草綱目/木之二"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Albizia julibrissin in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011875",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Albizia julibrissin on GBIF",
+          "url": "https://www.gbif.org/species/2972983",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 木之二 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/木之二",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5616,6 +7322,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005343",
         "https://www.gbif.org/species/5285215",
         "https://zh.wikisource.org/wiki/本草綱目/木之一"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Pinus in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005343",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Pinus massoniana on GBIF",
+          "url": "https://www.gbif.org/species/5285215",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 木之一 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/木之一",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5664,6 +7390,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025925",
         "https://www.gbif.org/species/5290171",
         "https://zh.wikisource.org/wiki/本草綱目/木之五"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Phyllostachys in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025925",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Phyllostachys nigra on GBIF",
+          "url": "https://www.gbif.org/species/5290171",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 木之五 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/木之五",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5712,6 +7458,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012345",
         "https://www.gbif.org/species/5360475",
         "https://zh.wikisource.org/wiki/本草綱目/草之四"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Trigonella foenum-graecum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012345",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Trigonella foenum-graecum on GBIF",
+          "url": "https://www.gbif.org/species/5360475",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之四 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之四",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5760,6 +7526,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=118546",
         "https://www.gbif.org/species/3639592",
         "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Ligusticum (genus) in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=118546",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Ligusticum chuanxiong on GBIF",
+          "url": "https://www.gbif.org/species/3639592",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之三 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之三",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5808,6 +7594,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012322",
         "https://www.gbif.org/species/2963569",
         "https://zh.wikisource.org/wiki/本草綱目/木之二"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Styphnolobium japonicum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012322",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Styphnolobium japonicum on GBIF",
+          "url": "https://www.gbif.org/species/2963569",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 木之二 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/木之二",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5856,6 +7662,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008041",
         "https://www.gbif.org/species/7155259",
         "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Paeonia suffruticosa in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008041",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Paeonia suffruticosa on GBIF",
+          "url": "https://www.gbif.org/species/7155259",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之三 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之三",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5904,6 +7730,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006379",
         "https://www.gbif.org/species/5361889",
         "https://zh.wikisource.org/wiki/本草綱目/木之三"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Morus alba in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006379",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Morus alba on GBIF",
+          "url": "https://www.gbif.org/species/5361889",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 木之三 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/木之三",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -5952,6 +7798,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023164",
         "https://www.gbif.org/species/8373355",
         "https://zh.wikisource.org/wiki/本草綱目/草之四"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Artemisia annua in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023164",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Artemisia annua on GBIF",
+          "url": "https://www.gbif.org/species/8373355",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之四 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之四",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6000,6 +7866,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001326",
         "https://www.gbif.org/species/5609573",
         "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Nepeta tenuifolia in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001326",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Nepeta tenuifolia on GBIF",
+          "url": "https://www.gbif.org/species/5609573",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之三 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之三",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6048,6 +7934,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008698",
         "https://www.gbif.org/species/3033982",
         "https://zh.wikisource.org/wiki/本草綱目/木之一"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Cinnamomum cassia in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008698",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Cinnamomum aromaticum on GBIF",
+          "url": "https://www.gbif.org/species/3033982",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 木之一 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/木之一",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6094,6 +8000,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/6433772"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Citrus bergamia on GBIF",
+          "url": "https://www.gbif.org/species/6433772",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6140,6 +8054,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/8077391"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Citrus aurantium on GBIF",
+          "url": "https://www.gbif.org/species/8077391",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6187,6 +8109,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022560",
         "https://www.gbif.org/species/2888763"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Valeriana officinalis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022560",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Valeriana officinalis on GBIF",
+          "url": "https://www.gbif.org/species/2888763",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6235,6 +8171,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008486",
         "https://www.gbif.org/species/7696841",
         "https://zh.wikisource.org/wiki/本草綱目/草之七"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Schisandra chinensis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008486",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Schisandra chinensis on GBIF",
+          "url": "https://www.gbif.org/species/7696841",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之七 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之七",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6283,6 +8239,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006671",
         "https://www.gbif.org/species/7313629",
         "https://zh.wikisource.org/wiki/本草綱目/草之二"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Asarum sieboldii in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006671",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Asarum sieboldii on GBIF",
+          "url": "https://www.gbif.org/species/7313629",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之二 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之二",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6331,6 +8307,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023936",
         "https://www.gbif.org/species/5403118",
         "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Eupatorium japonicum in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023936",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Eupatorium japonicum on GBIF",
+          "url": "https://www.gbif.org/species/5403118",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之三 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之三",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6379,6 +8375,26 @@
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008041",
         "https://www.gbif.org/species/7155259",
         "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Paeonia suffruticosa in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008041",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Paeonia suffruticosa on GBIF",
+          "url": "https://www.gbif.org/species/7155259",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "本草纲目 草之三 on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目/草之三",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6425,6 +8441,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/2927305"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Lavandula angustifolia on GBIF",
+          "url": "https://www.gbif.org/species/2927305",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6471,6 +8495,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/2927004"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Salvia officinalis on GBIF",
+          "url": "https://www.gbif.org/species/2927004",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6517,6 +8549,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/5341442"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Thymus vulgaris on GBIF",
+          "url": "https://www.gbif.org/species/5341442",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6563,6 +8603,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/8370958"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Matricaria chamomilla on GBIF",
+          "url": "https://www.gbif.org/species/8370958",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6609,6 +8657,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/5407583"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Cananga odorata on GBIF",
+          "url": "https://www.gbif.org/species/5407583",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6655,6 +8711,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/2978115"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Copaifera on GBIF",
+          "url": "https://www.gbif.org/species/2978115",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6701,6 +8765,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/5331181"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Viola odorata on GBIF",
+          "url": "https://www.gbif.org/species/5331181",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6747,6 +8819,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/7647136"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Citrus × limon on GBIF",
+          "url": "https://www.gbif.org/species/7647136",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6793,6 +8873,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/7469645"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Citrus × paradisi on GBIF",
+          "url": "https://www.gbif.org/species/7469645",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6840,6 +8928,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023201",
         "https://www.gbif.org/species/3121581"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Artemisia dracunculus in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023201",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Artemisia dracunculus on GBIF",
+          "url": "https://www.gbif.org/species/3121581",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6887,6 +8989,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019821",
         "https://www.gbif.org/species/2927175"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Mentha spicata in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019821",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Mentha spicata on GBIF",
+          "url": "https://www.gbif.org/species/2927175",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6933,6 +9049,14 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/8707933"
+      ],
+      "sources": [
+        {
+          "type": "taxonomy",
+          "title": "Mentha × piperita on GBIF",
+          "url": "https://www.gbif.org/species/8707933",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -6980,6 +9104,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014782",
         "https://www.gbif.org/species/3176787"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Eucalyptus globulus in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014782",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Eucalyptus globulus on GBIF",
+          "url": "https://www.gbif.org/species/3176787",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -7027,6 +9165,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019809",
         "https://www.gbif.org/species/5341501"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Melissa officinalis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019809",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Melissa officinalis on GBIF",
+          "url": "https://www.gbif.org/species/5341501",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -7074,6 +9226,20 @@
       "sameAs": [
         "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027600",
         "https://www.gbif.org/species/7459480"
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Convallaria majalis in Flora of China",
+          "url": "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027600",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "taxonomy",
+          "title": "Convallaria majalis on GBIF",
+          "url": "https://www.gbif.org/species/7459480",
+          "accessed": "2026-09-20"
+        }
       ]
     }
   ]

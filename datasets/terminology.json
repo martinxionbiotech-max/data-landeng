@@ -8,7 +8,7 @@
   "publisher": {
     "@id": "https://incenseherbs.com/#organization"
   },
-  "dateModified": "2026-09-10",
+  "dateModified": "2026-09-20",
   "inLanguage": [
     "en",
     "zh"
@@ -179,6 +179,14 @@
           "@type": "PropertyValue",
           "name": "Preferred English",
           "value": "materia medica"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "本草綱目 (Bencao Gangmu) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/本草綱目",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -686,6 +694,14 @@
           "name": "Preferred English",
           "value": "Hong Chu's Incense Manual"
         }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Hong Chu's Incense Manual) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1008,6 +1024,14 @@
           "name": "Preferred English",
           "value": "the Meng Liang Lu (Wu Zimu)"
         }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "夢粱錄 (Meng Liang Lu) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/夢粱錄",
+          "accessed": "2026-09-20"
+        }
       ]
     },
     {
@@ -1288,6 +1312,14 @@
           "@type": "PropertyValue",
           "name": "Preferred English",
           "value": "the Four Leisure Arts"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "夢粱錄 (Meng Liang Lu) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/夢粱錄",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -1587,6 +1619,14 @@
           "@type": "PropertyValue",
           "name": "Preferred English",
           "value": "the Incense Compendium (Zhou Jiazhou)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-20"
         }
       ]
     },
@@ -1914,6 +1954,14 @@
           "@type": "PropertyValue",
           "name": "Preferred English",
           "value": "incense manual"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Xiang Pu) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-20"
         }
       ]
     },
