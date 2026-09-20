@@ -1,0 +1,138 @@
+name: validate
+
+# Trigger: run on every push to main and on pull requests targeting main.
+# This keeps the datasets (datasets/*.json) machine-checked before they are
+# served from data.incenseherbs.com. The checks are:
+#   1) JSON parses for all 7 dataset files (5 existing + techniques + forms)
+#   2) termCode uniqueness within each file
+#   3) every citation/source URL domain is on the allow-list
+#      (efloras.org / gbif.org / wikisource.org / checklist.cites.org /
+#       data.incenseherbs.com / incenseherbs.com / schema.org)
+#   4) the MkDocs site builds cleanly (hooks.py copies datasets/ into site/)
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate-data:
+    name: Validate datasets
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate JSON, termCode uniqueness, and URL domains
+        run: |
+          python3 - <<'PY'
+          import json
+          import glob
+          import sys
+          from urllib.parse import urlparse
+
+          # Source/citation URL domains permitted in the datasets. Anything
+          # outside this set fails the build so no unverified link ships.
+          ALLOWED_DOMAINS = {
+              "efloras.org",
+              "gbif.org",
+              "wikisource.org",
+              "checklist.cites.org",
+              "data.incenseherbs.com",
+              "incenseherbs.com",
+              "schema.org",
+          }
+          # The `license` field points at the CC BY-SA legal text, which is
+          # license metadata rather than a data source. Exempted explicitly.
+          LICENSE_DOMAINS = {"creativecommons.org"}
+
+          files = sorted(glob.glob("datasets/*.json"))
+          if len(files) != 7:
+              print(f"ERROR: expected 7 dataset files, found {len(files)}: {files}")
+              sys.exit(1)
+
+          errors = []
+
+          def domain_of(url):
+              host = (urlparse(url).hostname or "").lower()
+              if host.startswith("www."):
+                  host = host[4:]
+              return host
+
+          def allowed(host):
+              return any(host == d or host.endswith("." + d) for d in ALLOWED_DOMAINS)
+
+          def walk(node, path, in_license):
+              if isinstance(node, dict):
+                  for k, v in node.items():
+                      walk(v, f"{path}.{k}", in_license or k == "license")
+              elif isinstance(node, list):
+                  for i, v in enumerate(node):
+                      walk(v, f"{path}[{i}]", in_license)
+              elif isinstance(node, str) and node.startswith(("http://", "https://")):
+                  host = domain_of(node)
+                  if in_license:
+                      if host not in LICENSE_DOMAINS and not allowed(host):
+                          errors.append(f"{path}: license URL on unexpected domain: {node}")
+                  else:
+                      if not allowed(host):
+                          errors.append(f"{path}: URL domain not allow-listed: {node} ({host})")
+
+          for f in files:
+              with open(f, encoding="utf-8") as fh:
+                  try:
+                      data = json.load(fh)
+                  except json.JSONDecodeError as e:
+                      errors.append(f"{f}: invalid JSON: {e}")
+                      continue
+
+              # Dataset shape + termCode uniqueness
+              if data.get("@type") != "Dataset":
+                  errors.append(f"{f}: @type is not 'Dataset'")
+              entities = data.get("mainEntity", [])
+              seen = {}
+              for e in entities:
+                  code = e.get("termCode")
+                  if not code:
+                      errors.append(f"{f}: entity without termCode")
+                      continue
+                  if code in seen:
+                      errors.append(f"{f}: duplicate termCode '{code}'")
+                  seen[code] = True
+
+              walk(data, f, False)
+
+          if errors:
+              print("Validation FAILED:")
+              for e in errors:
+                  print("  -", e)
+              sys.exit(1)
+
+          print(f"OK: validated {len(files)} dataset files")
+          print(f"    {sum(len(json.load(open(f))['mainEntity']) for f in files)} entities total")
+          PY
+
+  build-site:
+    name: Build MkDocs site
+    runs-on: ubuntu-latest
+    needs: validate-data
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install MkDocs
+        run: pip install mkdocs
+
+      - name: Build site
+        run: mkdocs build --clean
