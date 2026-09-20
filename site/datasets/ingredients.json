@@ -8,7 +8,7 @@
   "publisher": {
     "@id": "https://incenseherbs.com/#organization"
   },
-  "dateModified": "2026-09-19",
+  "dateModified": "2026-09-20",
   "inLanguage": [
     "en",
     "zh"
@@ -4996,6 +4996,578 @@
       ],
       "sameAs": [
         "https://www.gbif.org/species/4409131"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "blumea-balsamifera",
+      "name": "Blumea Balsamifera",
+      "alternateName": [
+        "艾纳香",
+        "àinàxiāng",
+        "Blumea balsamifera"
+      ],
+      "description": "艾纳香 (àinàxiāng) is a Chinese botanical incense ingredient — Blumea balsamifera — with an aroma profile of camphoraceous, herbal, cooling, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "艾纳香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "àinàxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Blumea balsamifera"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "camphoraceous, herbal, cooling, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023545",
+        "https://www.gbif.org/species/5395786",
+        "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "tuberose",
+      "name": "Tuberose",
+      "alternateName": [
+        "晚香玉",
+        "wǎnxiāngyù",
+        "Agave amica (syn. Polianthes tuberosa)"
+      ],
+      "description": "晚香玉 (wǎnxiāngyù) is a Chinese botanical incense ingredient — Agave amica (syn. Polianthes tuberosa) — with an aroma profile of sweet, floral, creamy, heady.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "晚香玉"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "wǎnxiāngyù"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Agave amica (syn. Polianthes tuberosa)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, creamy, heady"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/10868891",
+        "https://www.gbif.org/species/2775487"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "dill",
+      "name": "Dill",
+      "alternateName": [
+        "莳萝",
+        "shíluó",
+        "Anethum graveolens"
+      ],
+      "description": "莳萝 (shíluó) is a Chinese botanical incense ingredient — Anethum graveolens — with an aroma profile of herbal, fresh, anise-like, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "莳萝"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shíluó"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Anethum graveolens"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, fresh, anise-like, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015349",
+        "https://www.gbif.org/species/3034646",
+        "https://zh.wikisource.org/wiki/本草綱目/菜之一"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "mustard",
+      "name": "Mustard Seed",
+      "alternateName": [
+        "芥子",
+        "jièzǐ",
+        "Sinapis alba (white mustard); Brassica juncea (brown/leaf mustard)"
+      ],
+      "description": "芥子 (jièzǐ) is a Chinese botanical incense ingredient — Sinapis alba (white mustard); Brassica juncea (brown/leaf mustard) — with an aroma profile of pungent, sharp, spicy, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "芥子"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jièzǐ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Sinapis alba (white mustard); Brassica juncea (brown/leaf mustard)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "pungent, sharp, spicy, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200009253",
+        "https://www.gbif.org/species/3047621",
+        "https://www.gbif.org/species/3042751",
+        "https://zh.wikisource.org/wiki/本草綱目/菜之一"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "apricot-kernel",
+      "name": "Apricot Kernel",
+      "alternateName": [
+        "杏仁",
+        "xìngrén",
+        "Prunus armeniaca (apricot kernel)"
+      ],
+      "description": "杏仁 (xìngrén) is a Chinese botanical incense ingredient — Prunus armeniaca (apricot kernel) — with an aroma profile of sweet, nutty, almondy, bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "杏仁"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xìngrén"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Prunus armeniaca (apricot kernel)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, nutty, almondy, bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Seeds"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010636",
+        "https://www.gbif.org/species/7818643",
+        "https://zh.wikisource.org/wiki/本草綱目/果之一"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "ginkgo",
+      "name": "Ginkgo Nut",
+      "alternateName": [
+        "银杏",
+        "yínxìng",
+        "Ginkgo biloba"
+      ],
+      "description": "银杏 (yínxìng) is a Chinese botanical incense ingredient — Ginkgo biloba — with an aroma profile of nutty, sweet, mild, slightly bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "银杏"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yínxìng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Ginkgo biloba"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "nutty, sweet, mild, slightly bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Seeds"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005235",
+        "https://www.gbif.org/species/2687885",
+        "https://zh.wikisource.org/wiki/本草綱目/果之二"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "angelica-sinensis",
+      "name": "Dong Quai",
+      "alternateName": [
+        "当归",
+        "dāngguī",
+        "Angelica sinensis"
+      ],
+      "description": "当归 (dāngguī) is a Chinese botanical incense ingredient — Angelica sinensis — with an aroma profile of herbal, sweet, warm, slightly spicy.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "当归"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "dāngguī"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Angelica sinensis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, sweet, warm, slightly spicy"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200015389",
+        "https://www.gbif.org/species/6027415",
+        "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "peru-balsam",
+      "name": "Peru Balsam",
+      "alternateName": [
+        "秘鲁香脂",
+        "bìlǔ xiāngzhī",
+        "Myroxylon balsamum"
+      ],
+      "description": "秘鲁香脂 (bìlǔ xiāngzhī) is a Chinese botanical incense ingredient — Myroxylon balsamum — with an aroma profile of sweet, vanilla, balsamic, warm.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "秘鲁香脂"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bìlǔ xiāngzhī"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Myroxylon balsamum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, vanilla, balsamic, warm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/5357190"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "quince",
+      "name": "Quince",
+      "alternateName": [
+        "木瓜",
+        "mùguā",
+        "Pseudocydonia sinensis (syn. Chaenomeles sinensis)"
+      ],
+      "description": "木瓜 (mùguā) is a Chinese botanical incense ingredient — Pseudocydonia sinensis (syn. Chaenomeles sinensis) — with an aroma profile of fruity, sweet, floral, tart.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "木瓜"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mùguā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Pseudocydonia sinensis (syn. Chaenomeles sinensis)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "fruity, sweet, floral, tart"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fruits"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200010697",
+        "https://www.gbif.org/species/3000699",
+        "https://zh.wikisource.org/wiki/本草綱目/果之二"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "platycladus-leaves",
+      "name": "Arborvitae Leaves",
+      "alternateName": [
+        "侧柏叶",
+        "cèbǎi yè",
+        "Platycladus orientalis (the leafy branchlets)"
+      ],
+      "description": "侧柏叶 (cèbǎi yè) is a Chinese botanical incense ingredient — Platycladus orientalis (the leafy branchlets) — with an aroma profile of woody, fresh, green, slightly resinous.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "侧柏叶"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "cèbǎi yè"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Platycladus orientalis (the leafy branchlets)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "woody, fresh, green, slightly resinous"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005428",
+        "https://www.gbif.org/species/2684855",
+        "https://zh.wikisource.org/wiki/本草綱目/木之一"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "vanilla",
+      "name": "Vanilla Bean",
+      "alternateName": [
+        "香草荚",
+        "xiāngcǎo jiá",
+        "Vanilla planifolia"
+      ],
+      "description": "香草荚 (xiāngcǎo jiá) is a Chinese botanical incense ingredient — Vanilla planifolia — with an aroma profile of sweet, creamy, warm, gourmand.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "香草荚"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngcǎo jiá"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Vanilla planifolia"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, creamy, warm, gourmand"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fruits"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/2803398"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "silk-tree",
+      "name": "Silk Tree Flower",
+      "alternateName": [
+        "合欢花",
+        "héhuān huā",
+        "Albizia julibrissin"
+      ],
+      "description": "合欢花 (héhuān huā) is a Chinese botanical incense ingredient — Albizia julibrissin — with an aroma profile of sweet, floral, delicate, slightly powdery.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "合欢花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "héhuān huā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Albizia julibrissin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, delicate, slightly powdery"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200011875",
+        "https://www.gbif.org/species/2972983",
+        "https://zh.wikisource.org/wiki/本草綱目/木之二"
       ]
     }
   ]
