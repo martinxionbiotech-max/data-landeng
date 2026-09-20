@@ -6141,6 +6141,567 @@
       "sameAs": [
         "https://www.gbif.org/species/8077391"
       ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "valerian",
+      "name": "Valerian",
+      "alternateName": [
+        "缬草",
+        "xiécǎo",
+        "Valeriana officinalis"
+      ],
+      "description": "缬草 (xiécǎo) is a Chinese botanical incense ingredient — Valeriana officinalis — with an aroma profile of earthy, musky, woody, rooty.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "缬草"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiécǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Valeriana officinalis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "earthy, musky, woody, rooty"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200022560",
+        "https://www.gbif.org/species/2888763"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "schisandra",
+      "name": "Schisandra",
+      "alternateName": [
+        "五味子",
+        "wǔwèizǐ",
+        "Schisandra chinensis"
+      ],
+      "description": "五味子 (wǔwèizǐ) is a Chinese botanical incense ingredient — Schisandra chinensis — with an aroma profile of fruity, berry, sour, slightly woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "五味子"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "wǔwèizǐ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Schisandra chinensis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "fruity, berry, sour, slightly woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fruits"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008486",
+        "https://www.gbif.org/species/7696841",
+        "https://zh.wikisource.org/wiki/本草綱目/草之七"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "asarum",
+      "name": "Asarum",
+      "alternateName": [
+        "细辛",
+        "xìxīn",
+        "Asarum sieboldii"
+      ],
+      "description": "细辛 (xìxīn) is a Chinese botanical incense ingredient — Asarum sieboldii — with an aroma profile of pungent, spicy, rooty, camphoraceous.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "细辛"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xìxīn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Asarum sieboldii"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "pungent, spicy, rooty, camphoraceous"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006671",
+        "https://www.gbif.org/species/7313629",
+        "https://zh.wikisource.org/wiki/本草綱目/草之二"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "eupatorium-japonicum",
+      "name": "Zelan",
+      "alternateName": [
+        "泽兰",
+        "zélán",
+        "Eupatorium japonicum"
+      ],
+      "description": "泽兰 (zélán) is a Chinese botanical incense ingredient — Eupatorium japonicum — with an aroma profile of herbal, aromatic, fresh, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "泽兰"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zélán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Eupatorium japonicum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, aromatic, fresh, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023936",
+        "https://www.gbif.org/species/5403118",
+        "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "tree-peony-bark",
+      "name": "Tree Peony Bark",
+      "alternateName": [
+        "牡丹皮",
+        "mǔdān pí",
+        "Paeonia suffruticosa (root bark)"
+      ],
+      "description": "牡丹皮 (mǔdān pí) is a Chinese botanical incense ingredient — Paeonia suffruticosa (root bark) — with an aroma profile of rooty, earthy, woody, faintly floral.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "牡丹皮"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mǔdān pí"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Paeonia suffruticosa (root bark)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "rooty, earthy, woody, faintly floral"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008041",
+        "https://www.gbif.org/species/7155259",
+        "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "lavender",
+      "name": "Lavender",
+      "alternateName": [
+        "薰衣草",
+        "xūnyīcǎo",
+        "Lavandula angustifolia"
+      ],
+      "description": "薰衣草 (xūnyīcǎo) is a Chinese botanical incense ingredient — Lavandula angustifolia — with an aroma profile of floral, herbal, fresh, camphoraceous.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "薰衣草"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xūnyīcǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Lavandula angustifolia"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, herbal, fresh, camphoraceous"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/2927305"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "sage",
+      "name": "Sage",
+      "alternateName": [
+        "鼠尾草",
+        "shǔwěicǎo",
+        "Salvia officinalis"
+      ],
+      "description": "鼠尾草 (shǔwěicǎo) is a Chinese botanical incense ingredient — Salvia officinalis — with an aroma profile of herbal, camphoraceous, green, slightly peppery.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "鼠尾草"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shǔwěicǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Salvia officinalis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, camphoraceous, green, slightly peppery"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/2927004"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "thyme",
+      "name": "Thyme",
+      "alternateName": [
+        "百里香",
+        "bǎilǐxiāng",
+        "Thymus vulgaris"
+      ],
+      "description": "百里香 (bǎilǐxiāng) is a Chinese botanical incense ingredient — Thymus vulgaris — with an aroma profile of herbal, green, spicy, slightly medicinal.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "百里香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bǎilǐxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Thymus vulgaris"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, green, spicy, slightly medicinal"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/5341442"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "chamomile",
+      "name": "Chamomile",
+      "alternateName": [
+        "洋甘菊",
+        "yánggānjú",
+        "Matricaria chamomilla"
+      ],
+      "description": "洋甘菊 (yánggānjú) is a Chinese botanical incense ingredient — Matricaria chamomilla — with an aroma profile of sweet, apple-like, floral, hay-like.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "洋甘菊"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yánggānjú"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Matricaria chamomilla"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, apple-like, floral, hay-like"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/8370958"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "ylang-ylang",
+      "name": "Ylang-Ylang",
+      "alternateName": [
+        "依兰",
+        "yīlán",
+        "Cananga odorata"
+      ],
+      "description": "依兰 (yīlán) is a Chinese botanical incense ingredient — Cananga odorata — with an aroma profile of floral, sweet, creamy, slightly fruity.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "依兰"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yīlán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Cananga odorata"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, sweet, creamy, slightly fruity"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/5407583"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "copaiba",
+      "name": "Copaiba",
+      "alternateName": [
+        "古巴香脂",
+        "gǔbā xiāngzhī",
+        "Copaifera spp. (resin)"
+      ],
+      "description": "古巴香脂 (gǔbā xiāngzhī) is a Chinese botanical incense ingredient — Copaifera spp. (resin) — with an aroma profile of woody, balsamic, resinous, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "古巴香脂"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "gǔbā xiāngzhī"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Copaifera spp. (resin)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "woody, balsamic, resinous, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Resins"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/2978115"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "violet",
+      "name": "Violet",
+      "alternateName": [
+        "紫罗兰",
+        "zǐluólán",
+        "Viola odorata"
+      ],
+      "description": "紫罗兰 (zǐluólán) is a Chinese botanical incense ingredient — Viola odorata — with an aroma profile of floral, sweet, powdery, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "紫罗兰"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zǐluólán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Viola odorata"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, sweet, powdery, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/5331181"
+      ]
     }
   ]
 }
