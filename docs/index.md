@@ -1,5 +1,7 @@
 # LanDeng Open Datasets
 
+**Main site:** [incenseherbs.com](https://incenseherbs.com) — the LanDeng knowledge platform. Browse the [ingredient encyclopedia](https://incenseherbs.com/ingredients/), the [Chinese incense guide](https://incenseherbs.com/chinese-incense/), and the [ingredient encyclopedia index](https://incenseherbs.com/ingredients/).
+
 Machine-readable, link-worthy knowledge datasets for the LanDeng (澜灯) platform — Chinese botanical incense, documented in English with source transparency.
 
 | Dataset | File | Status |

@@ -16,3 +16,5 @@ The ten aroma families of Chinese botanical incense, each with its member ingred
 | Balsamic | 5 |
 
 [Download the JSON](datasets/aroma.json)
+
+Context on the main site: [https://incenseherbs.com/ingredients/](https://incenseherbs.com/ingredients/)

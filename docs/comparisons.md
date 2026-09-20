@@ -25,3 +25,5 @@ Fields per entity: `termCode` · `name` · `alternateName` (Chinese, where appli
 | seal-incense | Seal Incense (香篆) | format |
 
 [Download the JSON](datasets/comparisons.json)
+
+Context on the main site: [https://incenseherbs.com/blog/incense-material-comparison-matrix/](https://incenseherbs.com/blog/incense-material-comparison-matrix/)
