@@ -11,5 +11,7 @@ Machine-readable, link-worthy knowledge datasets for the LanDeng (澜灯) platfo
 | Aroma database | [datasets/aroma.json](https://data.incenseherbs.com/datasets/aroma.json) | live (10 aroma families) |
 | Material database | [datasets/materials.json](https://data.incenseherbs.com/datasets/materials.json) | live (15 entities) |
 | Comparison database | [datasets/comparisons.json](https://data.incenseherbs.com/datasets/comparisons.json) | live (17 profiles) |
+| Technique database | [datasets/techniques.json](https://data.incenseherbs.com/datasets/techniques.json) | live (12 techniques) |
+| Form database | [datasets/forms.json](https://data.incenseherbs.com/datasets/forms.json) | live (12 forms) |
 
 All datasets use Schema.org `Dataset` + `DefinedTerm` structures. See [Format & Governance](format.md).
