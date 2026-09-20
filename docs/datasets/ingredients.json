@@ -6702,6 +6702,379 @@
       "sameAs": [
         "https://www.gbif.org/species/5331181"
       ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "lemon",
+      "name": "Lemon",
+      "alternateName": [
+        "柠檬",
+        "níngméng",
+        "Citrus × limon"
+      ],
+      "description": "柠檬 (níngméng) is a Chinese botanical incense ingredient — Citrus × limon — with an aroma profile of citrus, bright, zesty, sweet, slightly sour.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "柠檬"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "níngméng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Citrus × limon"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "citrus, bright, zesty, sweet, slightly sour"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fruits"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/7647136"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "grapefruit",
+      "name": "Grapefruit",
+      "alternateName": [
+        "葡萄柚",
+        "pútáoyòu",
+        "Citrus × paradisi"
+      ],
+      "description": "葡萄柚 (pútáoyòu) is a Chinese botanical incense ingredient — Citrus × paradisi — with an aroma profile of citrus, fresh, bittersweet, green, slightly woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "葡萄柚"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "pútáoyòu"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Citrus × paradisi"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "citrus, fresh, bittersweet, green, slightly woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fruits"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/7469645"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "tarragon",
+      "name": "Tarragon",
+      "alternateName": [
+        "龙蒿",
+        "lónghāo",
+        "Artemisia dracunculus"
+      ],
+      "description": "龙蒿 (lónghāo) is a Chinese botanical incense ingredient — Artemisia dracunculus — with an aroma profile of herbal, anise-like, green, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "龙蒿"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "lónghāo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Artemisia dracunculus"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, anise-like, green, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023201",
+        "https://www.gbif.org/species/3121581"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "spearmint",
+      "name": "Spearmint",
+      "alternateName": [
+        "留兰香",
+        "liúlánxiāng",
+        "Mentha spicata"
+      ],
+      "description": "留兰香 (liúlánxiāng) is a Chinese botanical incense ingredient — Mentha spicata — with an aroma profile of cooling, minty, sweet, fresh, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "留兰香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "liúlánxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Mentha spicata"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "cooling, minty, sweet, fresh, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019821",
+        "https://www.gbif.org/species/2927175"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "peppermint",
+      "name": "Peppermint",
+      "alternateName": [
+        "胡椒薄荷",
+        "hújiāo bòhé",
+        "Mentha × piperita"
+      ],
+      "description": "胡椒薄荷 (hújiāo bòhé) is a Chinese botanical incense ingredient — Mentha × piperita — with an aroma profile of cooling, minty, sharp, camphoraceous, sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "胡椒薄荷"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "hújiāo bòhé"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Mentha × piperita"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "cooling, minty, sharp, camphoraceous, sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/8707933"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "eucalyptus",
+      "name": "Eucalyptus",
+      "alternateName": [
+        "桉叶",
+        "ānyè",
+        "Eucalyptus globulus"
+      ],
+      "description": "桉叶 (ānyè) is a Chinese botanical incense ingredient — Eucalyptus globulus — with an aroma profile of camphoraceous, fresh, sharp, slightly medicinal, clean.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "桉叶"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "ānyè"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Eucalyptus globulus"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "camphoraceous, fresh, sharp, slightly medicinal, clean"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200014782",
+        "https://www.gbif.org/species/3176787"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "lemon-balm",
+      "name": "Lemon Balm",
+      "alternateName": [
+        "香蜂草",
+        "xiāngfēngcǎo",
+        "Melissa officinalis"
+      ],
+      "description": "香蜂草 (xiāngfēngcǎo) is a Chinese botanical incense ingredient — Melissa officinalis — with an aroma profile of lemony, herbal, fresh, slightly sweet, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "香蜂草"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngfēngcǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Melissa officinalis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "lemony, herbal, fresh, slightly sweet, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200019809",
+        "https://www.gbif.org/species/5341501"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "lily-of-the-valley",
+      "name": "Lily of the Valley",
+      "alternateName": [
+        "铃兰",
+        "línglán",
+        "Convallaria majalis"
+      ],
+      "description": "铃兰 (línglán) is a Chinese botanical incense ingredient — Convallaria majalis — with an aroma profile of floral, green, sweet, fresh, delicate.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "铃兰"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "línglán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Convallaria majalis"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, green, sweet, fresh, delicate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200027600",
+        "https://www.gbif.org/species/7459480"
+      ]
     }
   ]
 }
