@@ -1,0 +1,632 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://data.incenseherbs.com/datasets/techniques.json",
+  "name": "LanDeng Incense Technique Database",
+  "description": "Machine-readable definitions of Chinese botanical incense techniques — heating, pressing, blending, appreciation, and carrying methods. Extracted from the LanDeng (澜灯) incense encyclopedia; every fact is traceable to a source page, and unverified facts are marked unverified.",
+  "url": "https://data.incenseherbs.com/datasets/techniques.json",
+  "publisher": {
+    "@id": "https://incenseherbs.com/#organization"
+  },
+  "dateModified": "2026-09-20",
+  "inLanguage": [
+    "en",
+    "zh"
+  ],
+  "isAccessibleForFree": true,
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://data.incenseherbs.com/datasets/techniques.json"
+  },
+  "mainEntity": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "indirect-fire",
+      "name": "Indirect-Fire Incense",
+      "alternateName": [
+        "隔火焚香",
+        "gé huǒ fén xiāng"
+      ],
+      "description": "隔火焚香 (gé huǒ fén xiāng, \"incense across fire\") — the classical method of heating incense without burning it: a hot charcoal buried in ash, with a thin plate (silver leaf or mica) on top carrying the material, which warms but does not combust.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "heating technique (indirect-fire; warm, not burn)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "Song dynasty (classical); precursor of Japanese kōdō"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "agarwood/sandalwood chips, resin, powder"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "censer (香炉), ash (香灰), charcoal (香炭), silver leaf (银叶) / mica (云母) plate, chopsticks (香箸)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "minimal / near-zero (lowest-particulate method in the tradition)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "kōdō (香道), electric incense heater (modern equivalent)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "隔火焚香 (Indirect-Fire Incense): Scent, No Smoke",
+          "url": "https://incenseherbs.com/blog/gehuo-fenxiang-setup/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "seal-incense",
+      "name": "Seal Incense",
+      "alternateName": [
+        "篆香",
+        "打香篆",
+        "打香印",
+        "zhuàn xiāng"
+      ],
+      "description": "香篆 (xiāng zhuàn, also 打香篆 / 打香印 \"stamping incense\") — the practice of pressing incense powder into a carved pattern with a metal mold and lighting one end so the pattern burns in sequence, serving visual beauty and timekeeping.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "powder-pressing technique; also a timekeeping practice"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "classical (the \"incense clock\" before mechanical clocks)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "incense powder"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "censer with ash, metal mold (香篆模 / 香印)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "moderate (powder lit along the pattern)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "timekeeping, meditation, visual ritual"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香篆 (Seal Incense): Powder Pressed Into Patterns",
+          "url": "https://incenseherbs.com/blog/incense-seal-zhuanxiang/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "hexiang-blending",
+      "name": "合香 Blending",
+      "alternateName": [
+        "合香",
+        "hé xiāng"
+      ],
+      "description": "合香 (hé xiāng, \"compound incense\") — the classical practice of composing a blend of multiple ingredients on the 君臣佐使 (chief–minister–assistant–guide) principle, the same structural logic as a Chinese herbal formula.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "compound-blending technique (formula art, not single-note)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "classical (Song–Ming manuals: 香谱, 香乘)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "woods, resins, spices, herbs/roots, florals/fruits, binders (honey, makko, musk)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "scale (weighing), grinding, steaming, aging vessels"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "varies by formed shape (stick, pill, powder)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "君臣佐使 (chief–minister–assistant–guide), 香方 recipes"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "The 合香 Blending System: Composed Like a Formula",
+          "url": "https://incenseherbs.com/blog/hexiang-blending-system/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "incense-appreciation",
+      "name": "Incense Appreciation",
+      "alternateName": [
+        "品香",
+        "pǐnxiāng"
+      ],
+      "description": "品香 (pǐnxiāng) — incense appreciation; attending to a fragrant wood (chiefly agarwood) with the focused, sustained attention given to music, codified in Japanese kōdō as \"listening\" (聞香, monkō) to fragrance.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "appreciation technique (\"listening\" to fragrance)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "codified in kōdō (Muromachi, c. 1336–1573); Chinese origin in Song 隔火焚香"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "agarwood (jinkō 沈香) chiefly; sandalwood (白檀) secondary"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "kōdō tools (香道具): ash, charcoal, mica plate, chopsticks, ash press"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "near-zero (near-flameless warming)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "kōdō (香道), rikkoku gomi (六国五味), monkō (聞香)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Japanese Incense & Kōdō (香道): The Art From China",
+          "url": "https://incenseherbs.com/blog/japanese-incense-kodo/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "incense-ceremony",
+      "name": "Incense Ceremony",
+      "alternateName": [
+        "香道",
+        "xiāngdào"
+      ],
+      "description": "香道 (xiāngdào, \"the Way of Fragrance\") — the ceremonial appreciation of incense as a cultivated art, counted among the refined pastimes (四般闲事) and formalized in Japan as kōdō alongside the tea ceremony and flower arranging.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ceremonial art / practice (not a household habit)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "codified in kōdō (Muromachi); Chinese origin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "agarwood (jinkō 沈香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "kōdō tools (香道具): ash, charcoal, mica plate, ash press, chopsticks"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "near-zero (aesthetic of restraint)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "品香 (incense appreciation), kumikō (組香), genjikō (源氏香)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Japanese Incense & Kōdō (香道): The Art From China",
+          "url": "https://incenseherbs.com/blog/japanese-incense-kodo/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "pill-forming",
+      "name": "Pill Forming",
+      "alternateName": [
+        "香丸",
+        "xiāngwán"
+      ],
+      "description": "香丸 (xiāngwán) — the classical 合香 delivery technique of binding a compound blend with honey, rolling it into pellets, and (in some recipes) coating the outside and air-drying before burning.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "forming technique (knead, roll into pellets)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "classical (合香 pellet form, e.g. 二苏旧局)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "compound blend bound with honey; optional coat (e.g. jasmine)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "hand rolling; air-drying (unverified detail: no dedicated tool named)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "unverified (burned as a pellet)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "合香 (hexiang-blending), 二苏旧局 recipe"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "The 合香 Blending System: Composed Like a Formula",
+          "url": "https://incenseherbs.com/blog/hexiang-blending-system/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "sachet",
+      "name": "Scented Sachet",
+      "alternateName": [
+        "香囊",
+        "xiāngnáng"
+      ],
+      "description": "香囊 (xiāngnáng) — a small cloth pouch of fragrant herbs worn or hung for their scent; a carrying/wearing tradition rather than a burned one, in which aromatic roots and leaves release fragrance by proximity.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "carrying / wearing scent technique (no burning)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "classical (materia-medica / 香囊 tradition)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "aromatic roots and leaves (当归 angelica, 松针 pine needles, 青蒿 sweet wormwood, 细辛 asarum)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "cloth sachet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "none (not burned)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "佩 (wearing), materia medica"
+        }
+      ],
+      "sources": [
+        {
+          "type": "botanical",
+          "title": "Angelica (当归) — the Sachet Root",
+          "url": "https://incenseherbs.com/ingredients/angelica-sinensis/",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "botanical",
+          "title": "Pine Needles (松针) — Green Conifer Note",
+          "url": "https://incenseherbs.com/ingredients/pine-needles/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "fumigation",
+      "name": "Fumigation",
+      "alternateName": [
+        "熏香",
+        "xūnxiāng"
+      ],
+      "description": "熏香 (xūnxiāng) — incense that is burned / fumigated, the basic combustion practice of burning aromatic material to scent a space.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "burning / fumigation technique"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "classical (widespread)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "incense material (burned)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "burner / censer (香炉)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "present (combustion)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "花熏香 (flower-scenting), ritual offering (焚香)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Daphne (瑞香) — the Winter Flower",
+          "url": "https://incenseherbs.com/ingredients/daphne/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "flower-scenting",
+      "name": "Flower-Scenting",
+      "alternateName": [
+        "花熏香",
+        "huā xūn xiāng"
+      ],
+      "description": "花熏香 (huā xūn xiāng) — the flower-steaming / flower-scenting technique recorded in the Ming-dynasty 香乘, by which a blossom (e.g. 瑞香 Daphne) scents a material rather than being burned as incense in its own right.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "flower-steaming / scenting technique"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "Ming dynasty (recorded in 香乘 / Xiang Cheng)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "flowers (e.g. 瑞香 Daphne odora)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "steaming apparatus (unverified detail: process named, not tooled)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "n/a (scenting, not burning)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "香乘 (Xiang Cheng), 熏香 (fumigation)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Daphne (瑞香) — the Winter Flower",
+          "url": "https://incenseherbs.com/ingredients/daphne/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "no-flame-heating",
+      "name": "No-Flame Heating",
+      "alternateName": [
+        "空熏",
+        "kōngxūn"
+      ],
+      "description": "空熏 (kōngxūn) — no-flame heating: releasing aroma below combustion temperature, achieved today with an electric incense heater, the accessible modern equivalent of 隔火焚香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "heating technique (no flame)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "unverified (modern electric heater; classical principle of 隔火焚香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "resin, wood chips, powder"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "electric incense heater (modern equivalent of 隔火焚香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "minimal (below combustion)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "隔火焚香 (indirect-fire), electric heater"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "隔火焚香 (Indirect-Fire Incense): Scent, No Smoke",
+          "url": "https://incenseherbs.com/blog/gehuo-fenxiang-setup/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "single-material",
+      "name": "Single-Material Appreciation",
+      "alternateName": [
+        "单方",
+        "dān fāng"
+      ],
+      "description": "单方 (dān fāng, \"single formula\") — appreciating a single material alone (a piece of agarwood, a stick of pure sandalwood); the art lies in the material's own quality and grading, via heating technique.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "single-material appreciation (vs. compound 复方)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "classical"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "a single material (agarwood or sandalwood)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "heating (隔火焚香) for appreciation and grading"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "varies by heating method"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "复方 (compound), 隔火焚香 (indirect-fire), grading"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "The 合香 Blending System: Composed Like a Formula",
+          "url": "https://incenseherbs.com/blog/hexiang-blending-system/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "compound-formula",
+      "name": "Compound Formula",
+      "alternateName": [
+        "复方",
+        "fù fāng"
+      ],
+      "description": "复方 (fù fāng, \"compound formula\") — 合香 proper: multiple materials composed into a structured blend on the 君臣佐使 principle.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "compound-blending approach (vs. single-material 单方)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Period",
+          "value": "classical"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Materials",
+          "value": "multiple materials (woods, resins, spices, herbs)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Equipment",
+          "value": "blending / forming (see 合香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Smoke level",
+          "value": "varies by formed shape"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "合香 (hexiang-blending), 单方 (single-material), 君臣佐使"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "The 合香 Blending System: Composed Like a Formula",
+          "url": "https://incenseherbs.com/blog/hexiang-blending-system/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    }
+  ]
+}

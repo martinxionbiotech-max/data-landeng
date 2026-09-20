@@ -1,0 +1,572 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://data.incenseherbs.com/datasets/forms.json",
+  "name": "LanDeng Incense Form Database",
+  "description": "Machine-readable definitions of Chinese botanical incense forms — sticks, coils, cones, powder, resin, pills, beads, and the prepared low-smoke / smokeless categories. Extracted from the LanDeng (澜灯) incense encyclopedia; every fact is traceable to a source page, and unverified facts are marked unverified.",
+  "url": "https://data.incenseherbs.com/datasets/forms.json",
+  "publisher": {
+    "@id": "https://incenseherbs.com/#organization"
+  },
+  "dateModified": "2026-09-20",
+  "inLanguage": [
+    "en",
+    "zh"
+  ],
+  "isAccessibleForFree": true,
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "application/json",
+    "contentUrl": "https://data.incenseherbs.com/datasets/forms.json"
+  },
+  "mainEntity": [
+    {
+      "@type": "DefinedTerm",
+      "termCode": "stick",
+      "name": "Incense Stick",
+      "alternateName": [
+        "线香",
+        "xiànxiāng"
+      ],
+      "description": "线香 (xiànxiāng) — the everyday default incense form: a thin rod of fragrant material, either a bamboo-core coated in paste or a coreless stick pressed from the material itself.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "incense stick (线香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "bamboo-core (thin splint coated in paste) or coreless (solid paste, no core)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "~20–60 min (coreless ~25–30 min; bamboo-core ~45–60 min)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "moderate (low–moderate for thin/coreless sticks)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "daily use, meditation, timed sessions; the everyday default"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Incense Sticks: The Everyday Format, Explained",
+          "url": "https://incenseherbs.com/blog/incense-sticks/",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "Which Incense Format Is Right for You?",
+          "url": "https://incenseherbs.com/blog/which-incense-format/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "coil",
+      "name": "Incense Coil",
+      "alternateName": [
+        "盘香",
+        "pánxiāng"
+      ],
+      "description": "盘香 (pánxiāng) — the hours-long incense form: a spiral laid flat on a stand, burning continuously for long, steady room scent.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "incense coil (盘香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "spiral, laid flat on a stand or plate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "~1.5–4 hours (larger coils longer)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "low–moderate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "long, continuous room scent; temples, long ceremonies"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Which Incense Format Is Right for You?",
+          "url": "https://incenseherbs.com/blog/which-incense-format/",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "Incense Burn Time Format Matrix: Stick to Powder",
+          "url": "https://incenseherbs.com/blog/incense-burn-time-format-matrix/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "cone",
+      "name": "Incense Cone",
+      "alternateName": [
+        "塔香",
+        "tǎxiāng"
+      ],
+      "description": "塔香 (tǎxiāng, \"tower incense\") — the conical self-supporting incense form that burns down completely, for a short, self-contained session or the backflow visual effect.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "incense cone / tower (塔香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "self-supporting cone that burns down completely"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "~10–15 min (format guide); ~15–30 min (burn-time matrix)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "moderate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "short ritual, quick accent; backflow visual effect"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Which Incense Format Is Right for You?",
+          "url": "https://incenseherbs.com/blog/which-incense-format/",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "Incense Burn Time Format Matrix: Stick to Powder",
+          "url": "https://incenseherbs.com/blog/incense-burn-time-format-matrix/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "backflow-cone",
+      "name": "Backflow Cone",
+      "alternateName": [
+        "倒流香",
+        "dàoliúxiāng"
+      ],
+      "description": "倒流香 (dàoliúxiāng) — a hollow incense cone with a central channel, chosen almost entirely for its downward-smoke waterfall effect on a purpose-built burner.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "backflow cone (倒流香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "hollow cone with a channel drilled through its center"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "~10–15 min (matches a regular cone)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "high (visual) — denser, lingering smoke for the waterfall"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "the waterfall-smoke visual effect; decorative centerpiece"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Backflow Incense Cones: The Waterfall Effect",
+          "url": "https://incenseherbs.com/blog/backflow-cones/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "powder",
+      "name": "Incense Powder",
+      "alternateName": [
+        "香粉",
+        "xiāngfěn"
+      ],
+      "description": "香粉 (xiāngfěn) — loose ground incense material, pressed into seal patterns (篆香) or heated directly for a pure-material scent.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "incense powder (香粉)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "loose ground wood/resin; pressed into seal patterns or heated"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "depends on method (heated = session-based; pressed seal pattern = lit along the pattern)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "varies by method — minimal (heated) to moderate (lit seal pattern)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "seal patterns (篆香), custom blends; pure-material scent"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Incense Powder & Resin: Smoke-Light Format",
+          "url": "https://incenseherbs.com/blog/incense-powder-resin/",
+          "accessed": "2026-09-20"
+        },
+        {
+          "type": "traditional",
+          "title": "Incense Burn Time Format Matrix: Stick to Powder",
+          "url": "https://incenseherbs.com/blog/incense-burn-time-format-matrix/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "pill",
+      "name": "Incense Pill",
+      "alternateName": [
+        "香丸",
+        "xiāngwán"
+      ],
+      "description": "香丸 (xiāngwán) — the classical 合香 delivery form: a kneaded compound-incense pellet, bound with honey, rolled into pills and air-dried before burning.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "incense pill / pellet (香丸)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "kneaded compound bound with honey, rolled into pills, coated and air-dried"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "unverified (burned as a pellet; no duration stated in sources)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "unverified (depends on the blend)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "classical 合香 delivery form"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "The 合香 Blending System: Composed Like a Formula",
+          "url": "https://incenseherbs.com/blog/hexiang-blending-system/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "cake",
+      "name": "Incense Cake",
+      "alternateName": [
+        "香饼",
+        "xiāngbǐng"
+      ],
+      "description": "香饼 (xiāngbǐng) — incense cake; a pressed-cake incense form. Not documented in the current LanDeng corpus; all fields are marked unverified.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "incense cake (香饼)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "unverified (not documented in corpus)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "unverified"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "unverified"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "unverified"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "plaque",
+      "name": "Incense Plaque",
+      "alternateName": [
+        "香牌",
+        "xiāngpái"
+      ],
+      "description": "香牌 (xiāngpái) — incense plaque / tablet; a pressed or carved incense form. Recorded as a term; construction and burn facts are unverified in the current corpus.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "incense plaque / tablet (香牌)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "unverified (not documented in corpus)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "unverified"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "unverified"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "unverified"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "bead",
+      "name": "Incense Bead",
+      "alternateName": [
+        "香珠",
+        "xiāngzhū"
+      ],
+      "description": "香珠 (xiāngzhū) — incense beads / aromatherapy beads: porous beads (wood, stone, or clay) scented with essential oil and worn, so aroma releases slowly as a personal, zero-smoke scent.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "incense bead / aromatherapy bead (香珠)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "porous beads (wood/stone/clay) scented with essential oil, strung into bracelets or necklaces"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "n/a — worn, not burned (scent fades over days–weeks, refreshed with oil)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "none (zero smoke, zero flame)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "portable personal scent, no-smoke settings"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Aromatherapy Beads & Bracelets: Worn, Not Burned",
+          "url": "https://incenseherbs.com/blog/aromatherapy-beads/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "bamboo-core-stick",
+      "name": "Bamboo-Core Stick",
+      "alternateName": [
+        "竹签香",
+        "zhúqiānxiāng"
+      ],
+      "description": "竹签香 (zhúqiānxiāng) — the bamboo-core stick construction: a thin bamboo splint coated in incense paste, sturdier and longer-burning than a coreless stick.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "bamboo-core stick (竹签香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "thin bamboo splint coated in incense paste"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "~45–60 min"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "moderate (adds a little wood smoke from the core)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "sturdier, longer stick; common in India and China"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Incense Sticks: The Everyday Format, Explained",
+          "url": "https://incenseherbs.com/blog/incense-sticks/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "low-smoke",
+      "name": "Low-Smoke Incense",
+      "alternateName": [
+        "微烟香",
+        "wēiyānxiāng"
+      ],
+      "description": "微烟香 (wēiyānxiāng) — low-smoke incense; a prepared category of reduced-smoke incense. The term is recorded; detailed construction and burn facts are unverified in the current corpus (thin/coreless sticks are noted as lower-smoke).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "low-smoke incense (微烟香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "unverified (thin/coreless sticks are noted as lower-smoke)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "unverified"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "low"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "small rooms, smoke-sensitive users"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Incense Sticks: The Everyday Format, Explained",
+          "url": "https://incenseherbs.com/blog/incense-sticks/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "smokeless",
+      "name": "Smokeless Incense",
+      "alternateName": [
+        "无烟香",
+        "wúyānxiāng"
+      ],
+      "description": "无烟香 (wúyānxiāng) — smokeless incense; a prepared category of no-smoke incense. The term is recorded; detailed construction and burn facts are unverified in the current corpus (electric-heated resin is the least-smoky method).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Form",
+          "value": "smokeless incense (无烟香)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Construction",
+          "value": "unverified (electric-heated resin is noted as least smoky)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Burn time",
+          "value": "unverified"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Intensity",
+          "value": "none / near-none"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Use case",
+          "value": "no-smoke preference"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "Which Incense Format Is Right for You?",
+          "url": "https://incenseherbs.com/blog/which-incense-format/",
+          "accessed": "2026-09-20"
+        }
+      ]
+    }
+  ]
+}
