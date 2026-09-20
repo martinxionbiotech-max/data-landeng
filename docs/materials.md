@@ -22,6 +22,6 @@ Fields per entity: `termCode` · `name` · `alternateName` (Chinese, where appli
 | plum-powder | White Plum (白梅) | aromatic material (dried fruit) |
 | clove-powder | Clove Powder (丁香) | aromatic material (spice — dried flower bud) |
 
-[Download the JSON](datasets/materials.json)
+[Download the JSON](https://data.incenseherbs.com/datasets/materials.json)
 
 Context on the main site: [https://incenseherbs.com/blog/makko-natural-binders/](https://incenseherbs.com/blog/makko-natural-binders/)

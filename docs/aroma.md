@@ -15,6 +15,6 @@ The ten aroma families of Chinese botanical incense, each with its member ingred
 | Smoky | 1 |
 | Balsamic | 5 |
 
-[Download the JSON](datasets/aroma.json)
+[Download the JSON](https://data.incenseherbs.com/datasets/aroma.json)
 
 Context on the main site: [https://incenseherbs.com/ingredients/](https://incenseherbs.com/ingredients/)

@@ -1,10 +1,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "@id": "https://incenseherbs.com/data/comparisons.json",
+  "@id": "https://data.incenseherbs.com/datasets/comparisons.json",
   "name": "LanDeng Incense Comparison Database",
   "description": "Machine-readable comparison profiles for Chinese botanical incense formats and materials — aroma, smoke, burn characteristics, traditional context, common uses, and quality factors. Extracted from the LanDeng (澜灯) incense encyclopedia comparison tables; every value is traceable to a source page and nothing is fabricated.",
-  "url": "https://incenseherbs.com/data/comparisons.json",
+  "url": "https://data.incenseherbs.com/datasets/comparisons.json",
   "publisher": {
     "@id": "https://incenseherbs.com/#organization"
   },
@@ -17,7 +17,7 @@
   "distribution": {
     "@type": "DataDownload",
     "encodingFormat": "application/json",
-    "contentUrl": "https://incenseherbs.com/data/comparisons.json"
+    "contentUrl": "https://data.incenseherbs.com/datasets/comparisons.json"
   },
   "mainEntity": [
     {

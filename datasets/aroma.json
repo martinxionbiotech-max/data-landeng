@@ -1,10 +1,10 @@
 {
  "@context": "https://schema.org",
  "@type": "Dataset",
- "@id": "https://incenseherbs.com/data/aroma.json",
+ "@id": "https://data.incenseherbs.com/datasets/aroma.json",
  "name": "LanDeng Aroma Database",
  "description": "The ten aroma families of Chinese botanical incense with their member ingredients.",
- "url": "https://incenseherbs.com/data/aroma.json",
+ "url": "https://data.incenseherbs.com/datasets/aroma.json",
  "publisher": {
   "@id": "https://incenseherbs.com/#organization"
  },

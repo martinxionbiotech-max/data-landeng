@@ -1,10 +1,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "@id": "https://incenseherbs.com/data/materials.json",
+  "@id": "https://data.incenseherbs.com/datasets/materials.json",
   "name": "LanDeng Incense Material Database",
   "description": "Machine-readable definitions of the functional materials used to make Chinese botanical incense — binders, bases, cores, fuels, and loose aromatic materials. Extracted from the LanDeng (澜灯) incense encyclopedia; values are traceable to source pages and no value is fabricated.",
-  "url": "https://incenseherbs.com/data/materials.json",
+  "url": "https://data.incenseherbs.com/datasets/materials.json",
   "publisher": {
     "@id": "https://incenseherbs.com/#organization"
   },
@@ -17,7 +17,7 @@
   "distribution": {
     "@type": "DataDownload",
     "encodingFormat": "application/json",
-    "contentUrl": "https://incenseherbs.com/data/materials.json"
+    "contentUrl": "https://data.incenseherbs.com/datasets/materials.json"
   },
   "mainEntity": [
     {

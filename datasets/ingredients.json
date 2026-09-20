@@ -1,10 +1,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Dataset",
-  "@id": "https://incenseherbs.com/data/ingredients.json",
+  "@id": "https://data.incenseherbs.com/datasets/ingredients.json",
   "name": "LanDeng Chinese Botanical Incense Ingredient Encyclopedia",
   "description": "Machine-readable definitions of the botanical ingredients in the LanDeng (澜灯) Chinese incense encyclopedia. Chinese terms are the source of truth; English is the agreed translation.",
-  "url": "https://incenseherbs.com/data/ingredients.json",
+  "url": "https://data.incenseherbs.com/datasets/ingredients.json",
   "publisher": {
     "@id": "https://incenseherbs.com/#organization"
   },
@@ -17,7 +17,7 @@
   "distribution": {
     "@type": "DataDownload",
     "encodingFormat": "application/json",
-    "contentUrl": "https://incenseherbs.com/data/ingredients.json"
+    "contentUrl": "https://data.incenseherbs.com/datasets/ingredients.json"
   },
   "mainEntity": [
     {
