@@ -5569,6 +5569,578 @@
         "https://www.gbif.org/species/2972983",
         "https://zh.wikisource.org/wiki/本草綱目/木之二"
       ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "pine-needles",
+      "name": "Pine Needles",
+      "alternateName": [
+        "松针",
+        "sōngzhēn",
+        "Pinus spp. (the needles)"
+      ],
+      "description": "松针 (sōngzhēn) is a Chinese botanical incense ingredient — Pinus spp. (the needles) — with an aroma profile of piney, conifer, fresh, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "松针"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "sōngzhēn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Pinus spp. (the needles)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "piney, conifer, fresh, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200005343",
+        "https://www.gbif.org/species/5285215",
+        "https://zh.wikisource.org/wiki/本草綱目/木之一"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "bamboo-leaves",
+      "name": "Bamboo Leaves",
+      "alternateName": [
+        "竹叶",
+        "zhúyè",
+        "Phyllostachys spp. (the leaves)"
+      ],
+      "description": "竹叶 (zhúyè) is a Chinese botanical incense ingredient — Phyllostachys spp. (the leaves) — with an aroma profile of green, fresh, grassy, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "竹叶"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zhúyè"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Phyllostachys spp. (the leaves)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "green, fresh, grassy, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200025925",
+        "https://www.gbif.org/species/5290171",
+        "https://zh.wikisource.org/wiki/本草綱目/木之五"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "fenugreek",
+      "name": "Fenugreek",
+      "alternateName": [
+        "葫芦巴",
+        "húlúbā",
+        "Trigonella foenum-graecum"
+      ],
+      "description": "葫芦巴 (húlúbā) is a Chinese botanical incense ingredient — Trigonella foenum-graecum — with an aroma profile of sweet, maple-like, nutty, slightly bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "葫芦巴"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "húlúbā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Trigonella foenum-graecum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, maple-like, nutty, slightly bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Spices"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012345",
+        "https://www.gbif.org/species/5360475",
+        "https://zh.wikisource.org/wiki/本草綱目/草之四"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "ligusticum-chuanxiong",
+      "name": "Chuanxiong",
+      "alternateName": [
+        "川芎",
+        "chuānxiōng",
+        "Ligusticum chuanxiong (syn. Conioselinum anthriscoides)"
+      ],
+      "description": "川芎 (chuānxiōng) is a Chinese botanical incense ingredient — Ligusticum chuanxiong (syn. Conioselinum anthriscoides) — with an aroma profile of herbal, aromatic, spicy, slightly bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "川芎"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "chuānxiōng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Ligusticum chuanxiong (syn. Conioselinum anthriscoides)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, aromatic, spicy, slightly bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Roots"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=118546",
+        "https://www.gbif.org/species/3639592",
+        "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "sophora-flower",
+      "name": "Sophora Flower",
+      "alternateName": [
+        "槐花",
+        "huáihuā",
+        "Styphnolobium japonicum (syn. Sophora japonica)"
+      ],
+      "description": "槐花 (huáihuā) is a Chinese botanical incense ingredient — Styphnolobium japonicum (syn. Sophora japonica) — with an aroma profile of sweet, floral, delicate, honey-like.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "槐花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "huáihuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Styphnolobium japonicum (syn. Sophora japonica)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "sweet, floral, delicate, honey-like"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200012322",
+        "https://www.gbif.org/species/2963569",
+        "https://zh.wikisource.org/wiki/本草綱目/木之二"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "tree-peony",
+      "name": "Tree Peony",
+      "alternateName": [
+        "牡丹",
+        "mǔdān",
+        "Paeonia suffruticosa"
+      ],
+      "description": "牡丹 (mǔdān) is a Chinese botanical incense ingredient — Paeonia suffruticosa — with an aroma profile of floral, rosy, sweet, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "牡丹"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mǔdān"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Paeonia suffruticosa"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, rosy, sweet, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008041",
+        "https://www.gbif.org/species/7155259",
+        "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "mulberry-leaf",
+      "name": "Mulberry Leaf",
+      "alternateName": [
+        "桑叶",
+        "sāngyè",
+        "Morus alba (the leaves)"
+      ],
+      "description": "桑叶 (sāngyè) is a Chinese botanical incense ingredient — Morus alba (the leaves) — with an aroma profile of green, fresh, tea-like, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "桑叶"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "sāngyè"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Morus alba (the leaves)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "green, fresh, tea-like, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200006379",
+        "https://www.gbif.org/species/5361889",
+        "https://zh.wikisource.org/wiki/本草綱目/木之三"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "artemisia-annua",
+      "name": "Sweet Wormwood",
+      "alternateName": [
+        "青蒿",
+        "qīnghāo",
+        "Artemisia annua"
+      ],
+      "description": "青蒿 (qīnghāo) is a Chinese botanical incense ingredient — Artemisia annua — with an aroma profile of herbal, camphoraceous, fresh, slightly sweet.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "青蒿"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "qīnghāo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Artemisia annua"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, camphoraceous, fresh, slightly sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200023164",
+        "https://www.gbif.org/species/8373355",
+        "https://zh.wikisource.org/wiki/本草綱目/草之四"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "schizonepeta",
+      "name": "Schizonepeta",
+      "alternateName": [
+        "荆芥",
+        "jīngjiè",
+        "Schizonepeta tenuifolia (syn. Nepeta tenuifolia)"
+      ],
+      "description": "荆芥 (jīngjiè) is a Chinese botanical incense ingredient — Schizonepeta tenuifolia (syn. Nepeta tenuifolia) — with an aroma profile of herbal, minty, spicy, fresh.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "荆芥"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jīngjiè"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Schizonepeta tenuifolia (syn. Nepeta tenuifolia)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "herbal, minty, spicy, fresh"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Herbs"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=210001326",
+        "https://www.gbif.org/species/5609573",
+        "https://zh.wikisource.org/wiki/本草綱目/草之三"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "cassia-twig",
+      "name": "Cassia Twig",
+      "alternateName": [
+        "桂枝",
+        "guìzhī",
+        "Cinnamomum cassia (the young twig); syn. C. aromaticum"
+      ],
+      "description": "桂枝 (guìzhī) is a Chinese botanical incense ingredient — Cinnamomum cassia (the young twig); syn. C. aromaticum — with an aroma profile of warm, spicy, sweet, woody.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "桂枝"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "guìzhī"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Cinnamomum cassia (the young twig); syn. C. aromaticum"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "warm, spicy, sweet, woody"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Woods"
+        }
+      ],
+      "sameAs": [
+        "http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=200008698",
+        "https://www.gbif.org/species/3033982",
+        "https://zh.wikisource.org/wiki/本草綱目/木之一"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "bergamot",
+      "name": "Bergamot",
+      "alternateName": [
+        "佛手柑",
+        "fóshǒugān",
+        "Citrus × bergamia"
+      ],
+      "description": "佛手柑 (fóshǒugān) is a Chinese botanical incense ingredient — Citrus × bergamia — with an aroma profile of citrus, floral, fresh, slightly bitter.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "佛手柑"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "fóshǒugān"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Citrus × bergamia"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "citrus, floral, fresh, slightly bitter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Fruits"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/6433772"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "neroli",
+      "name": "Neroli",
+      "alternateName": [
+        "橙花",
+        "chénghuā",
+        "Citrus aurantium (the flower)"
+      ],
+      "description": "橙花 (chénghuā) is a Chinese botanical incense ingredient — Citrus aurantium (the flower) — with an aroma profile of floral, citrus, sweet, green.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Chinese",
+          "value": "橙花"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "chénghuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Scientific name",
+          "value": "Citrus aurantium (the flower)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Type",
+          "value": "ingredient"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Aroma",
+          "value": "floral, citrus, sweet, green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Category",
+          "value": "Flowers"
+        }
+      ],
+      "sameAs": [
+        "https://www.gbif.org/species/8077391"
+      ]
     }
   ]
 }
