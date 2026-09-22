@@ -3552,6 +3552,1184 @@
           "value": "incense resin"
         }
       ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangyun",
+      "name": "香云",
+      "description": "香云 — the fragrant cloud of smoke; classical texts describe burning a pellet of incense as raising a great fragrant cloud (起大香云).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngyún"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "fragrant cloud"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "fragrant smoke cloud"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yanzhi",
+      "name": "烟直",
+      "description": "烟直 — straight-rising smoke; a prized ritual sign, as with 降真香, whose smoke 'rises straight' (烧烟直上) to invoke the spirits.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yānzhí"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "straight smoke"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "straight-rising smoke"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "huibai",
+      "name": "灰白",
+      "description": "灰白 — white ash; a classical quality test — material that 'burns to white ash is best' (烧之灰白者好), recorded for 苏合香 and 安息香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "huībái"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "white ash"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "white-ash (quality test)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "jiexiang",
+      "name": "结香",
+      "description": "结香 — resin formation; how agarwood coalesces — the resin 'gathers and forms fragrance' (结成香) over years of wounding and soaking.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jiéxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "form fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "resin formation"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yujin",
+      "name": "余烬",
+      "description": "余烬 — the remaining embers and ash after incense has burned; classical usage records taking 'the remaining embers' (取余烬). In safety practice, extinguish fully and never leave embers smoldering.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yújìn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "remaining embers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "embers / spent ash"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "huileng",
+      "name": "灰冷",
+      "description": "灰冷 — the ash after it has cooled (烧过灰冷); in safety practice, let charcoal and ash cool fully in the heatproof vessel before disposal.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "huīlěng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "ash cooled"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "cooled ash"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangfang",
+      "name": "香方",
+      "description": "香方 — a classical Chinese incense recipe; a structured formula for a compound incense (合香) that names ingredients, proportions, and processing, recorded in the canonical manuals (香谱) — e.g. 范煜《和香方》.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngfāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "fragrance formula"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense recipe / formula"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Xiang Pu) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangyao",
+      "name": "香药",
+      "description": "香药 — 'aromatic medicine'; an aromatic used both as a spice and in traditional medicine, and as an incense ingredient — e.g. 砂仁, 草果, 阿魏.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngyào"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "aromatic medicine"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "aromatic medicine"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiuhe",
+      "name": "修合",
+      "description": "修合 — compounding; the preparation of a formula — classical manuals are described as being largely 修合香方 (compounded fragrance formulas).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiūhé"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "compound / combine"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "compounding (a formula)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "fenliang",
+      "name": "分两",
+      "description": "分两 — weights and proportions; a recipe's quantities, 'divided and weighed evenly' (分两相匀) — the reliable content of a recipe, read as ratios rather than exact grams.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "fēnliǎng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "weights / proportions"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "proportions / weights"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "jiajian",
+      "name": "加减",
+      "description": "加减 — to add or reduce; adjusting a formula's quantities — classical recipes direct one to 'add or reduce water' (加减水) or 'use honey, adding or reducing as needed' (白蜜加减用).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jiājiǎn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "add–subtract"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "adjust (a formula)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "mixiang",
+      "name": "蜜香",
+      "description": "蜜香 — 'honey fragrance'; the Jiao-region name for agarwood, so called because 'its qi is like honeycomb' (其气如蜜脾).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mìxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "honey fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "honey-scent (agarwood alias)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "jiguxiang",
+      "name": "鸡骨香",
+      "description": "鸡骨香 — 'chicken-bone fragrance'; a shape-named agarwood grade (因形而名) for pieces with a hollow, bone-like center; also a classical alias of 降真香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jīgǔxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "chicken-bone fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "chicken-bone (grade)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "qingguixiang",
+      "name": "青桂香",
+      "description": "青桂香 — 'green-cassia fragrance'; one of the eight fragrances said to come from a single agarwood tree, listed in 《南番香录》.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "qīngguìxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "green cassia fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "green-cassia (grade)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "matixiang",
+      "name": "马蹄香",
+      "description": "马蹄香 — 'horse-hoof fragrance'; a shape-named agarwood grade listed among the eight fragrances of one tree.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mǎtíxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "horse-hoof fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "horse-hoof (grade)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "jishexiang",
+      "name": "鸡舌香",
+      "description": "鸡舌香 — 'chicken-tongue fragrance'; a classical name for clove (丁香), also listed among the eight agarwood fragrances.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jīshéxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "chicken-tongue fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "chicken-tongue (clove)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yezixiang",
+      "name": "叶子香",
+      "description": "叶子香 — 'leaf fragrance'; a thin grade of 栈香 (栈香之薄者), also called 龙鳞香, said to surpass 栈香 in fragrance.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yèzixiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "leaf fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "leaf (grade)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "penglaixiang",
+      "name": "蓬莱香",
+      "description": "蓬莱香 — 'Penglai fragrance'; agarwood pieces as large as a rain-hat (大如笠者).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "péngláixiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Penglai fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Penglai (grade)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "jianxiang",
+      "name": "煎香",
+      "description": "煎香 — 'decocted fragrance'; half-formed agarwood still attached to its wood (连木者), also called 婆菜香 / 弄水香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jiānxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "decocted fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "half-formed agarwood"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "nongshuixiang",
+      "name": "弄水香",
+      "description": "弄水香 — 'water-stirring fragrance'; a half-formed agarwood grade (半结半不结), foreign name 婆菜香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "nòngshuǐxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "water-stirring fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "water-stirring (grade)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "shuipanxiang",
+      "name": "水盘香",
+      "description": "水盘香 — 'water-basin fragrance'; agarwood from a tree that has died of its own accord (自枯死者).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shuǐpánxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "water-basin fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "water-basin (grade)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "zhonglou",
+      "name": "重漏",
+      "description": "重漏 — 'heavy-leak'; a lower agarwood grade, ranked below 海南栈香 alongside 生结 (海南栈香之下又有重漏生结等香皆下色).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zhònglòu"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "heavy-leak"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "heavy-leak (grade)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "baiyanxiang",
+      "name": "白眼香",
+      "description": "白眼香 — 'white-eye fragrance'; an alternate name for 黄熟香 (白眼香亦黄熟之别名), lighter in color and not used in medicine but in blending.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "báiyǎnxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "white-eye fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "white-eye (grade)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "longlinxiang",
+      "name": "龙鳞香",
+      "description": "龙鳞香 — 'dragon-scale fragrance'; an alternate name for 叶子香 (叶子香一名龙鳞香).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "lónglínxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "dragon-scale fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "dragon-scale (grade)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "guangxiang",
+      "name": "光香",
+      "description": "光香 — 'bright fragrance'; agarwood that resembles mountain-rock deadwood (山石枯槎者).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "guāngxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "bright fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "bright (grade)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "jiangzhenxiang",
+      "name": "降真香",
+      "description": "降真香 — 'descending-truth fragrance'; a resinous heartwood burned in Daoist ritual so its smoke rises straight to summon the immortals; classical alias 紫藤香 / 鸡骨香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jiàngzhēnxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "descending-truth fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "jiangzhenxiang (lakawood)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "zhenla",
+      "name": "真腊",
+      "description": "真腊 — Chenla (present-day Cambodia); in classical grading, the highest-ranked agarwood origin — 'of the regions agarwood comes from, Chenla is first' (真腊者为上).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "Zhēnlà"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Chenla"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Chenla (Cambodia)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "zhancheng",
+      "name": "占城",
+      "description": "占城 — Champa (central Vietnam); ranked second after Chenla as an agarwood origin (占城次之).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "Zhànchéng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Champa"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Champa"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "boni",
+      "name": "渤泥",
+      "description": "渤泥 — Borneo; ranked lowest of the three classical agarwood origins (渤泥最下).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "Bóní"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Borneo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Borneo"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "sanfoqi",
+      "name": "三佛齐",
+      "description": "三佛齐 — Srivijaya (Palembang); a classical origin for benzoin (安息香) recorded in the materia medica.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "Sānfóqí"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Srivijaya"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Srivijaya"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "fanxiang",
+      "name": "番香",
+      "description": "番香 — 'foreign fragrance'; a general classical term for imported incense; 番香 is also called 番沉, from Borneo and Srivijaya.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "fānxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "foreign fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "foreign incense"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "hainanxiang",
+      "name": "海南香",
+      "description": "海南香 — 'Hainan fragrance'; agarwood from Hainan, long regarded as the aromatic benchmark of Chinese trade.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "hǎinánxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Hainan fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Hainan agarwood"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "annanxiang",
+      "name": "安南香",
+      "description": "安南香 — 'Annam fragrance'; Vietnamese agarwood, historically ranked alongside Hainan as the benchmark.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "ānnánxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Annam fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Vietnamese (Annam) agarwood"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yangpin",
+      "name": "样品",
+      "description": "样品 — a sample; in wholesale buying, a sample verifies the product (not the supplier) and should be pulled by the buyer, not chosen by the supplier.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yàngpǐn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "sample"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "sample"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial",
+          "title": "Wholesale Incense Buying Guide — LanDeng",
+          "url": "https://incenseherbs.com/blog/wholesale-guide/",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "pici",
+      "name": "批次",
+      "description": "批次 — a batch or lot; batch-to-batch consistency (批次一致性) is the hidden risk in bulk botanical incense.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "pīcì"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "batch / lot"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "batch / lot"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial",
+          "title": "Wholesale Incense Buying Guide — LanDeng",
+          "url": "https://incenseherbs.com/blog/wholesale-guide/",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yuanchandi",
+      "name": "原产地",
+      "description": "原产地 — country of origin; wholesale packaging should carry correct country-of-origin marks.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yuánchǎndì"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "place of origin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "country of origin"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial",
+          "title": "Wholesale Incense Buying Guide — LanDeng",
+          "url": "https://incenseherbs.com/blog/wholesale-guide/",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "shexiangtan",
+      "name": "麝香檀",
+      "description": "麝香檀 — 'musk-sandalwood'; a fragrant wood (西山桦根) burned like 煎香, also called 麝檀香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shèxiāngtán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "musk-sandalwood"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "musk-sandalwood"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "pocaixiang",
+      "name": "婆菜香",
+      "description": "婆菜香 — a foreign name for 弄水香 / 煎香, the half-formed agarwood grade.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "pócàixiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "(foreign name)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "pocai (foreign name for 弄水香)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
     }
   ]
 }
