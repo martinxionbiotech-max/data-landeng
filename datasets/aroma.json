@@ -8,9 +8,17 @@
  "publisher": {
   "@id": "https://incenseherbs.com/#organization"
  },
- "dateModified": "2026-09-19",
+ "dateModified": "2026-09-22",
+ "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+ "version": "1.0",
+ "changelog": "Added license, version, changelog, and distribution governance fields; no entity data changes.",
  "inLanguage": "en",
  "isAccessibleForFree": true,
+ "distribution": {
+  "@type": "DataDownload",
+  "encodingFormat": "application/json",
+  "contentUrl": "https://data.incenseherbs.com/datasets/aroma.json"
+ },
  "mainEntity": [
   {
    "@type": "DefinedTerm",

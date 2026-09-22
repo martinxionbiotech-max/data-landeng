@@ -8,7 +8,10 @@
   "publisher": {
     "@id": "https://incenseherbs.com/#organization"
   },
-  "dateModified": "2026-09-20",
+  "dateModified": "2026-09-22",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "version": "1.1",
+  "changelog": "Added evidenceLevel (Evidence Tier) to 2 source citations; added license, version, and changelog governance fields.",
   "inLanguage": [
     "en",
     "zh"
@@ -534,7 +537,8 @@
           "type": "traditional",
           "title": "寿阳公主梅花香 (Shouyang Princess's Plum Incense)",
           "url": "https://incenseherbs.com/blog/shouyang-princess-plum-recipe/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -584,7 +588,8 @@
           "type": "botanical",
           "title": "Clove (丁香) — Warm Spice Note",
           "url": "https://incenseherbs.com/ingredients/clove/",
-          "accessed": "2026-09-20"
+          "accessed": "2026-09-20",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     }
