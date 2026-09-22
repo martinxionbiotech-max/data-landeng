@@ -25,3 +25,10 @@ Fields per entity: `termCode` · `name` · `alternateName` (Chinese, where appli
 [Download the JSON](https://data.incenseherbs.com/datasets/materials.json)
 
 Context on the main site: [https://incenseherbs.com/blog/makko-natural-binders/](https://incenseherbs.com/blog/makko-natural-binders/)
+
+## Data governance
+
+- **Last updated:** 2026-09-22
+- **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Version:** 1.1
+- **Sources:** source citations are tagged with an `evidenceLevel` (Evidence Tier).

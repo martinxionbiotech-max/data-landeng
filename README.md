@@ -9,12 +9,13 @@ Per `ORIGINAL-DATA-ASSETS.md` (LanDeng main repo): every dataset must be accurat
 | Dataset | File | Status |
 |---|---|---|
 | Ingredient database | datasets/ingredients.json | live (150 entities) |
-| Terminology database | datasets/terminology.json | live (104 terms, CC BY-SA 4.0) |
+| Terminology database | datasets/terminology.json | live (188 terms, CC BY-SA 4.0) |
 | Aroma database | datasets/aroma.json | live (10 aroma families) |
 | Material database | datasets/materials.json | live (15 entities) |
 | Comparison database | datasets/comparisons.json | live (17 profiles) |
 | Technique database | datasets/techniques.json | live (12 techniques) |
 | Form database | datasets/forms.json | live (12 forms) |
+| Relationships database | datasets/relationships.json | live (150 entities, 450 edges) |
 
 ## Format
 
@@ -25,3 +26,5 @@ Per `ORIGINAL-DATA-ASSETS.md` (LanDeng main repo): every dataset must be accurat
 
 - Never expose sensitive or proprietary data.
 - Data changes require source traceability (termCode / reference fields).
+- Every dataset carries `license` (CC BY-SA 4.0), `version`, `dateModified`, and `changelog`.
+- Every source citation carries an `evidenceLevel` (Evidence Tier). See [docs/format.md](docs/format.md).

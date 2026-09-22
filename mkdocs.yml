@@ -9,6 +9,7 @@ theme:
   name: readthedocs
 nav:
   - Home: index.md
+  - Datasets Overview: datasets.md
   - Ingredient Database: ingredients.md
   - Terminology Database: terminology.md
   - Aroma Database: aroma.md
@@ -16,5 +17,6 @@ nav:
   - Comparison Database: comparisons.md
   - Technique Database: techniques.md
   - Form Database: forms.md
+  - Relationships Database: relationships.md
   - Format & Governance: format.md
   - IncenseHerbs Main Site: https://incenseherbs.com

@@ -8,3 +8,10 @@ Phase 2 additions (2026-09-22) deepen four areas: **smoke & burn** (香云 fragr
 
 [Download the JSON](https://data.incenseherbs.com/datasets/terminology.json)
 Terminology in context: [What is Chinese incense? (香 / Xiang)](https://incenseherbs.com/chinese-incense/) and the [terminology glossary](https://incenseherbs.com/blog/incense-terminology-glossary/).
+
+## Data governance
+
+- **Last updated:** 2026-09-22
+- **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Version:** 1.1
+- **Sources:** classical terms cite 香乘 / 香譜 on Wikisource (`evidenceLevel` Tier 3); trade terms cite the wholesale buying guide (Tier 6).

@@ -18,3 +18,10 @@ The ten aroma families of Chinese botanical incense, each with its member ingred
 [Download the JSON](https://data.incenseherbs.com/datasets/aroma.json)
 
 Context on the main site: [https://incenseherbs.com/ingredients/](https://incenseherbs.com/ingredients/)
+
+## Data governance
+
+- **Last updated:** 2026-09-22
+- **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Version:** 1.0
+- **Fields:** `termCode` · `name` · `memberIngredients`.

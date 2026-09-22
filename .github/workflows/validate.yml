@@ -3,7 +3,7 @@ name: validate
 # Trigger: run on every push to main and on pull requests targeting main.
 # This keeps the datasets (datasets/*.json) machine-checked before they are
 # served from data.incenseherbs.com. The checks are:
-#   1) JSON parses for all 7 dataset files (5 existing + techniques + forms)
+#   1) JSON parses for all 8 dataset files
 #   2) termCode uniqueness within each file
 #   3) every citation/source URL domain is on the allow-list
 #      (efloras.org / gbif.org / wikisource.org / checklist.cites.org /
@@ -53,8 +53,8 @@ jobs:
           LICENSE_DOMAINS = {"creativecommons.org"}
 
           files = sorted(glob.glob("datasets/*.json"))
-          if len(files) != 7:
-              print(f"ERROR: expected 7 dataset files, found {len(files)}: {files}")
+          if len(files) != 8:
+              print(f"ERROR: expected 8 dataset files, found {len(files)}: {files}")
               sys.exit(1)
 
           errors = []
