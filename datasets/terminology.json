@@ -8,7 +8,7 @@
   "publisher": {
     "@id": "https://incenseherbs.com/#organization"
   },
-  "dateModified": "2026-09-20",
+  "dateModified": "2026-09-22",
   "inLanguage": [
     "en",
     "zh"
@@ -2468,6 +2468,1088 @@
           "@type": "PropertyValue",
           "name": "Preferred English",
           "value": "purple qínán"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "dafen",
+      "name": "打粉",
+      "description": "打粉 — grinding (pounding material to powder).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "dǎ fěn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "pound into powder"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "grinding"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "shaifen",
+      "name": "筛粉",
+      "description": "筛粉 — sieving (sifting to a uniform particle size).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shāi fěn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "sift powder"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "sieving"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "lijing",
+      "name": "粒径",
+      "description": "粒径 — particle size; a uniformity variable with no single universal value.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "lì jìng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "grain diameter"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "particle size"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "hanshuilv",
+      "name": "含水率",
+      "description": "含水率 — moisture content; affects burn and aroma, and the target depends on material and formulation.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "hán shuǐ lǜ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "water-content ratio"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "moisture content"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "nianfen",
+      "name": "粘粉",
+      "description": "粘粉 — binder powder; a combustible material (traditionally wood powder) that holds incense together.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "nián fěn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "sticky powder"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "binder powder"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "chengxing",
+      "name": "成型",
+      "description": "成型 — forming / shaping the moistened paste into sticks, coils, or cones.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "chéng xíng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "form into shape"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "forming / shaping"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "ganzao",
+      "name": "干燥",
+      "description": "干燥 — drying; removing the shaping water slowly and evenly.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "gān zào"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "dry"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "drying"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "heliao",
+      "name": "和料",
+      "description": "和料 — blending; combining the ground powders in proportion.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "hé liào"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "mix/blend the material"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "blending"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xun",
+      "name": "窨",
+      "description": "窨 — curing / aging; a rest period in which a blend's aromas settle and fuse. The same word names the scenting step in classical recipes (久窨).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xūn / yìn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "age / mature"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "curing / aging"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "moxiang",
+      "name": "抹香",
+      "description": "抹香 — makko, the powdered Machilus thunbergii bark used as the traditional natural combustible binder.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mǒ xiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "powder incense"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "makko"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "tanpimo",
+      "name": "炭皮末",
+      "description": "炭皮末 — charcoal-bark powder, a combustion aid in classical stick recipes.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "tàn pí mò"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "charcoal-bark powder"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "charcoal-bark powder"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "chongtang",
+      "name": "重汤",
+      "description": "重汤 — water-bath heating (double-boiling); warming a sealed vessel over boiling water.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "chóng tāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "double bath"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "water-bath heating (double-boiling)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "danfang",
+      "name": "单方",
+      "description": "单方 — single-material incense; one material appreciated alone.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "dān fāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "single formula"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "single-material incense"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "fufang",
+      "name": "复方",
+      "description": "复方 — compound incense; multiple materials composed into a structured blend (合香).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "fù fāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "compound formula"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "compound incense"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "baimufen",
+      "name": "柏木粉",
+      "description": "柏木粉 — cypress wood powder; a wood-powder ingredient or binder.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bǎi mù fěn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "cypress wood powder"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "cypress wood powder"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "zhanxiang",
+      "name": "栈香",
+      "description": "栈香 — the middle agarwood grade between sinking (沉水) and floating (黄熟香).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zhàn xiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "grade name (etymology debated)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "semi-sinking grade (zhanxiang)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "huangshuxiang",
+      "name": "黄熟香",
+      "description": "黄熟香 — the floating, lowest-density agarwood grade (historically).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "huáng shú xiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "yellow-ripe fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "floating grade (huangshuxiang)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-22"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "touxiang",
+      "name": "头香",
+      "description": "头香 — the top / opening note of a scent as it develops on heat.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "tóu xiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "head fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "top note"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "benxiang",
+      "name": "本香",
+      "description": "本香 — the body / main note, the sustained character of a scent.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "běn xiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "body / root fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "body note"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "weixiang",
+      "name": "尾香",
+      "description": "尾香 — the tail / dry-down note that lingers after the burn.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "wěi xiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "tail fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "dry-down (tail note)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yinggelv",
+      "name": "莺歌绿",
+      "description": "莺歌绿 — 'oriole-song green', an alternate name for the green 奇楠 grade.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yīng gē lǜ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "oriole-song green"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "green qínán (alternate name)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "lanhuajie",
+      "name": "兰花结",
+      "description": "兰花结 — 'orchid knot', an alternate name for the purple 奇楠 grade.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "lán huā jié"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "orchid knot"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "purple qínán (alternate name)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "jinsijie",
+      "name": "金丝结",
+      "description": "金丝结 — 'gold-thread knot', an alternate name for the yellow 奇楠 grade.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jīn sī jié"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "gold-thread knot"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "yellow qínán (alternate name)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "tiejie",
+      "name": "铁结",
+      "description": "铁结 — 'iron knot', an alternate name for the black 奇楠 grade.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "tiě jié"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "iron knot"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "black qínán (alternate name)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "liuguowuwei",
+      "name": "六国五味",
+      "description": "六国五味 — rikkoku gomi, the Japanese framework of six 'countries' and five 'tastes' for describing agarwood.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "liù guó wǔ wèi"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "six countries, five tastes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "rikkoku gomi"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "laoshantan",
+      "name": "老山檀",
+      "description": "老山檀 — 'old-mountain sandalwood'; aged, dense Indian sandalwood.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "lǎo shān tán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "old-mountain sandalwood"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "old-mountain sandalwood"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "bingpian",
+      "name": "冰片",
+      "description": "冰片 — borneol crystal; the refined crystalline form of borneol (龙脑).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bīng piàn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "ice slice"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "borneol crystal"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "aipian",
+      "name": "艾片",
+      "description": "艾片 — leaf-distilled l-borneol, from Blumea balsamifera.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "ài piàn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "mugwort slice"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "l-borneol (leaf-distilled)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "jizhibingpian",
+      "name": "机制冰片",
+      "description": "机制冰片 — synthetic borneol, manufactured from turpentine or camphor.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "jī zhì bīng piàn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "machine-made borneol"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "synthetic borneol"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "daxiangyin",
+      "name": "打香印",
+      "description": "打香印 — stamping seal incense, an alternate name for 打香篆.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "dǎ xiāng yìn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "stamp incense seal"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "stamping seal incense"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangyin",
+      "name": "香印",
+      "description": "香印 — the incense seal / stamp; the carved mold for pressing powder patterns.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāng yìn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense seal"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense seal (stamp)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangzhuanmo",
+      "name": "香篆模",
+      "description": "香篆模 — the metal mold with a carved pattern for laying seal incense.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāng zhuàn mó"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "seal-incense mold"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "seal mold"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yinye",
+      "name": "银叶",
+      "description": "银叶 — silver leaf, the thin heat-conductive plate used in 隔火焚香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yín yè"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "silver leaf"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "silver leaf"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yunmu",
+      "name": "云母",
+      "description": "云母 — mica, the thin heat-resistant mineral plate used in 隔火焚香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yún mǔ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "cloud mother"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "mica"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangjia",
+      "name": "香夹",
+      "description": "香夹 — incense tongs, for gripping hot charcoal.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāng jiā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense tongs"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense tongs"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yusao",
+      "name": "羽扫",
+      "description": "羽扫 — feather brush, for sweeping stray ash off the rim.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yǔ sǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "feather sweep"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "feather brush"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "huiya",
+      "name": "灰押",
+      "description": "灰押 — ash tamper, for packing and leveling the ash (also written 香押).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "huī yā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "ash press"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "ash tamper"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangping",
+      "name": "香瓶",
+      "description": "香瓶 — the tool holder, often a small vase, for the 香具 set.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāng píng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense vase"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "tool holder"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "lupingsanshi",
+      "name": "炉瓶三事",
+      "description": "炉瓶三事 — 'the three things at the burner': censer (香炉), incense box (香盒), and tool holder (香瓶).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "lú píng sān shì"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "censer-vase-three objects"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "the three things at the burner"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "gansong",
+      "name": "甘松",
+      "description": "甘松 — spikenard, an aromatic herb root used as a minister or assistant ingredient in 合香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "gān sōng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "sweet pine"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "spikenard"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "suhexiang",
+      "name": "苏合香",
+      "description": "苏合香 — storax, a balsamic resin noted in the classical manuals.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "sū hé xiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Suhe fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "storax"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangfuzi",
+      "name": "香附子",
+      "description": "香附子 — cyperus (purple nutsedge) tuber, a specialist 合香 herb.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāng fù zǐ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "fragrant fuzi tuber"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "cyperus (purple nutsedge)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "quetouxiang",
+      "name": "雀头香",
+      "description": "雀头香 — 'sparrow-head incense', a classical alternate name for 香附子.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "què tóu xiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "sparrow-head incense"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "sparrow-head incense (cyperus)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "suocaogen",
+      "name": "莎草根",
+      "description": "莎草根 — 'sedge root', a classical alternate name for 香附子.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "suō cǎo gēn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "sedge root"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "sedge root (cyperus)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "matizhi",
+      "name": "玛蹄脂",
+      "description": "玛蹄脂 — mastic, the aromatic resin of Pistacia lentiscus.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mǎ tí zhī"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "horse-hoof resin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "mastic"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangzhi",
+      "name": "香脂",
+      "description": "香脂 — incense resin; dried gum-resin burned or heated (香脂 / 香片).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāng zhī"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense resin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense resin"
         }
       ]
     }
