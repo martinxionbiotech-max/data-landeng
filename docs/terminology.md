@@ -1,6 +1,6 @@
 # Terminology Database
 
-235 Chinese-English incense terms with pinyin, literal meaning, preferred translation and context. Licensed CC BY-SA 4.0 for citation and reuse.
+249 Chinese-English incense terms with pinyin, literal meaning, preferred translation and context. Licensed CC BY-SA 4.0 for citation and reuse.
 
 The dataset spans ingredients, forms, manufacturing and processing terms (打粉 grinding, 筛粉 sieving, 粒径 particle size, 含水率 moisture, 粘粉 binder, 成型 forming, 干燥 drying, 和料 blending, 窨 curing), agarwood grading (沉水 sinking, 栈香 semi-sinking, 黄熟香 floating, 奇楠 color grades, 头香/本香/尾香 top/body/dry-down notes), tasting technique, incense tools, and industry/trade terminology. Chinese terms are the source of truth; English is the agreed translation.
 
@@ -10,6 +10,8 @@ Phase 3 additions (2026-09-24) add 27 terms across six directions: **scent-appre
 
 Phase 4 additions (2026-09-24) add 20 terms across five directions: **incense forms** (香饼 incense cake, 香膏 aromatic ointment), **scent space & ritual** (薰衣 clothes fumigation, 衣香 clothes-scenting sachet), **modern market grading** (食用级 food-grade, 香用级 incense-grade), **classical 香谱 residue** (木香 costus root, 郁金 aromatic turmeric, 艾纳香 Blumea balsamifera, 白胶香 sweetgum resin), and **deepened entity-page terms** (当归 dong quai, 灵猫香 civet, 海狸香 castoreum, 紫草茸 shellac, 秘鲁香脂 Peru balsam, 阿魏 asafoetida, 白及 bletilla, 罗勒 basil, 砂仁 amomum villosum, 山柰 sand ginger).
 
+Phase 5 additions (2026-09-24) add 14 terms (235 → 249), all drawn from 香乘 (Xiang Cheng) classical residue: **cultural & ritual terms** (香市 incense market, 香会 incense gathering, 香婆 incense woman, 香户 incense household, 香林 incense grove, 香界 incense realm) and **technique & material-object terms** (熏笼 fumigation cage, 手炉 hand warmer, 香煤 incense charcoal, 香鼎 incense tripod, 香炷 incense stick, 香袋 incense pouch, 香缨 incense ribbon, 香佩 incense pendant). Candidate pool thinning: the task-nominated items that do not appear in the source corpus or classical texts (品香会, 斗香, 香铺, 闷香, and the storage terms 避光/防潮/陈香/走香) are intentionally excluded per the no-fabrication rule.
+
 [Download the JSON](https://data.incenseherbs.com/datasets/terminology.json)
 Terminology in context: [What is Chinese incense? (香 / Xiang)](https://incenseherbs.com/chinese-incense/) and the [terminology glossary](https://incenseherbs.com/blog/incense-terminology-glossary/).
 
@@ -17,5 +19,5 @@ Terminology in context: [What is Chinese incense? (香 / Xiang)](https://incense
 
 - **Last updated:** 2026-09-24
 - **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- **Version:** 1.3
+- **Version:** 1.4
 - **Sources:** classical terms cite 香乘 / 香譜 on Wikisource (`evidenceLevel` Tier 3); trade terms cite the wholesale buying guide (Tier 6).

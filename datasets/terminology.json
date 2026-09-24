@@ -10,8 +10,8 @@
   },
   "dateModified": "2026-09-24",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "version": "1.3",
-  "changelog": "Phase 4: added 20 terms (215 -> 235) across incense forms (香饼/香膏), scent space & ritual (薰衣/衣香), modern market grading (食用级/香用级), classical 香谱 residue (木香/郁金/艾纳香/白胶香), and deepened entity-page terms (当归/灵猫香/海狸香/紫草茸/秘鲁香脂/阿魏/白及/罗勒/砂仁/山柰).",
+  "version": "1.4",
+  "changelog": "Phase 5: added 14 terms (235 -> 249) drawn from 香乘 (Xiang Cheng) classical residue — cultural & ritual terms (香市 incense market, 香会 incense gathering, 香婆 incense woman, 香户 incense household, 香林 incense grove, 香界 incense realm) and technique/material-object terms (熏笼 fumigation cage, 手炉 hand warmer, 香煤 incense charcoal, 香鼎 incense tripod, 香炷 incense stick, 香袋 incense pouch, 香缨 incense ribbon, 香佩 incense pendant). Candidate pool thinning: most high-frequency classical 香X collocations were already covered in prior phases.",
   "inLanguage": [
     "en",
     "zh"
@@ -6089,6 +6089,454 @@
           "@type": "PropertyValue",
           "name": "Preferred English",
           "value": "sand ginger (Kaempferia galanga)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangshi2",
+      "name": "香市",
+      "description": "香市 — incense market, a market where aromatics are bought and sold. 香乘 cites 述异记 (日南有香市商人交易诸香处 'Rinan has an incense market where merchants trade the various aromatics') and 成都记 (成都府十二月中皆有市六月为香市 'Chengdu holds a market every month; the sixth month is the incense market').",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngshì"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense market"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense market"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xianghui2",
+      "name": "香会",
+      "description": "香会 — incense gathering, an elegant party where each guest brings fine incense to compare its quality. 香乘: 中宗朝宗纪韦武间为雅会各携名香比试优劣曰香会 ('in the Zhongzong-court era, refined gatherings where each person brought famous incense to compete on quality were called 香会'). The classical forerunner of the modern 品香会 / 斗香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiānghuì"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense gathering"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense gathering / competition"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xianghu",
+      "name": "香户",
+      "description": "香户 — incense household, a household that gathers wild incense for trade. 香乘 cites 述异记: 南海邵有采香户 ('Nanhai has incense-gathering households').",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiānghù"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense household"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense-gathering household"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xianglin",
+      "name": "香林",
+      "description": "香林 — incense grove, a grove whose trees yield rare aromatics. 香乘 cites 述异记: 日南邵有千亩香林名香往往出其中 ('Rinan has thousand-mu incense groves from which famed aromatics come').",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiānglín"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense grove"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense grove"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangjie",
+      "name": "香界",
+      "description": "香界 — 'incense realm', a Buddhist term for a temple or monastery as a place perfumed by incense. 香乘 cites the 楞严经: 佛寺曰香界亦曰香箪因香所生以香为界 ('a Buddhist temple is called the incense realm — born of incense, bounded by incense').",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngjiè"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense realm"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense realm (Buddhist temple)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangpo",
+      "name": "香婆",
+      "description": "香婆 — 'incense woman', the elderly woman who tended the small incense burner at Song-dynasty wine houses. 香乘 cites 武林旧事: 宋都杭时诸酒楼歌姑阗集必有老姬以小炉柱香为供者谓之香婆.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngpó"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense woman"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense woman (wine-house incense keeper)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangmei",
+      "name": "香煤",
+      "description": "香煤 — incense charcoal, a prepared coal used to carry and relay the fire when lighting incense pellets. 香乘 (香史补遗): 用煤以扶接火饼 ('use coal to relay the fire to the incense cake').",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngméi"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense coal"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense charcoal"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangding",
+      "name": "香鼎",
+      "description": "香鼎 — incense tripod, a tripod censer. 香乘 cites 清波杂志 on the 聚香鼎 ('incense-gathering tripod') of Chengdu, around which several burners were set so the smoke gathered into it.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngdǐng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense tripod"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense tripod (censer)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangzhu3",
+      "name": "香炷",
+      "description": "香炷 — incense stick / cylinder, a single stick, coil, or cone of incense as a countable unit (一炷香 'one stick'). 香乘 quotes 博山香炷融 ('the Boshan censer's incense burns down').",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngzhù"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense stick (measure)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense stick (countable unit)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangdai",
+      "name": "香袋",
+      "description": "香袋 — incense pouch, a small embroidered bag for carrying scent. 香乘 cites 韩偓集: 腊日赐银合子驻颜膏牙香筹绣香袋.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngdài"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense pouch"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense pouch / sachet"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangying",
+      "name": "香缨",
+      "description": "香缨 — incense ribbon, a scented ribbon tied by a mother for a bride at marriage. 香乘 cites the 诗经 commentary: 诗亲结其褵注曰香缨也女将嫁母结褵而戒之 ('the mother ties the 褵 ribbon as admonition — this is the 香缨').",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngyīng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense ribbon"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense ribbon (bridal tassel)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangpei",
+      "name": "香佩",
+      "description": "香佩 — incense pendant, a scented ornament worn around the neck. 香乘 cites 铁围山藂谈 on 佩香 (worn incense), tracing the practice to ambergris (龙涎) and the soft-incense 香佩带.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngpèi"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense pendant"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense pendant (worn)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xunlong",
+      "name": "熏笼",
+      "description": "熏笼 — fumigation cage / frame, a frame over which clothes or objects were placed to be perfumed by incense smoke. 香乘 cites 东宫旧事 (太子纳妃有熏衣笼 'the crown prince's consort had a clothes-fumigating cage') and 癸辛杂识 (用锦熏笼藉笙于上复以四和香熏之).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xūnlóng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "fumigation cage"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "fumigation cage (clothes scenting)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "shoulu",
+      "name": "手炉",
+      "description": "手炉 — hand warmer, a small handheld burner carried for warmth and scent. 香乘 cites 邺中记: 冯小怜有足炉曰辟邪手炉曰藻冬天顷刻不离.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shǒulú"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "hand warmer"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "hand warmer (handheld censer)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
         }
       ]
     }
