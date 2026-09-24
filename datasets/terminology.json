@@ -8,10 +8,10 @@
   "publisher": {
     "@id": "https://incenseherbs.com/#organization"
   },
-  "dateModified": "2026-09-22",
+  "dateModified": "2026-09-24",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "version": "1.1",
-  "changelog": "Added evidenceLevel (Evidence Tier) to 47 source citations; added license, version, and changelog governance fields.",
+  "version": "1.2",
+  "changelog": "Phase 3: added 27 terms (188 -> 215) across scent-appreciation vocabulary (清/甜/辛/凉/厚/薄/醇/雅), modern perfume structure (前调/中调/后调), burn & physical properties (发烟量/燃烧速率/断火), modern industry terms (香精/扩香/留香/定香剂), classical 香谱 residue (詹糖香/波律香/迷迭香/都梁香), and entity-page terms (紫檀/樟脑/藏香/木香花/白檀).",
   "inLanguage": [
     "en",
     "zh"
@@ -4777,6 +4777,742 @@
           "url": "https://zh.wikisource.org/wiki/香乘",
           "accessed": "2026-09-22",
           "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "qing",
+      "name": "清",
+      "description": "清 — clear / pure; a bright, clean fragrance character with no muddiness or heaviness (香乘: 清芬韵度 'clear-fragrance character').",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "qīng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "clear"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "clear / fresh"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "tian",
+      "name": "甜",
+      "description": "甜 — sweet; a honeyed, sugary aroma facet, one of the primary 品香 descriptors (香乘: 香甜如蜜).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "tián"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "sweet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "sweet"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xin",
+      "name": "辛",
+      "description": "辛 — pungent; a sharp, spicy-hot aromatic quality, the classical '味辛' of spices and resins (香乘: 辛辣之气).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xīn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "pungent"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "pungent / spicy"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "liang",
+      "name": "凉",
+      "description": "凉 — cooling; a cold, minty sensation in the nose, associated with borneol (龙脑) and camphor (樟脑).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "liáng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "cool"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "cooling"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "hou",
+      "name": "厚",
+      "description": "厚 — thick / full-bodied; a dense, rich, substantial scent character, the opposite of 薄 (香乘: 味厚 / 结实厚).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "hòu"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "thick"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "full-bodied"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "bo",
+      "name": "薄",
+      "description": "薄 — thin / light; a delicate, faint scent character (香乘: 香味亦浅薄 'the fragrance is also thin/light').",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bó"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "thin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "thin / light"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "chun",
+      "name": "醇",
+      "description": "醇 — mellow / rich; a smooth, well-rounded, matured scent character (香乘 uses 淳醇 for a full, aged aroma).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "chún"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "mellow"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "mellow / rich"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "ya",
+      "name": "雅",
+      "description": "雅 — refined / elegant; an understated, cultured fragrance character prized in literati incense appreciation.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yǎ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "elegant"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "refined / elegant"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "qiandiao",
+      "name": "前调",
+      "description": "前调 — top note; the modern perfumery term for the first, most volatile scent phase, parallel to the classical 头香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "qiándiào"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "front note"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "top note"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "头香 (touxiang) — classical top note"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "zhongdiao",
+      "name": "中调",
+      "description": "中调 — middle / heart note; the sustained central phase of a fragrance, parallel to the classical 本香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zhōngdiào"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "middle note"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "middle note / heart note"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "本香 (benxiang) — classical body note"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "houdiao",
+      "name": "后调",
+      "description": "后调 — base note; the slow, lasting final phase of a fragrance, parallel to the classical 尾香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "hòudiào"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "back note"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "base note"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Related",
+          "value": "尾香 (weixiang) — classical tail note"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "fayanliang",
+      "name": "发烟量",
+      "description": "发烟量 — smoke output; how much visible smoke an incense emits when burned, a key format and comparison variable.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "fāyānliàng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "smoke-emission amount"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "smoke output"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "ranshaosulv",
+      "name": "燃烧速率",
+      "description": "燃烧速率 — burn rate; how fast an incense smolders, set by thickness, density, binder ratio, and moisture.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "ránshāo sùlǜ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "combustion rate"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "burn rate"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "duanhuo",
+      "name": "断火",
+      "description": "断火 — self-extinguishing; a stick that smolders too slowly or goes out mid-burn, treated as a quality-control defect.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "duànhuǒ"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "broken fire"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "going out / self-extinguish"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangjing",
+      "name": "香精",
+      "description": "香精 — fragrance oil; a manufactured scent concentrate (often synthetic) applied to a neutral base, distinct from essential oil (精油).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngjīng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "fragrance essence"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "fragrance oil"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Misinterpretation risk",
+          "value": "Not the same as 精油 (essential oil); 香精 is a manufactured, often synthetic concentrate"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "kuoxiang",
+      "name": "扩香",
+      "description": "扩香 — scent diffusion / throw; how far and how strongly a scent projects into a room.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "kuòxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "scent diffusion"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "scent throw / diffusion"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "liuxiang",
+      "name": "留香",
+      "description": "留香 — longevity / tenacity; how long a scent persists after burning, or on skin and fabric.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "liúxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "lingering fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "longevity / tenacity"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "dingxiangji",
+      "name": "定香剂",
+      "description": "定香剂 — fixative; a material that slows the evaporation of volatile notes and stabilizes a blend's structure.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "dìngxiāngjì"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "scent-fixing agent"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "fixative"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "zhantangxiang",
+      "name": "詹糖香",
+      "description": "詹糖香 — a classical aromatic listed in 香譜; 本草 records it from 晋安, 岑州, and south of 交广.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zhāntángxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Zhantang fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Zhantang aromatic"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Hong Chu's Incense Manual) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "bolvxiang",
+      "name": "波律香",
+      "description": "波律香 — a classical aromatic from the kingdom of Polu, from the same tree as borneol (龙脑), per 香譜 citing 本草拾遗.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bōlǜxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Polu fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Polu aromatic (borneol-related)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Hong Chu's Incense Manual) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "midiexiang",
+      "name": "迷迭香",
+      "description": "迷迭香 — rosemary; 香譜 records it from the Western Regions, with an ode by Emperor Wen of Wei.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mídiéxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "rosemary"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "rosemary"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Hong Chu's Incense Manual) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "duliangxiang",
+      "name": "都梁香",
+      "description": "都梁香 — a classical aromatic named for Duling County, recorded in 香譜 via 荆州记.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "dūliángxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Duling fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Duling aromatic"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Hong Chu's Incense Manual) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "zitan",
+      "name": "紫檀",
+      "description": "紫檀 — red sandalwood (Pterocarpus santalinus), a crimson dye-and-carving wood, unrelated to true sandalwood (檀香, Santalum album).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zǐtán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "purple sandalwood"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "red sandalwood (Pterocarpus santalinus)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Misinterpretation risk",
+          "value": "Shares the character 檀 with 檀香 but is a different plant, a dye wood not an incense heartwood"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "zhangnao",
+      "name": "樟脑",
+      "description": "樟脑 — camphor crystal; the distilled crystalline extract of the camphor laurel (樟木, Cinnamomum camphora), distinct from borneol (龙脑).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zhāngnǎo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "camphor-brain"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "camphor (crystal)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "zangxiang",
+      "name": "藏香",
+      "description": "藏香 — Tibetan incense; thick, coreless, herbal-blend sticks rooted in Tibetan medicine (Sowa Rigpa) and monastery ritual.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zàngxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Tibetan incense"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Tibetan incense"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "muxianghua",
+      "name": "木香花",
+      "description": "木香花 — Banksia rose (Rosa banksiae), a sweet honeyed floral; its name is easily confused with 木香 (costus root).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mùxiānghuā"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "muxiang flower"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Banksia rose (Rosa banksiae)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "baitan",
+      "name": "白檀",
+      "description": "白檀 — white sandalwood; usually specifies Santalum album among the Santalum species, distinguishing it from substitute species.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "báitán"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "white sandalwood"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "white sandalwood (Santalum album)"
         }
       ]
     }
