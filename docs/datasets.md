@@ -5,7 +5,7 @@ Eight machine-readable knowledge datasets for the LanDeng (澜灯) platform — 
 | Dataset | File | Entities | Last updated | Version |
 |---|---|---|---|---|
 | Ingredient database | [ingredients.json](https://data.incenseherbs.com/datasets/ingredients.json) | 150 | 2026-09-22 | 1.1 |
-| Terminology database | [terminology.json](https://data.incenseherbs.com/datasets/terminology.json) | 215 | 2026-09-24 | 1.2 |
+| Terminology database | [terminology.json](https://data.incenseherbs.com/datasets/terminology.json) | 235 | 2026-09-24 | 1.3 |
 | Aroma database | [aroma.json](https://data.incenseherbs.com/datasets/aroma.json) | 10 | 2026-09-22 | 1.0 |
 | Material database | [materials.json](https://data.incenseherbs.com/datasets/materials.json) | 15 | 2026-09-22 | 1.1 |
 | Comparison database | [comparisons.json](https://data.incenseherbs.com/datasets/comparisons.json) | 17 | 2026-09-22 | 1.1 |
@@ -20,7 +20,7 @@ Eight machine-readable knowledge datasets for the LanDeng (澜灯) platform — 
 - **Fields:** `termCode` · `name` · `alternateName` (Chinese, pinyin) · `description` · `additionalProperty` (Chinese / Pinyin / Scientific name / Type / Aroma / Category) · `sameAs` · `sources` (with `evidenceLevel`)
 - **Download:** [ingredients.json](https://data.incenseherbs.com/datasets/ingredients.json)
 
-## Terminology database — 215 terms
+## Terminology database — 235 terms
 
 Chinese–English terminology with pinyin, literal meaning, preferred translation, and context. Chinese is the source of truth; English is the agreed translation.
 

@@ -10,8 +10,8 @@
   },
   "dateModified": "2026-09-24",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "version": "1.2",
-  "changelog": "Phase 3: added 27 terms (188 -> 215) across scent-appreciation vocabulary (清/甜/辛/凉/厚/薄/醇/雅), modern perfume structure (前调/中调/后调), burn & physical properties (发烟量/燃烧速率/断火), modern industry terms (香精/扩香/留香/定香剂), classical 香谱 residue (詹糖香/波律香/迷迭香/都梁香), and entity-page terms (紫檀/樟脑/藏香/木香花/白檀).",
+  "version": "1.3",
+  "changelog": "Phase 4: added 20 terms (215 -> 235) across incense forms (香饼/香膏), scent space & ritual (薰衣/衣香), modern market grading (食用级/香用级), classical 香谱 residue (木香/郁金/艾纳香/白胶香), and deepened entity-page terms (当归/灵猫香/海狸香/紫草茸/秘鲁香脂/阿魏/白及/罗勒/砂仁/山柰).",
   "inLanguage": [
     "en",
     "zh"
@@ -5513,6 +5513,582 @@
           "@type": "PropertyValue",
           "name": "Preferred English",
           "value": "white sandalwood (Santalum album)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangbing",
+      "name": "香饼",
+      "description": "香饼 — incense cake; a pressed, hardened cake of blended incense powder and binder, burned whole on a censer. 香譜 lists 造香饼子法 'the method for making incense cakes' as a distinct form.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngbǐng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "fragrant cake"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense cake / pressed incense cake"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Hong Chu's Incense Manual) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xianggao",
+      "name": "香膏",
+      "description": "香膏 — aromatic ointment; the oily, resinous balsam extracted from a resin such as storax, prized as the genuinely aromatic fraction and kept apart from the spent woody residue (大秦国人采得苏合香先煎其汁以为香膏 'the Daqin people first decoct the storax to take its juice as fragrant ointment').",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiānggāo"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "fragrant paste"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "aromatic ointment / balsam extract"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xunyi",
+      "name": "薰衣",
+      "description": "薰衣 — clothes fumigation; scenting garments by exposing them to incense smoke or storing them with scented material. 香譜 records 蜀王薰御衣法 'the Shu king's method of fumigating royal clothes' and the 衣香法 'clothes-scenting method'.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xūnyī"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "fumigate clothes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "clothes fumigation / scenting clothes"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Misinterpretation risk",
+          "value": "Not 薰衣草 (xūnyīcǎo, lavender); 薰衣 is the classical practice of scenting garments"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Hong Chu's Incense Manual) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yixiang",
+      "name": "衣香",
+      "description": "衣香 — clothes-scenting incense; the wearable sachet and garment-perfume genre, as distinct from burned 合香. 香乘 records 南阳公主熏衣香 (Princess Nanyang's clothes-scenting incense) and the inner-court sachet 内苑蕊心衣香.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yīxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "clothes fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "clothes-scenting incense / wearable sachet"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "shiyongji",
+      "name": "食用级",
+      "description": "食用级 — food-grade; a market and quality grade for materials cleared for food and drink, as distinct from an incense-grade supply. Entity buyer sections flag food-grade material (chenpi, chrysanthemum) while noting incense combustion produces smoke and particulate.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shíyòngjí"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "edible-use grade"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "food-grade"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Usage",
+          "value": "Modern trade terminology; appears in entity-page buyer sections as 'food-grade'"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "xiangyongji",
+      "name": "香用级",
+      "description": "香用级 — incense-grade; a market and quality grade for material destined for incense use, valued differently from the tea-grade or food-grade market (chrysanthemum: 'tea-grade and incense-grade markets value the flower differently').",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "xiāngyòngjí"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "incense-use grade"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "incense-grade"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Usage",
+          "value": "Modern trade terminology; appears in entity-page buyer sections as 'incense-grade'"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "muxiang",
+      "name": "木香",
+      "description": "木香 — costus root (Saussurea costus, syn. Dolomiaea costus / Aucklandia lappa); a classical Himalayan incense root with a deep, earthy, slightly musky-animalic fixative character. Not to be confused with 木香花 (Banksia rose) or 白木香 (Aquilaria sinensis).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "mùxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "wood fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "costus root (Saussurea costus)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Misinterpretation risk",
+          "value": "Shares 木香 with 木香花 (Banksia rose) and 白木香 (Aquilaria sinensis) but is a different plant"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Hong Chu's Incense Manual) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "yujin2",
+      "name": "郁金",
+      "description": "郁金 — aromatic turmeric (Curcuma aromatica), the ginger-family rhizome behind the classical aromatic 鬱金香; the name literally means 'aromatic gold'. Distinct from the modern tulip 郁金香 and from culinary 姜黄 (Curcuma longa).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "yùjīn"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "aromatic gold"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "aromatic turmeric (Curcuma aromatica)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Misinterpretation risk",
+          "value": "The same two characters 郁金香 also name the tulip; the classical aromatic is the Curcuma rhizome"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Hong Chu's Incense Manual) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "ainaxiang",
+      "name": "艾纳香",
+      "description": "艾纳香 — Blumea balsamifera (sambong / Ngai camphor), the aromatic shrub whose leaves are the source of leaf-distilled l-borneol (艾片). 香譜 records it as 艾蒳香, and 本草纲目 notes its use 'to blend the many aromatics'.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "àinàxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "mugwort-accepting fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Blumea balsamifera (sambong)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香譜 (Hong Chu's Incense Manual) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香譜",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "baijiaoxiang",
+      "name": "白胶香",
+      "description": "白胶香 — 'white-gum fragrance,' the classical name for sweetgum resin 枫香脂 (Liquidambar formosana), recorded in 香乘 and rendered in the Golden Light Sutra in transliteration as 须萨析罗婆.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "báijiāoxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "white gum fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "sweetgum resin (Liquidambar formosana)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "danggui",
+      "name": "当归",
+      "description": "当归 — dong quai (Angelica sinensis), a famous materia-medica root and 香囊 sachet herb with a warm, sweet, herbal scent. Same genus, different species from 白芷 (Angelica dahurica); the shared English 'angelica' hides the distinction.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "dāngguī"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "ought to return"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "dong quai (Angelica sinensis)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Misinterpretation risk",
+          "value": "Distinct from 白芷 (Angelica dahurica); both translate to 'angelica' in English"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "lingmaoxiang",
+      "name": "灵猫香",
+      "description": "灵猫香 — civet; the glandular secretion of the civet (Civettictis civetta / Viverricula indica), an animal-derived fixative with an animalic, musky, sweet-warm scent, largely replaced in modern perfumery by synthetic civetone.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "língmāoxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "spirit-cat fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "civet"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "hailixiang",
+      "name": "海狸香",
+      "description": "海狸香 — castoreum; the scent secretion of the beaver (Castor fiber / C. canadensis), a Western classical perfumery fixative with no Chinese incense role, now almost entirely synthetic.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "hǎilíxiāng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "beaver fragrance"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "castoreum"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "zicaorong",
+      "name": "紫草茸",
+      "description": "紫草茸 — shellac / lac resin; the insect-derived resinous secretion of the lac insect (Kerria lacca), a functional binder and historical red dye (classical 紫鉚/紫矿). Despite the herbal-sounding name, it is not a plant material.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "zǐcǎoróng"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "purple herb velvet"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "shellac / lac resin (Kerria lacca)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Misinterpretation risk",
+          "value": "Name suggests a herb but it is an insect-derived resin"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "biluxiangzhi",
+      "name": "秘鲁香脂",
+      "description": "秘鲁香脂 — Peru balsam (Myroxylon balsamum), a sweet, vanilla-like legume resin used in Western perfumery as a fixative and sweetener; a modern crossover with no classical Chinese incense origin.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "bìlǔ xiāngzhī"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "Peru aromatic resin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "Peru balsam (Myroxylon balsamum)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "awei",
+      "name": "阿魏",
+      "description": "阿魏 — asafoetida (Ferula assa-foetida), a fiercely pungent, sulfurous resin of the carrot family (Apiaceae) that entered China via the Silk Road; its raw garlic-onion odor mellows on heating into an allium-like depth.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "āwèi"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "a-wei (loanword)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "asafoetida (Ferula assa-foetida)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "baiji",
+      "name": "白及",
+      "description": "白及 — bletilla (Bletilla striata), a mucilaginous orchid tuber used as a water-soluble binder that holds incense powders together; valued for function, not fragrance.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "báijí"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "white reach"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "bletilla (binder tuber)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "luole",
+      "name": "罗勒",
+      "description": "罗勒 — basil (Ocimum basilicum), a mint-family culinary herb whose older Chinese name is 兰香 ('orchid fragrance'), a taboo-name substitution recorded in 本草纲目.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "luólè"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "net-bind (loanword)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "basil (Ocimum basilicum)"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "sharen",
+      "name": "砂仁",
+      "description": "砂仁 — amomum villosum (syn. Wurfbainia villosa), a ginger-family spice fruit used as a warm, camphoraceous 香药 accent in blended incense; 香乘 records it in the 南阳公主熏衣香 recipe.",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shārén"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "sand kernel"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "amomum villosum (cardamom husk)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "traditional",
+          "title": "香乘 (Xiang Cheng) on Wikisource",
+          "url": "https://zh.wikisource.org/wiki/香乘",
+          "accessed": "2026-09-24",
+          "evidenceLevel": "Tier 3 — Historical primary source"
+        }
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "termCode": "shannai",
+      "name": "山柰",
+      "description": "山柰 — sand ginger / kencur (Kaempferia galanga), a ginger-family rhizome used as a pungent, camphoraceous spice; not common ginger (生姜, Zingiber officinale).",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Pinyin",
+          "value": "shānnài"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Literal meaning",
+          "value": "mountain nai"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Preferred English",
+          "value": "sand ginger (Kaempferia galanga)"
         }
       ]
     }
