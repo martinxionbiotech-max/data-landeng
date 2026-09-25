@@ -19,7 +19,7 @@ Fields per entity: `termCode` · `name` · `alternateName` (Chinese, pinyin) · 
 | low-smoke | Low-Smoke Incense (微烟香) | low-smoke |
 | smokeless | Smokeless Incense (无烟香) | smokeless |
 
-[Download the JSON](https://data.incenseherbs.com/datasets/forms.json)
+[Download the JSON](https://data.incenseherbs.com/datasets/forms.json) · [Download CSV](https://data.incenseherbs.com/downloads/forms.csv)
 
 Context on the main site: [https://incenseherbs.com/blog/which-incense-format/](https://incenseherbs.com/blog/which-incense-format/)
 

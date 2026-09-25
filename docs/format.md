@@ -28,6 +28,13 @@ Every `source` object carries an `evidenceLevel` field, assigned by source natur
 - Every source is a citation object `{ type, title, url, accessed, evidenceLevel }`.
 - Source URLs must be on the allow-list (efloras.org / gbif.org / wikisource.org / checklist.cites.org / data.incenseherbs.com / incenseherbs.com / schema.org); the `license` field is the only exception (creativecommons.org).
 
+## CSV distribution
+
+- Every dataset also ships as a flat CSV distribution package, generated from the JSON source by `scripts/export_csv.py` — no new fact is introduced.
+- CSV columns flatten the `mainEntity` array with Chinese and English names side by side (`name_zh` / `name_en`) plus each dataset's `additionalProperty` values as columns.
+- Files are UTF-8 with a BOM so Excel opens them directly; `relationships.csv` is an edge list (one row per relation).
+- CSVs are regenerated on every `mkdocs build` into `site/downloads/*.csv` (served from `data.incenseherbs.com/downloads/`).
+
 ## Deprecation
 
 - To retire an entity without deleting it, set `"deprecated": true` on the entity.

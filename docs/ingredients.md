@@ -4,7 +4,7 @@
 
 Fields per entity: `termCode` · `name` · `alternateName` (Chinese, pinyin) · `description` · `additionalProperty` (Chinese / Pinyin / Scientific name / Type / Aroma / Category) · `sameAs` · `sources` (with `evidenceLevel`).
 
-[Download the JSON](https://data.incenseherbs.com/datasets/ingredients.json)
+[Download the JSON](https://data.incenseherbs.com/datasets/ingredients.json) · [Download CSV](https://data.incenseherbs.com/downloads/ingredients.csv)
 Every entity has a full research article with an Evidence & Sources layer on the main site — see the [ingredient encyclopedia](https://incenseherbs.com/ingredients/).
 
 ## Data governance

@@ -19,7 +19,7 @@ Fields per entity: `termCode` · `name` · `alternateName` (Chinese, pinyin) · 
 | single-material | Single-Material Appreciation (单方) | single-material appreciation |
 | compound-formula | Compound Formula (复方) | compound-blending approach |
 
-[Download the JSON](https://data.incenseherbs.com/datasets/techniques.json)
+[Download the JSON](https://data.incenseherbs.com/datasets/techniques.json) · [Download CSV](https://data.incenseherbs.com/downloads/techniques.csv)
 
 Context on the main site: [https://incenseherbs.com/blog/gehuo-fenxiang-setup/](https://incenseherbs.com/blog/gehuo-fenxiang-setup/)
 

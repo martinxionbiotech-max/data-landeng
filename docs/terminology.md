@@ -12,7 +12,7 @@ Phase 4 additions (2026-09-24) add 20 terms across five directions: **incense fo
 
 Phase 5 additions (2026-09-24) add 14 terms (235 → 249), all drawn from 香乘 (Xiang Cheng) classical residue: **cultural & ritual terms** (香市 incense market, 香会 incense gathering, 香婆 incense woman, 香户 incense household, 香林 incense grove, 香界 incense realm) and **technique & material-object terms** (熏笼 fumigation cage, 手炉 hand warmer, 香煤 incense charcoal, 香鼎 incense tripod, 香炷 incense stick, 香袋 incense pouch, 香缨 incense ribbon, 香佩 incense pendant). Candidate pool thinning: the task-nominated items that do not appear in the source corpus or classical texts (品香会, 斗香, 香铺, 闷香, and the storage terms 避光/防潮/陈香/走香) are intentionally excluded per the no-fabrication rule.
 
-[Download the JSON](https://data.incenseherbs.com/datasets/terminology.json)
+[Download the JSON](https://data.incenseherbs.com/datasets/terminology.json) · [Download CSV](https://data.incenseherbs.com/downloads/terminology.csv)
 Terminology in context: [What is Chinese incense? (香 / Xiang)](https://incenseherbs.com/chinese-incense/) and the [terminology glossary](https://incenseherbs.com/blog/incense-terminology-glossary/).
 
 ## Data governance

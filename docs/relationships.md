@@ -42,4 +42,4 @@ The `form` relation type is reserved in the schema. The current `forms.json` rec
 | `technique` | 13 |
 | **Total** | **450** |
 
-[Download the JSON](https://data.incenseherbs.com/datasets/relationships.json)
+[Download the JSON](https://data.incenseherbs.com/datasets/relationships.json) · [Download CSV](https://data.incenseherbs.com/downloads/relationships.csv)

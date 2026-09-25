@@ -24,7 +24,7 @@ Fields per entity: `termCode` · `name` · `alternateName` (Chinese, where appli
 | incense-pill | Incense Pill (香丸) | format |
 | seal-incense | Seal Incense (香篆) | format |
 
-[Download the JSON](https://data.incenseherbs.com/datasets/comparisons.json)
+[Download the JSON](https://data.incenseherbs.com/datasets/comparisons.json) · [Download CSV](https://data.incenseherbs.com/downloads/comparisons.csv)
 
 Context on the main site: [https://incenseherbs.com/blog/incense-material-comparison-matrix/](https://incenseherbs.com/blog/incense-material-comparison-matrix/)
 
