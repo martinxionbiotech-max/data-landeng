@@ -118,6 +118,9 @@ jobs:
           print(f"    {sum(len(json.load(open(f))['mainEntity']) for f in files)} entities total")
           PY
 
+      - name: Check data consistency (counts, docs, CSV, dateModified)
+        run: python3 scripts/check-consistency.py
+
   build-site:
     name: Build MkDocs site
     runs-on: ubuntu-latest
