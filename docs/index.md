@@ -15,3 +15,7 @@ Machine-readable, link-worthy knowledge datasets for the LanDeng (澜灯) platfo
 | Form database | [datasets/forms.json](https://data.incenseherbs.com/datasets/forms.json) | live (12 forms) |
 
 All datasets use Schema.org `Dataset` + `DefinedTerm` structures. See [Format & Governance](format.md).
+
+## Publisher
+
+LanDeng is a brand operated by **Zhangjiakou Landeng Technology Co., Ltd.** (张家口澜灯科技有限公司), USCC 91130702MAKM4QXH5Q. Email: landengltd@gmail.com · Phone / WhatsApp / WeChat: +86 13323237275.

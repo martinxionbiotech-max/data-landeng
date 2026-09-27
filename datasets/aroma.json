@@ -6,12 +6,14 @@
  "description": "The ten aroma families of Chinese botanical incense with their member ingredients.",
  "url": "https://data.incenseherbs.com/datasets/aroma.json",
  "publisher": {
-  "@id": "https://incenseherbs.com/#organization"
+  "@type": "Organization",
+  "@id": "https://incenseherbs.com/#organization",
+  "name": "Zhangjiakou Landeng Technology Co., Ltd."
  },
- "dateModified": "2026-09-22",
+ "dateModified": "2026-09-27",
  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
  "version": "1.0",
- "changelog": "Added license, version, changelog, and distribution governance fields; no entity data changes.",
+ "changelog": "Added license, version, changelog, and distribution governance fields; no entity data changes. Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
  "inLanguage": "en",
  "isAccessibleForFree": true,
  "distribution": {

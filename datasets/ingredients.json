@@ -6,12 +6,14 @@
   "description": "Machine-readable definitions of the botanical ingredients in the LanDeng (澜灯) Chinese incense encyclopedia. Chinese terms are the source of truth; English is the agreed translation.",
   "url": "https://data.incenseherbs.com/datasets/ingredients.json",
   "publisher": {
-    "@id": "https://incenseherbs.com/#organization"
+    "@type": "Organization",
+    "@id": "https://incenseherbs.com/#organization",
+    "name": "Zhangjiakou Landeng Technology Co., Ltd."
   },
-  "dateModified": "2026-09-22",
+  "dateModified": "2026-09-27",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
   "version": "1.1",
-  "changelog": "Added evidenceLevel (Evidence Tier) to 311 source citations; added license, version, and changelog governance fields.",
+  "changelog": "Added evidenceLevel (Evidence Tier) to 311 source citations; added license, version, and changelog governance fields. Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
   "inLanguage": [
     "en",
     "zh"

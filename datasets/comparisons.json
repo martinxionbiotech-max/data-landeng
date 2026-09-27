@@ -6,12 +6,14 @@
   "description": "Machine-readable comparison profiles for Chinese botanical incense formats and materials — aroma, smoke, burn characteristics, traditional context, common uses, and quality factors. Extracted from the LanDeng (澜灯) incense encyclopedia comparison tables; every value is traceable to a source page and nothing is fabricated.",
   "url": "https://data.incenseherbs.com/datasets/comparisons.json",
   "publisher": {
-    "@id": "https://incenseherbs.com/#organization"
+    "@type": "Organization",
+    "@id": "https://incenseherbs.com/#organization",
+    "name": "Zhangjiakou Landeng Technology Co., Ltd."
   },
-  "dateModified": "2026-09-22",
+  "dateModified": "2026-09-27",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
   "version": "1.1",
-  "changelog": "Added evidenceLevel (Evidence Tier) to 12 source citations; added license, version, and changelog governance fields.",
+  "changelog": "Added evidenceLevel (Evidence Tier) to 12 source citations; added license, version, and changelog governance fields. Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
   "inLanguage": [
     "en",
     "zh"

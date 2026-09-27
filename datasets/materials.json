@@ -6,12 +6,14 @@
   "description": "Machine-readable definitions of the functional materials used to make Chinese botanical incense — binders, bases, cores, fuels, and loose aromatic materials. Extracted from the LanDeng (澜灯) incense encyclopedia; values are traceable to source pages and no value is fabricated.",
   "url": "https://data.incenseherbs.com/datasets/materials.json",
   "publisher": {
-    "@id": "https://incenseherbs.com/#organization"
+    "@type": "Organization",
+    "@id": "https://incenseherbs.com/#organization",
+    "name": "Zhangjiakou Landeng Technology Co., Ltd."
   },
-  "dateModified": "2026-09-22",
+  "dateModified": "2026-09-27",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
   "version": "1.1",
-  "changelog": "Added evidenceLevel (Evidence Tier) to 2 source citations; added license, version, and changelog governance fields.",
+  "changelog": "Added evidenceLevel (Evidence Tier) to 2 source citations; added license, version, and changelog governance fields. Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
   "inLanguage": [
     "en",
     "zh"

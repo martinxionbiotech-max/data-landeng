@@ -23,6 +23,17 @@ Per `ORIGINAL-DATA-ASSETS.md` (LanDeng main repo): every dataset must be accurat
 - Flat CSV distribution packages (UTF-8 BOM for Excel) generated at build time from the JSON source; see [scripts/export_csv.py](scripts/export_csv.py).
 - Build-time static generation; no runtime database in Phase 1.
 
+## Publisher
+
+LanDeng is a brand operated by **Zhangjiakou Landeng Technology Co., Ltd.** (张家口澜灯科技有限公司), USCC 91130702MAKM4QXH5Q. The datasets are maintained by the company's editorial team (the "Landeng Tech Team").
+
+- **Company (EN):** Zhangjiakou Landeng Technology Co., Ltd.
+- **Company (ZH):** 张家口澜灯科技有限公司
+- **USCC:** 91130702MAKM4QXH5Q
+- **Address:** Room 202, Unit 4, Building 14, Linli Jiayuan, No. 1 Gongye East Street, Qiaodong District, Zhangjiakou, Hebei, China
+- **Email:** landengltd@gmail.com
+- **Phone / WhatsApp / WeChat:** +86 13323237275
+
 ## Governance
 
 - Never expose sensitive or proprietary data.
