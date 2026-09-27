@@ -9,7 +9,7 @@ Every entity has a full research article with an Evidence & Sources layer on the
 
 ## Data governance
 
-- **Last updated:** 2026-09-22
+- **Last updated:** <!-- AUTO:counts:date-ingredients -->2026-09-27<!-- /AUTO:counts:date-ingredients -->
 - **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- **Version:** 1.1
+- **Version:** <!-- AUTO:counts:version-ingredients -->1.1<!-- /AUTO:counts:version-ingredients -->
 - **Sources:** every entity carries a `sources` array; each citation is tagged with an `evidenceLevel` (Evidence Tier).

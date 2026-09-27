@@ -25,7 +25,7 @@ Context on the main site: [https://incenseherbs.com/blog/gehuo-fenxiang-setup/](
 
 ## Data governance
 
-- **Last updated:** 2026-09-22
+- **Last updated:** <!-- AUTO:counts:date-techniques -->2026-09-27<!-- /AUTO:counts:date-techniques -->
 - **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- **Version:** 1.1
+- **Version:** <!-- AUTO:counts:version-techniques -->1.1<!-- /AUTO:counts:version-techniques -->
 - **Sources:** source citations are tagged with an `evidenceLevel` (Evidence Tier).

@@ -30,7 +30,7 @@ Context on the main site: [https://incenseherbs.com/blog/incense-material-compar
 
 ## Data governance
 
-- **Last updated:** 2026-09-22
+- **Last updated:** <!-- AUTO:counts:date-comparisons -->2026-09-27<!-- /AUTO:counts:date-comparisons -->
 - **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- **Version:** 1.1
+- **Version:** <!-- AUTO:counts:version-comparisons -->1.1<!-- /AUTO:counts:version-comparisons -->
 - **Sources:** source citations are tagged with an `evidenceLevel` (Evidence Tier).
