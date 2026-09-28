@@ -6,7 +6,7 @@ Eight machine-readable knowledge datasets for the LanDeng (澜灯) platform — 
 | Dataset | File | CSV | Entities | Last updated | Version |
 |---|---|---|---|---|---|
 | Ingredient database | [ingredients.json](https://data.incenseherbs.com/datasets/ingredients.json) | [ingredients.csv](https://data.incenseherbs.com/downloads/ingredients.csv) | 150 | 2026-09-28 | 1.3 |
-| Terminology database | [terminology.json](https://data.incenseherbs.com/datasets/terminology.json) | [terminology.csv](https://data.incenseherbs.com/downloads/terminology.csv) | 249 | 2026-09-28 | 1.4 |
+| Terminology database | [terminology.json](https://data.incenseherbs.com/datasets/terminology.json) | [terminology.csv](https://data.incenseherbs.com/downloads/terminology.csv) | 249 | 2026-09-28 | 1.5 |
 | Aroma database | [aroma.json](https://data.incenseherbs.com/datasets/aroma.json) | [aroma.csv](https://data.incenseherbs.com/downloads/aroma.csv) | 10 | 2026-09-28 | 1.1 |
 | Material database | [materials.json](https://data.incenseherbs.com/datasets/materials.json) | [materials.csv](https://data.incenseherbs.com/downloads/materials.csv) | 15 | 2026-09-28 | 1.2 |
 | Comparison database | [comparisons.json](https://data.incenseherbs.com/datasets/comparisons.json) | [comparisons.csv](https://data.incenseherbs.com/downloads/comparisons.csv) | 17 | 2026-09-28 | 1.2 |
