@@ -25,7 +25,7 @@ Context on the main site: [https://incenseherbs.com/blog/which-incense-format/](
 
 ## Data governance
 
-- **Last updated:** <!-- AUTO:counts:date-forms -->2026-09-27<!-- /AUTO:counts:date-forms -->
+- **Last updated:** <!-- AUTO:counts:date-forms -->2026-09-28<!-- /AUTO:counts:date-forms -->
 - **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- **Version:** <!-- AUTO:counts:version-forms -->1.1<!-- /AUTO:counts:version-forms -->
+- **Version:** <!-- AUTO:counts:version-forms -->1.2<!-- /AUTO:counts:version-forms -->
 - **Sources:** source citations are tagged with an `evidenceLevel` (Evidence Tier).

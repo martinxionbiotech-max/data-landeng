@@ -17,7 +17,7 @@ Terminology in context: [What is Chinese incense? (香 / Xiang)](https://incense
 
 ## Data governance
 
-- **Last updated:** <!-- AUTO:counts:date-terminology -->2026-09-27<!-- /AUTO:counts:date-terminology -->
+- **Last updated:** <!-- AUTO:counts:date-terminology -->2026-09-28<!-- /AUTO:counts:date-terminology -->
 - **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 - **Version:** <!-- AUTO:counts:version-terminology -->1.4<!-- /AUTO:counts:version-terminology -->
 - **Sources:** classical terms cite 香乘 / 香譜 on Wikisource (`evidenceLevel` Tier 3); trade terms cite the wholesale buying guide (Tier 6).

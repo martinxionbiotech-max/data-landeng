@@ -20,3 +20,7 @@ nav:
   - Relationships Database: relationships.md
   - Format & Governance: format.md
   - IncenseHerbs Main Site: https://incenseherbs.com
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list

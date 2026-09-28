@@ -10,10 +10,10 @@
     "@id": "https://incenseherbs.com/#organization",
     "name": "Zhangjiakou Landeng Technology Co., Ltd."
   },
-  "dateModified": "2026-09-27",
+  "dateModified": "2026-09-28",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "version": "1.1",
-  "changelog": "Added evidenceLevel (Evidence Tier) to 2 source citations; added license, version, and changelog governance fields. Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
+  "version": "1.2",
+  "changelog": "Evidence model: added explicit Tier 6 editorial_interpretation source markers to 13 entries that previously carried no sources array; no external citations were invented.",
   "inLanguage": [
     "en",
     "zh"
@@ -69,6 +69,15 @@
           "name": "Applications",
           "value": "binder and combustion aid for stick, cone and coil incense; forms a workable paste with water that dries into a firm, self-supporting form"
         }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
+        }
       ]
     },
     {
@@ -106,6 +115,15 @@
           "@type": "PropertyValue",
           "name": "Applications",
           "value": "core of stick incense, onto which paste is coated (machine-made/dipped sticks)"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -149,6 +167,15 @@
           "@type": "PropertyValue",
           "name": "Applications",
           "value": "pure-material scent via heating on charcoal or an electric heater; seal-pattern (篆香) powder"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -197,6 +224,15 @@
           "name": "Applications",
           "value": "indirect-fire (隔火焚香) appreciation; traditional bakhoor-style heating on charcoal"
         }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
+        }
       ]
     },
     {
@@ -230,6 +266,15 @@
           "name": "Applications",
           "value": "filler base in cheap / synthetic incense"
         }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
+        }
       ]
     },
     {
@@ -262,6 +307,15 @@
           "@type": "PropertyValue",
           "name": "Applications",
           "value": "filler base in cheap / synthetic incense"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -304,6 +358,15 @@
           "name": "Applications",
           "value": "traditional binder and fixative in classical 合香 blends; seals 柏子香 seeds"
         }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
+        }
       ]
     },
     {
@@ -326,6 +389,15 @@
           "@type": "PropertyValue",
           "name": "Applications",
           "value": "plant-derived binder in natural incense"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -350,6 +422,15 @@
           "name": "Applications",
           "value": "plant-derived binder in natural incense"
         }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
+        }
       ]
     },
     {
@@ -372,6 +453,15 @@
           "@type": "PropertyValue",
           "name": "Applications",
           "value": "plant-derived binder in natural incense"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -405,6 +495,15 @@
           "@type": "PropertyValue",
           "name": "Applications",
           "value": "holds cheap machine-made sticks together"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -448,6 +547,15 @@
           "@type": "PropertyValue",
           "name": "Applications",
           "value": "the aromatic component of dipped / fragrance-oil sticks"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -495,6 +603,15 @@
           "@type": "PropertyValue",
           "name": "Applications",
           "value": "the single-material 柏子香 incense; a cheap, simple scholar's incense"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — material taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/materials/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },

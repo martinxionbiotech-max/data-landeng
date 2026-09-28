@@ -10,10 +10,10 @@
     "@id": "https://incenseherbs.com/#organization",
     "name": "Zhangjiakou Landeng Technology Co., Ltd."
   },
-  "dateModified": "2026-09-27",
+  "dateModified": "2026-09-28",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "version": "1.1",
-  "changelog": "Added evidenceLevel (Evidence Tier) to 12 source citations; added license, version, and changelog governance fields. Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
+  "version": "1.2",
+  "changelog": "Evidence model: added explicit Tier 6 editorial_interpretation source markers to 5 entries that previously carried no sources array; no external citations were invented.",
   "inLanguage": [
     "en",
     "zh"
@@ -141,6 +141,15 @@
           "name": "Common uses",
           "value": "the waterfall-smoke visual effect"
         }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — format comparison profile (no external citation).",
+          "url": "https://data.incenseherbs.com/comparisons/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
+        }
       ]
     },
     {
@@ -172,6 +181,15 @@
           "name": "Common uses",
           "value": "long, continuous room scent; temples, long ceremonies"
         }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — format comparison profile (no external citation).",
+          "url": "https://data.incenseherbs.com/comparisons/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
+        }
       ]
     },
     {
@@ -199,6 +217,15 @@
           "@type": "PropertyValue",
           "name": "Common uses",
           "value": "portable scent, no burning"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — format comparison profile (no external citation).",
+          "url": "https://data.incenseherbs.com/comparisons/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -240,6 +267,15 @@
           "@type": "PropertyValue",
           "name": "Common uses",
           "value": "seal patterns (篆香), custom blends; pure-material scent"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — format comparison profile (no external citation).",
+          "url": "https://data.incenseherbs.com/comparisons/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },
@@ -331,6 +367,15 @@
           "@type": "PropertyValue",
           "name": "Common uses",
           "value": "low-smoke, controlled aroma; traditional bakhoor-style"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — format comparison profile (no external citation).",
+          "url": "https://data.incenseherbs.com/comparisons/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },

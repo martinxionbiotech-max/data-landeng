@@ -10,10 +10,10 @@
     "@id": "https://incenseherbs.com/#organization",
     "name": "Zhangjiakou Landeng Technology Co., Ltd."
   },
-  "dateModified": "2026-09-27",
+  "dateModified": "2026-09-28",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "version": "1.1",
-  "changelog": "Added evidenceLevel (Evidence Tier) to 311 source citations; added license, version, and changelog governance fields. Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
+  "version": "1.2",
+  "changelog": "Category standardization: unified \"Animal\" into \"Animal-derived\" for musk, civet, castoreum (3 entities). One canonical category label per real-world material class.",
   "inLanguage": [
     "en",
     "zh"
@@ -2990,7 +2990,7 @@
         {
           "@type": "PropertyValue",
           "name": "Category",
-          "value": "Animal"
+          "value": "Animal-derived"
         }
       ],
       "sameAs": [
@@ -3714,7 +3714,7 @@
         {
           "@type": "PropertyValue",
           "name": "Category",
-          "value": "Animal"
+          "value": "Animal-derived"
         }
       ],
       "sameAs": [
@@ -6690,7 +6690,7 @@
         {
           "@type": "PropertyValue",
           "name": "Category",
-          "value": "Animal"
+          "value": "Animal-derived"
         }
       ],
       "sameAs": [

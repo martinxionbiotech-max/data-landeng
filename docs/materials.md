@@ -28,7 +28,7 @@ Context on the main site: [https://incenseherbs.com/blog/makko-natural-binders/]
 
 ## Data governance
 
-- **Last updated:** <!-- AUTO:counts:date-materials -->2026-09-27<!-- /AUTO:counts:date-materials -->
+- **Last updated:** <!-- AUTO:counts:date-materials -->2026-09-28<!-- /AUTO:counts:date-materials -->
 - **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- **Version:** <!-- AUTO:counts:version-materials -->1.1<!-- /AUTO:counts:version-materials -->
+- **Version:** <!-- AUTO:counts:version-materials -->1.2<!-- /AUTO:counts:version-materials -->
 - **Sources:** source citations are tagged with an `evidenceLevel` (Evidence Tier).

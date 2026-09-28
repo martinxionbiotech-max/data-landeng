@@ -21,7 +21,7 @@ Context on the main site: [https://incenseherbs.com/ingredients/](https://incens
 
 ## Data governance
 
-- **Last updated:** <!-- AUTO:counts:date-aroma -->2026-09-27<!-- /AUTO:counts:date-aroma -->
+- **Last updated:** <!-- AUTO:counts:date-aroma -->2026-09-28<!-- /AUTO:counts:date-aroma -->
 - **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- **Version:** <!-- AUTO:counts:version-aroma -->1.0<!-- /AUTO:counts:version-aroma -->
+- **Version:** <!-- AUTO:counts:version-aroma -->1.1<!-- /AUTO:counts:version-aroma -->
 - **Fields:** `termCode` · `name` · `memberIngredients`.

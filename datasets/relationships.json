@@ -10,10 +10,10 @@
     "@id": "https://incenseherbs.com/#organization",
     "name": "Zhangjiakou Landeng Technology Co., Ltd."
   },
-  "dateModified": "2026-09-27",
+  "dateModified": "2026-09-28",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "version": "1.0",
-  "changelog": "Initial release: 150 ingredient entities with derived relatedEntity links (category, aroma, comparison, technique). Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
+  "version": "1.1",
+  "changelog": "Synced 3 category relationship references with the ingredients.json category standardization (\"Animal\" -> \"Animal-derived\").",
   "inLanguage": [
     "en",
     "zh"
@@ -1314,8 +1314,8 @@
       "relatedEntity": [
         {
           "type": "category",
-          "termCode": "animal",
-          "name": "Animal",
+          "termCode": "animal-derived",
+          "name": "Animal-derived",
           "inDataset": "ingredients.json"
         },
         {
@@ -1626,8 +1626,8 @@
       "relatedEntity": [
         {
           "type": "category",
-          "termCode": "animal",
-          "name": "Animal",
+          "termCode": "animal-derived",
+          "name": "Animal-derived",
           "inDataset": "ingredients.json"
         },
         {
@@ -2777,8 +2777,8 @@
       "relatedEntity": [
         {
           "type": "category",
-          "termCode": "animal",
-          "name": "Animal",
+          "termCode": "animal-derived",
+          "name": "Animal-derived",
           "inDataset": "ingredients.json"
         },
         {

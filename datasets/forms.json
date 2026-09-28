@@ -10,10 +10,10 @@
     "@id": "https://incenseherbs.com/#organization",
     "name": "Zhangjiakou Landeng Technology Co., Ltd."
   },
-  "dateModified": "2026-09-27",
+  "dateModified": "2026-09-28",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
-  "version": "1.1",
-  "changelog": "Added evidenceLevel (Evidence Tier) to 14 source citations; added license, version, and changelog governance fields. Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
+  "version": "1.2",
+  "changelog": "Evidence model: added explicit Tier 6 editorial_interpretation source markers to 2 entries that previously carried no sources array; no external citations were invented.",
   "inLanguage": [
     "en",
     "zh"
@@ -364,6 +364,15 @@
           "name": "Use case",
           "value": "unverified"
         }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — form taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/forms/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
+        }
       ]
     },
     {
@@ -400,6 +409,15 @@
           "@type": "PropertyValue",
           "name": "Use case",
           "value": "unverified"
+        }
+      ],
+      "sources": [
+        {
+          "type": "editorial_interpretation",
+          "title": "LanDeng editorial definition — form taxonomy (no external citation).",
+          "url": "https://data.incenseherbs.com/forms/",
+          "accessed": "2026-09-28",
+          "evidenceLevel": "Tier 6 — Editorial synthesis"
         }
       ]
     },

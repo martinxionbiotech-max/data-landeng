@@ -10,10 +10,10 @@
     "@id": "https://incenseherbs.com/#organization",
     "name": "Zhangjiakou Landeng Technology Co., Ltd."
   },
-  "dateModified": "2026-09-27",
+  "dateModified": "2026-09-28",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
   "version": "1.1",
-  "changelog": "Added evidenceLevel (Evidence Tier) to 13 source citations; added license, version, and changelog governance fields. Publisher set to Zhangjiakou Landeng Technology Co., Ltd..",
+  "changelog": "dateModified synced for the Phase 2 release; no entity changes.",
   "inLanguage": [
     "en",
     "zh"

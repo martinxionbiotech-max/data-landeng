@@ -5,14 +5,14 @@ Eight machine-readable knowledge datasets for the LanDeng (澜灯) platform — 
 <!-- AUTO:counts:datasets-table -->
 | Dataset | File | CSV | Entities | Last updated | Version |
 |---|---|---|---|---|---|
-| Ingredient database | [ingredients.json](https://data.incenseherbs.com/datasets/ingredients.json) | [ingredients.csv](https://data.incenseherbs.com/downloads/ingredients.csv) | 150 | 2026-09-27 | 1.1 |
-| Terminology database | [terminology.json](https://data.incenseherbs.com/datasets/terminology.json) | [terminology.csv](https://data.incenseherbs.com/downloads/terminology.csv) | 249 | 2026-09-27 | 1.4 |
-| Aroma database | [aroma.json](https://data.incenseherbs.com/datasets/aroma.json) | [aroma.csv](https://data.incenseherbs.com/downloads/aroma.csv) | 10 | 2026-09-27 | 1.0 |
-| Material database | [materials.json](https://data.incenseherbs.com/datasets/materials.json) | [materials.csv](https://data.incenseherbs.com/downloads/materials.csv) | 15 | 2026-09-27 | 1.1 |
-| Comparison database | [comparisons.json](https://data.incenseherbs.com/datasets/comparisons.json) | [comparisons.csv](https://data.incenseherbs.com/downloads/comparisons.csv) | 17 | 2026-09-27 | 1.1 |
-| Technique database | [techniques.json](https://data.incenseherbs.com/datasets/techniques.json) | [techniques.csv](https://data.incenseherbs.com/downloads/techniques.csv) | 12 | 2026-09-27 | 1.1 |
-| Form database | [forms.json](https://data.incenseherbs.com/datasets/forms.json) | [forms.csv](https://data.incenseherbs.com/downloads/forms.csv) | 12 | 2026-09-27 | 1.1 |
-| Relationships database | [relationships.json](https://data.incenseherbs.com/datasets/relationships.json) | [relationships.csv](https://data.incenseherbs.com/downloads/relationships.csv) | 150 | 2026-09-27 | 1.0 |
+| Ingredient database | [ingredients.json](https://data.incenseherbs.com/datasets/ingredients.json) | [ingredients.csv](https://data.incenseherbs.com/downloads/ingredients.csv) | 150 | 2026-09-28 | 1.2 |
+| Terminology database | [terminology.json](https://data.incenseherbs.com/datasets/terminology.json) | [terminology.csv](https://data.incenseherbs.com/downloads/terminology.csv) | 249 | 2026-09-28 | 1.4 |
+| Aroma database | [aroma.json](https://data.incenseherbs.com/datasets/aroma.json) | [aroma.csv](https://data.incenseherbs.com/downloads/aroma.csv) | 10 | 2026-09-28 | 1.1 |
+| Material database | [materials.json](https://data.incenseherbs.com/datasets/materials.json) | [materials.csv](https://data.incenseherbs.com/downloads/materials.csv) | 15 | 2026-09-28 | 1.2 |
+| Comparison database | [comparisons.json](https://data.incenseherbs.com/datasets/comparisons.json) | [comparisons.csv](https://data.incenseherbs.com/downloads/comparisons.csv) | 17 | 2026-09-28 | 1.2 |
+| Technique database | [techniques.json](https://data.incenseherbs.com/datasets/techniques.json) | [techniques.csv](https://data.incenseherbs.com/downloads/techniques.csv) | 12 | 2026-09-28 | 1.1 |
+| Form database | [forms.json](https://data.incenseherbs.com/datasets/forms.json) | [forms.csv](https://data.incenseherbs.com/downloads/forms.csv) | 12 | 2026-09-28 | 1.2 |
+| Relationships database | [relationships.json](https://data.incenseherbs.com/datasets/relationships.json) | [relationships.csv](https://data.incenseherbs.com/downloads/relationships.csv) | 150 | 2026-09-28 | 1.1 |
 <!-- /AUTO:counts:datasets-table -->
 
 <!-- AUTO:counts:h2-ingredients -->
