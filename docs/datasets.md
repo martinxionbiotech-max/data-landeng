@@ -12,7 +12,7 @@ Eight machine-readable knowledge datasets for the LanDeng (澜灯) platform — 
 | Comparison database | [comparisons.json](https://data.incenseherbs.com/datasets/comparisons.json) | [comparisons.csv](https://data.incenseherbs.com/downloads/comparisons.csv) | 17 | 2026-09-28 | 1.2 |
 | Technique database | [techniques.json](https://data.incenseherbs.com/datasets/techniques.json) | [techniques.csv](https://data.incenseherbs.com/downloads/techniques.csv) | 12 | 2026-09-28 | 1.1 |
 | Form database | [forms.json](https://data.incenseherbs.com/datasets/forms.json) | [forms.csv](https://data.incenseherbs.com/downloads/forms.csv) | 12 | 2026-09-28 | 1.2 |
-| Relationships database | [relationships.json](https://data.incenseherbs.com/datasets/relationships.json) | [relationships.csv](https://data.incenseherbs.com/downloads/relationships.csv) | 150 | 2026-09-28 | 1.1 |
+| Relationships database | [relationships.json](https://data.incenseherbs.com/datasets/relationships.json) | [relationships.csv](https://data.incenseherbs.com/downloads/relationships.csv) | 150 | 2026-09-28 | 1.2 |
 <!-- /AUTO:counts:datasets-table -->
 
 <!-- AUTO:counts:h2-ingredients -->

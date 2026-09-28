@@ -16,7 +16,7 @@ Per `ORIGINAL-DATA-ASSETS.md` (LanDeng main repo): every dataset must be accurat
 | Comparison database | datasets/comparisons.json | [comparisons.csv](https://data.incenseherbs.com/downloads/comparisons.csv) | live (17 profiles) |
 | Technique database | datasets/techniques.json | [techniques.csv](https://data.incenseherbs.com/downloads/techniques.csv) | live (12 techniques) |
 | Form database | datasets/forms.json | [forms.csv](https://data.incenseherbs.com/downloads/forms.csv) | live (12 forms) |
-| Relationships database | datasets/relationships.json | [relationships.csv](https://data.incenseherbs.com/downloads/relationships.csv) | live (150 entities, 450 edges) |
+| Relationships database | datasets/relationships.json | [relationships.csv](https://data.incenseherbs.com/downloads/relationships.csv) | live (150 entities, 806 edges) |
 <!-- /AUTO:counts:readme-table -->
 
 ## Format

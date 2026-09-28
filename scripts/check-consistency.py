@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import csv
 import importlib.util
+import json
 import sys
 import tempfile
 from pathlib import Path
@@ -86,6 +87,69 @@ def check_date_modified(counts: dict) -> list[str]:
     return errors
 
 
+# Relationship edge types and the dataset / value space each one must resolve
+# against. `category` resolves against the Category values declared in
+# ingredients.json (category is a label, not a separate entity dataset);
+# every other type resolves against entity termCodes.
+EDGE_RULES = {
+    "category": "ingredient-categories",
+    "aroma": "aroma",
+    "comparison": "comparisons",
+    "technique": "techniques",
+    "form": "forms",
+    "related": "ingredients",
+}
+
+
+def check_relationship_edges(counts: dict) -> list[str]:
+    """Validate every relationships.json edge: known type, resolvable target,
+    subject is a real ingredient, and no duplicate (type, termCode) pair."""
+    errors = []
+    datasets = {}
+    for stem in ic.STEMS:
+        with open(ic.DATASETS_DIR / f"{stem}.json", encoding="utf-8") as fh:
+            datasets[stem] = json.load(fh)
+
+    ingredient_codes = {e.get("termCode") for e in datasets["ingredients"]["mainEntity"]}
+
+    # Category labels live in ingredients.json additionalProperty, not as entities.
+    category_values = set()
+    for e in datasets["ingredients"]["mainEntity"]:
+        for p in e.get("additionalProperty", []) or []:
+            if p.get("name") == "Category" and p.get("value"):
+                category_values.add(p["value"])
+
+    resolvers = {
+        "ingredient-categories": category_values,
+    }
+    for stem in ("aroma", "comparisons", "techniques", "forms", "ingredients"):
+        resolvers[stem] = {e.get("termCode") for e in datasets[stem]["mainEntity"]}
+
+    for rec in datasets["relationships"]["mainEntity"]:
+        subj = rec.get("termCode")
+        if not subj or subj not in ingredient_codes:
+            errors.append(f"relationships.json: subject {subj!r} is not an ingredient termCode")
+            continue
+        seen = set()
+        for edge in rec.get("relatedEntity", []) or []:
+            etype = edge.get("type")
+            code = edge.get("termCode")
+            rule = EDGE_RULES.get(etype)
+            if rule is None:
+                errors.append(f"relationships.json [{subj}]: unknown edge type {etype!r}")
+                continue
+            if not code or code not in resolvers[rule]:
+                errors.append(
+                    f"relationships.json [{subj}]: {etype} edge {code!r} does not resolve "
+                    f"in {rule}"
+                )
+            pair = (etype, code)
+            if pair in seen:
+                errors.append(f"relationships.json [{subj}]: duplicate edge {etype}->{code}")
+            seen.add(pair)
+    return errors
+
+
 def main() -> int:
     counts = ic.read_counts()
 
@@ -93,6 +157,7 @@ def main() -> int:
     errors += check_injection_regions(counts)
     errors += check_csv_rows(counts)
     errors += check_date_modified(counts)
+    errors += check_relationship_edges(counts)
 
     if errors:
         print("Consistency check FAILED:")

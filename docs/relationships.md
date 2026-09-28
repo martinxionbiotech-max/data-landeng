@@ -29,6 +29,7 @@ Every relationship is **derived from the seven source datasets** (`ingredients.j
 | `aroma` | ingredient `Aroma` field, matched to the ten aroma families in `aroma.json` |
 | `comparison` | ingredient `termCode` matched to a material profile in `comparisons.json` |
 | `technique` | ingredient name referenced in the `Materials` field of `techniques.json` |
+| `related` | editorial "related ingredients" link mirrored from the main-site ingredient encyclopedia (`incenseherbs.com/ingredients/`) |
 
 The `form` relation type is reserved in the schema. The current `forms.json` records delivery formats (stick, coil, cone, …) without ingredient-level references, so no `form` relations are derived yet — none are fabricated.
 
@@ -40,6 +41,7 @@ The `form` relation type is reserved in the schema. The current `forms.json` rec
 | `aroma` | 280 |
 | `comparison` | 7 |
 | `technique` | 13 |
-| **Total** | **450** |
+| `related` | 356 |
+| **Total** | **806** |
 
 [Download the JSON](https://data.incenseherbs.com/datasets/relationships.json) · [Download CSV](https://data.incenseherbs.com/downloads/relationships.csv)
