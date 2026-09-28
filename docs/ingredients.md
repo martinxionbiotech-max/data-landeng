@@ -11,7 +11,7 @@ Every entity has a full research article with an Evidence & Sources layer on the
 
 - **Last updated:** <!-- AUTO:counts:date-ingredients -->2026-09-28<!-- /AUTO:counts:date-ingredients -->
 - **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- **Version:** <!-- AUTO:counts:version-ingredients -->1.2<!-- /AUTO:counts:version-ingredients -->
+- **Version:** <!-- AUTO:counts:version-ingredients -->1.3<!-- /AUTO:counts:version-ingredients -->
 - **Sources:** every entity carries a `sources` array; each citation is tagged with an `evidenceLevel` (Evidence Tier).
 
 ## Entity index

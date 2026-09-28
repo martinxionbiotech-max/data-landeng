@@ -23,6 +23,12 @@ Every `source` object carries an `evidenceLevel` field, assigned by source natur
 | Tier 5 | Traditional knowledge | traditional-knowledge sources |
 | Tier 6 | Editorial synthesis | this site's own editorial pages |
 
+## Main-site connection
+
+- Every ingredient entity carries a canonical `url` pointing at its human-readable page on the main site (`https://incenseherbs.com/ingredients/<termCode>/`).
+- The main site links back through `sameAs` to the data entity anchor (`https://data.incenseherbs.com/ingredients/#<termCode>`).
+- The data site holds structured facts, relationships and evidence; the main site holds the detailed explanation. No full-article duplication between the two.
+
 ## Source status
 
 - Every source is a citation object `{ type, title, url, accessed, evidenceLevel }`.

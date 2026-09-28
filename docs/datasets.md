@@ -5,7 +5,7 @@ Eight machine-readable knowledge datasets for the LanDeng (澜灯) platform — 
 <!-- AUTO:counts:datasets-table -->
 | Dataset | File | CSV | Entities | Last updated | Version |
 |---|---|---|---|---|---|
-| Ingredient database | [ingredients.json](https://data.incenseherbs.com/datasets/ingredients.json) | [ingredients.csv](https://data.incenseherbs.com/downloads/ingredients.csv) | 150 | 2026-09-28 | 1.2 |
+| Ingredient database | [ingredients.json](https://data.incenseherbs.com/datasets/ingredients.json) | [ingredients.csv](https://data.incenseherbs.com/downloads/ingredients.csv) | 150 | 2026-09-28 | 1.3 |
 | Terminology database | [terminology.json](https://data.incenseherbs.com/datasets/terminology.json) | [terminology.csv](https://data.incenseherbs.com/downloads/terminology.csv) | 249 | 2026-09-28 | 1.4 |
 | Aroma database | [aroma.json](https://data.incenseherbs.com/datasets/aroma.json) | [aroma.csv](https://data.incenseherbs.com/downloads/aroma.csv) | 10 | 2026-09-28 | 1.1 |
 | Material database | [materials.json](https://data.incenseherbs.com/datasets/materials.json) | [materials.csv](https://data.incenseherbs.com/downloads/materials.csv) | 15 | 2026-09-28 | 1.2 |
@@ -21,7 +21,7 @@ Eight machine-readable knowledge datasets for the LanDeng (澜灯) platform — 
 
 `DefinedTerm` entities for botanical incense ingredients.
 
-- **Fields:** `termCode` · `name` · `alternateName` (Chinese, pinyin) · `description` · `additionalProperty` (Chinese / Pinyin / Scientific name / Type / Aroma / Category) · `sameAs` · `sources` (with `evidenceLevel`)
+- **Fields:** `termCode` · `name` · `alternateName` (Chinese, pinyin) · `description` · `additionalProperty` (Chinese / Pinyin / Scientific name / Type / Aroma / Category) · `url` (canonical main-site page) · `sameAs` · `sources` (with `evidenceLevel`)
 - **Download:** [ingredients.json](https://data.incenseherbs.com/datasets/ingredients.json) · [ingredients.csv](https://data.incenseherbs.com/downloads/ingredients.csv)
 
 <!-- AUTO:counts:h2-terminology -->
