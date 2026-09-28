@@ -61,3 +61,80 @@ def on_post_build(config, **kwargs):
         cleaned = marker_re.sub("", text)
         if cleaned != text:
             html.write_text(cleaned, encoding="utf-8")
+
+    # 4) Inject Dataset JSON-LD into each dataset page (auto from JSON truth).
+    import json  # noqa: E402
+
+    site_url = (config.get("site_url") or "https://data.incenseherbs.com").rstrip("/")
+    title_re = re.compile(r"(<title>.*?</title>)", re.S)
+    for slug in [
+        "ingredients", "terminology", "aroma", "materials", "comparisons",
+        "techniques", "forms", "relationships",
+    ]:
+        page = Path(config.site_dir) / slug / "index.html"
+        jpath = src / f"{slug}.json"
+        if not page.exists() or not jpath.exists():
+            continue
+        try:
+            data = json.loads(jpath.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        org = {"@type": "Organization", "name": "Zhangjiakou Landeng Technology Co., Ltd."}
+        ds = {
+            "@context": "https://schema.org",
+            "@type": "Dataset",
+            "@id": f"{site_url}/{slug}/#dataset",
+            "name": data.get("name", slug),
+            "description": data.get("description", ""),
+            "url": f"{site_url}/{slug}/",
+            "version": data.get("version"),
+            "dateModified": data.get("dateModified"),
+            "license": data.get("license"),
+            "creator": org,
+            "publisher": org,
+        }
+        ds = {k: v for k, v in ds.items() if v is not None}
+        script = (
+            '<script type="application/ld+json">'
+            + json.dumps(ds, ensure_ascii=False)
+            + "</script>"
+        )
+        html = page.read_text(encoding="utf-8")
+        if "application/ld+json" not in html:
+            html = title_re.sub(lambda m: m.group(1) + "\n" + script, html, count=1)
+            page.write_text(html, encoding="utf-8")
+
+    # 5) Generate llms.txt from the JSON truth (no manual counts).
+    def _counts(path):
+        try:
+            d = json.loads(path.read_text(encoding="utf-8"))
+            if path.name == "relationships.json":
+                return len(d.get("edges", d.get("mainEntity", [])))
+            return len(d.get("mainEntity", []))
+        except Exception:
+            return 0
+
+    lines = [
+        "# LanDeng Open Datasets",
+        "",
+        "> Machine-readable knowledge datasets for Chinese botanical incense.",
+        "",
+        "## Datasets (JSON)",
+    ]
+    for slug in ["ingredients", "terminology", "aroma", "materials", "comparisons", "techniques", "forms", "relationships"]:
+        jp = src / f"{slug}.json"
+        n = _counts(jp)
+        lines.append(f"- [{slug}]({site_url}/datasets/{slug}.json): {n} records")
+    lines += [
+        "",
+        "## CSV downloads",
+    ]
+    for slug in ["ingredients", "terminology", "aroma", "materials", "comparisons", "techniques", "forms", "relationships"]:
+        lines.append(f"- [{slug}.csv]({site_url}/downloads/{slug}.csv)")
+    lines += [
+        "",
+        "## Human-readable pages",
+    ]
+    for slug in ["ingredients", "terminology", "aroma", "materials", "comparisons", "techniques", "forms", "relationships", "datasets"]:
+        lines.append(f"- [{slug}]({site_url}/{slug}/)")
+    (Path(config.site_dir) / "llms.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")
