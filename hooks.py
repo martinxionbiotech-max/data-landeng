@@ -22,17 +22,24 @@ def _load_module(name: str, path: str):
 
 
 def on_pre_build(config, **kwargs):
-    """Inject counts/version/date into docs before MkDocs reads the pages.
+    """Prepare docs sources before MkDocs reads the pages.
 
-    Runs on_pre_build (not on_post_build) because inject-counts.py rewrites the
-    docs source files that feed this same build — so the rendered site must
-    always carry the same numbers as the JSON.
+    Runs on_pre_build (not on_post_build) because the scripts rewrite the docs
+    source files that feed this same build — so the rendered site must always
+    carry the same numbers as the JSON:
+      1) inject-counts.py — dataset counts / version / dateModified.
+      2) generate-entity-pages.py — per-entity pages + retrieval index under
+         docs/entities/ (projection of datasets/*.json, idempotent).
     """
     root = Path(config.config_file_path).parent
     inject_counts = _load_module(
         "inject_counts", str(root / "scripts" / "inject-counts.py")
     )
     inject_counts.main()
+    generate_pages = _load_module(
+        "generate_entity_pages", str(root / "scripts" / "generate-entity-pages.py")
+    )
+    generate_pages.main()
 
 
 def on_post_build(config, **kwargs):
@@ -137,4 +144,10 @@ def on_post_build(config, **kwargs):
     ]
     for slug in ["ingredients", "terminology", "aroma", "materials", "comparisons", "techniques", "forms", "relationships", "datasets"]:
         lines.append(f"- [{slug}]({site_url}/{slug}/)")
+    lines += [
+        "",
+        "## Entity pages & retrieval index",
+        f"- [Entity index]({site_url}/entities/)",
+        f"- [Retrieval index JSON]({site_url}/entities/index.json)",
+    ]
     (Path(config.site_dir) / "llms.txt").write_text("\n".join(lines) + "\n", encoding="utf-8")

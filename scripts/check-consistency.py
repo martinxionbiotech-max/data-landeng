@@ -150,6 +150,59 @@ def check_relationship_edges(counts: dict) -> list[str]:
     return errors
 
 
+def check_entity_pages(counts: dict) -> list[str]:
+    """Validate docs/entities/ against datasets/*.json truth.
+
+    - one page per entity termCode across the six entity datasets (shared
+      termCodes merge, so the page count may be lower than the raw sum)
+    - no orphan pages (every page maps to a dataset entity)
+    - retrieval index (entities/index.json) item count matches page count
+    - no broken /entities/ links inside entity pages
+    """
+    import re
+
+    ENTITY_DATASETS = ["ingredients", "aroma", "materials", "techniques", "forms", "comparisons"]
+    errors = []
+    codes = set()
+    for stem in ENTITY_DATASETS:
+        with open(REPO_ROOT / "datasets" / f"{stem}.json", encoding="utf-8") as fh:
+            data = json.load(fh)
+        codes.update(e.get("termCode") for e in data.get("mainEntity", []) if e.get("termCode"))
+
+    ent_dir = REPO_ROOT / "docs" / "entities"
+    if not ent_dir.exists():
+        errors.append("docs/entities/: missing directory")
+        return errors
+    pages = {p.stem for p in ent_dir.glob("*.md") if p.stem != "index"}
+
+    orphan_pages = sorted(pages - codes)
+    if orphan_pages:
+        errors.append(f"docs/entities/: orphan pages not in any dataset: {orphan_pages}")
+    missing_pages = sorted(codes - pages)
+    if missing_pages:
+        errors.append(f"docs/entities/: entities without pages: {missing_pages[:5]}...")
+
+    for p in sorted(ent_dir.glob("*.md")):
+        if p.stem == "index":
+            continue
+        raw = p.read_text(encoding="utf-8")
+        for m in re.finditer(r"\]\((/entities/[a-z0-9\-]+)/\)", raw):
+            target = m.group(1).split("/")[-1]
+            if target not in pages:
+                errors.append(f"docs/entities/{p.name}: broken link to /entities/{target}/")
+
+    idx_path = ent_dir / "index.json"
+    if idx_path.exists():
+        idx = json.loads(idx_path.read_text(encoding="utf-8"))
+        if idx.get("numberOfItems") != len(pages):
+            errors.append(
+                f"entities/index.json: numberOfItems {idx.get('numberOfItems')} != pages {len(pages)}"
+            )
+    else:
+        errors.append("entities/index.json: missing retrieval index")
+    return errors
+
+
 def main() -> int:
     counts = ic.read_counts()
 
@@ -158,6 +211,7 @@ def main() -> int:
     errors += check_csv_rows(counts)
     errors += check_date_modified(counts)
     errors += check_relationship_edges(counts)
+    errors += check_entity_pages(counts)
 
     if errors:
         print("Consistency check FAILED:")

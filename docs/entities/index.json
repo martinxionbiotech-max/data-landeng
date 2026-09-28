@@ -1,0 +1,2070 @@
+{
+ "@context": "https://schema.org",
+ "@type": "ItemList",
+ "name": "LanDeng entity retrieval index",
+ "url": "https://data.incenseherbs.com/entities/index.json",
+ "numberOfItems": 205,
+ "itemListElement": [
+  {
+   "termCode": "agarwood",
+   "name": "Agarwood",
+   "datasets": [
+    "ingredients",
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/agarwood/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/agarwood/",
+   "relationCount": 11
+  },
+  {
+   "termCode": "agastache-rugosa",
+   "name": "Agastache",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/agastache-rugosa/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/agastache-rugosa/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "aglaia",
+   "name": "Aglaia",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/aglaia/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/aglaia/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "amber",
+   "name": "Amber",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/amber/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/amber/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "ambergris",
+   "name": "Ambergris",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/ambergris/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/ambergris/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "amomum-villosum",
+   "name": "Amomum villosum",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/amomum-villosum/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/amomum-villosum/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "angelica",
+   "name": "Angelica",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/angelica/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/angelica/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "angelica-sinensis",
+   "name": "Dong Quai",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/angelica-sinensis/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/angelica-sinensis/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "anise",
+   "name": "Anise",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/anise/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/anise/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "apricot-kernel",
+   "name": "Apricot Kernel",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/apricot-kernel/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/apricot-kernel/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "aromatherapy-beads",
+   "name": "Aromatherapy Beads",
+   "datasets": [
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/aromatherapy-beads/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "aromatic-turmeric",
+   "name": "Aromatic Turmeric",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/aromatic-turmeric/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/aromatic-turmeric/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "artemisia-annua",
+   "name": "Sweet Wormwood",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/artemisia-annua/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/artemisia-annua/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "asafoetida",
+   "name": "Asafoetida",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/asafoetida/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/asafoetida/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "asarum",
+   "name": "Asarum",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/asarum/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/asarum/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "atractylodes",
+   "name": "Atractylodes",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/atractylodes/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/atractylodes/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "backflow-cone",
+   "name": "Backflow Cone",
+   "datasets": [
+    "forms",
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/backflow-cone/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "balsamic",
+   "name": "Balsamic",
+   "datasets": [
+    "aroma"
+   ],
+   "url": "https://data.incenseherbs.com/entities/balsamic/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "bamboo-core",
+   "name": "Bamboo Core",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/bamboo-core/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "bamboo-core-stick",
+   "name": "Bamboo-Core Stick",
+   "datasets": [
+    "forms"
+   ],
+   "url": "https://data.incenseherbs.com/entities/bamboo-core-stick/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "bamboo-leaves",
+   "name": "Bamboo Leaves",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/bamboo-leaves/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/bamboo-leaves/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "banksia-rose",
+   "name": "Banksia Rose",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/banksia-rose/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/banksia-rose/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "basil",
+   "name": "Basil",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/basil/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/basil/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "bay-leaf",
+   "name": "Bay Leaf",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/bay-leaf/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/bay-leaf/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "bead",
+   "name": "Incense Bead",
+   "datasets": [
+    "forms"
+   ],
+   "url": "https://data.incenseherbs.com/entities/bead/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "beeswax",
+   "name": "Beeswax",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/beeswax/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/beeswax/",
+   "relationCount": 3
+  },
+  {
+   "termCode": "benzoin",
+   "name": "Benzoin",
+   "datasets": [
+    "ingredients",
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/benzoin/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/benzoin/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "bergamot",
+   "name": "Bergamot",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/bergamot/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/bergamot/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "bletilla",
+   "name": "Bletilla",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/bletilla/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/bletilla/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "blumea-balsamifera",
+   "name": "Blumea Balsamifera",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/blumea-balsamifera/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/blumea-balsamifera/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "borneol",
+   "name": "Borneol",
+   "datasets": [
+    "ingredients",
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/borneol/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/borneol/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "borneol-oil",
+   "name": "Borneol Oil",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/borneol-oil/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/borneol-oil/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "cake",
+   "name": "Incense Cake",
+   "datasets": [
+    "forms"
+   ],
+   "url": "https://data.incenseherbs.com/entities/cake/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "calamus",
+   "name": "Calamus",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/calamus/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/calamus/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "camphor",
+   "name": "Camphor",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/camphor/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/camphor/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "cardamom",
+   "name": "Cardamom",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/cardamom/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/cardamom/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "cassia-twig",
+   "name": "Cassia Twig",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/cassia-twig/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/cassia-twig/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "castoreum",
+   "name": "Castoreum",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/castoreum/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/castoreum/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "cedar",
+   "name": "Cedar",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/cedar/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/cedar/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "chamomile",
+   "name": "Chamomile",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/chamomile/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/chamomile/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "champaca",
+   "name": "Champaca",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/champaca/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/champaca/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "charcoal",
+   "name": "Charcoal",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/charcoal/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "chrysanthemum",
+   "name": "Chrysanthemum",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/chrysanthemum/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/chrysanthemum/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "cinnamon",
+   "name": "Cinnamon",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/cinnamon/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/cinnamon/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "citron",
+   "name": "Citron",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/citron/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/citron/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "citronella",
+   "name": "Citronella",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/citronella/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/citronella/",
+   "relationCount": 3
+  },
+  {
+   "termCode": "citrus",
+   "name": "Citrus",
+   "datasets": [
+    "aroma"
+   ],
+   "url": "https://data.incenseherbs.com/entities/citrus/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "civet",
+   "name": "Civet",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/civet/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/civet/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "clove",
+   "name": "Clove",
+   "datasets": [
+    "ingredients",
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/clove/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/clove/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "clove-powder",
+   "name": "Clove Powder",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/clove-powder/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "coil",
+   "name": "Incense Coil",
+   "datasets": [
+    "forms"
+   ],
+   "url": "https://data.incenseherbs.com/entities/coil/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "compound-formula",
+   "name": "Compound Formula",
+   "datasets": [
+    "techniques"
+   ],
+   "url": "https://data.incenseherbs.com/entities/compound-formula/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "cone",
+   "name": "Incense Cone",
+   "datasets": [
+    "forms"
+   ],
+   "url": "https://data.incenseherbs.com/entities/cone/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "copaiba",
+   "name": "Copaiba",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/copaiba/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/copaiba/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "coriander-seed",
+   "name": "Coriander Seed",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/coriander-seed/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/coriander-seed/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "costus",
+   "name": "Costus",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/costus/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/costus/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "cubeb",
+   "name": "Cubeb",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/cubeb/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/cubeb/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "cumin",
+   "name": "Cumin",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/cumin/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/cumin/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "cyperus",
+   "name": "Cyperus",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/cyperus/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/cyperus/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "cypress-seed",
+   "name": "Cypress Seed",
+   "datasets": [
+    "ingredients",
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/cypress-seed/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/cypress-seed/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "daphne",
+   "name": "Daphne",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/daphne/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/daphne/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "dill",
+   "name": "Dill",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/dill/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/dill/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "dragons-blood",
+   "name": "Dragon's Blood",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/dragons-blood/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/dragons-blood/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "earthy",
+   "name": "Earthy",
+   "datasets": [
+    "aroma"
+   ],
+   "url": "https://data.incenseherbs.com/entities/earthy/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "elsholtzia",
+   "name": "Elsholtzia",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/elsholtzia/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/elsholtzia/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "eucalyptus",
+   "name": "Eucalyptus",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/eucalyptus/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/eucalyptus/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "eupatorium",
+   "name": "Eupatorium",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/eupatorium/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/eupatorium/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "eupatorium-japonicum",
+   "name": "Zelan",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/eupatorium-japonicum/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/eupatorium-japonicum/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "fennel",
+   "name": "Fennel",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/fennel/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/fennel/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "fenugreek",
+   "name": "Fenugreek",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/fenugreek/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/fenugreek/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "finger-citron",
+   "name": "Finger Citron",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/finger-citron/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/finger-citron/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "floral",
+   "name": "Floral",
+   "datasets": [
+    "aroma"
+   ],
+   "url": "https://data.incenseherbs.com/entities/floral/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "flower-scenting",
+   "name": "Flower-Scenting",
+   "datasets": [
+    "techniques"
+   ],
+   "url": "https://data.incenseherbs.com/entities/flower-scenting/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "fragrance-oil",
+   "name": "Fragrance Oil",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/fragrance-oil/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "frankincense",
+   "name": "Frankincense",
+   "datasets": [
+    "ingredients",
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/frankincense/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/frankincense/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "fumigation",
+   "name": "Fumigation",
+   "datasets": [
+    "techniques"
+   ],
+   "url": "https://data.incenseherbs.com/entities/fumigation/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "galangal",
+   "name": "Galangal",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/galangal/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/galangal/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "galbanum",
+   "name": "Galbanum",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/galbanum/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/galbanum/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "gardenia",
+   "name": "Gardenia",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/gardenia/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/gardenia/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "ginger",
+   "name": "Dried Ginger",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/ginger/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/ginger/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "ginkgo",
+   "name": "Ginkgo Nut",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/ginkgo/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/ginkgo/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "grapefruit",
+   "name": "Grapefruit",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/grapefruit/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/grapefruit/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "guar-gum",
+   "name": "Guar Gum",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/guar-gum/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "gum-arabic",
+   "name": "Gum Arabic",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/gum-arabic/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "gum-tragacanth",
+   "name": "Gum Tragacanth",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/gum-tragacanth/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "herbal",
+   "name": "Herbal",
+   "datasets": [
+    "aroma"
+   ],
+   "url": "https://data.incenseherbs.com/entities/herbal/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "hexiang-blending",
+   "name": "合香 Blending",
+   "datasets": [
+    "techniques"
+   ],
+   "url": "https://data.incenseherbs.com/entities/hexiang-blending/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "honey",
+   "name": "Honey",
+   "datasets": [
+    "ingredients",
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/honey/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/honey/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "honeysuckle",
+   "name": "Honeysuckle",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/honeysuckle/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/honeysuckle/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "incense-appreciation",
+   "name": "Incense Appreciation",
+   "datasets": [
+    "techniques"
+   ],
+   "url": "https://data.incenseherbs.com/entities/incense-appreciation/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "incense-ceremony",
+   "name": "Incense Ceremony",
+   "datasets": [
+    "techniques"
+   ],
+   "url": "https://data.incenseherbs.com/entities/incense-ceremony/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "incense-coil",
+   "name": "Incense Coil",
+   "datasets": [
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/incense-coil/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "incense-cone",
+   "name": "Incense Cone",
+   "datasets": [
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/incense-cone/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "incense-pill",
+   "name": "Incense Pill",
+   "datasets": [
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/incense-pill/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "incense-powder",
+   "name": "Incense Powder",
+   "datasets": [
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/incense-powder/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "incense-resin",
+   "name": "Incense Resin",
+   "datasets": [
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/incense-resin/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "incense-stick",
+   "name": "Incense Stick",
+   "datasets": [
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/incense-stick/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "indirect-fire",
+   "name": "Indirect-Fire Incense",
+   "datasets": [
+    "techniques"
+   ],
+   "url": "https://data.incenseherbs.com/entities/indirect-fire/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "jasmine",
+   "name": "Jasmine",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/jasmine/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/jasmine/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "jasmine-grandiflorum",
+   "name": "Spanish Jasmine",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/jasmine-grandiflorum/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/jasmine-grandiflorum/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "jiangzhenxiang",
+   "name": "Jiangzhenxiang",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/jiangzhenxiang/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/jiangzhenxiang/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "juniper",
+   "name": "Juniper",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/juniper/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/juniper/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "katsumadai",
+   "name": "Katsumadai",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/katsumadai/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/katsumadai/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "kumquat",
+   "name": "Kumquat",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/kumquat/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/kumquat/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "labdanum",
+   "name": "Labdanum",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/labdanum/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/labdanum/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "lavender",
+   "name": "Lavender",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/lavender/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/lavender/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "lemon",
+   "name": "Lemon",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/lemon/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/lemon/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "lemon-balm",
+   "name": "Lemon Balm",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/lemon-balm/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/lemon-balm/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "licorice",
+   "name": "Licorice",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/licorice/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/licorice/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "ligusticum",
+   "name": "Ligusticum",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/ligusticum/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/ligusticum/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "ligusticum-chuanxiong",
+   "name": "Chuanxiong",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/ligusticum-chuanxiong/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/ligusticum-chuanxiong/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "lily-of-the-valley",
+   "name": "Lily of the Valley",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/lily-of-the-valley/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/lily-of-the-valley/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "linglingxiang",
+   "name": "Linglingxiang",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/linglingxiang/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/linglingxiang/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "litchi-husk",
+   "name": "Litchi Husk",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/litchi-husk/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/litchi-husk/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "litsea-cubeba",
+   "name": "Mountain Pepper",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/litsea-cubeba/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/litsea-cubeba/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "long-pepper",
+   "name": "Long Pepper",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/long-pepper/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/long-pepper/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "lotus-flower",
+   "name": "Lotus Flower",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/lotus-flower/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/lotus-flower/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "low-smoke",
+   "name": "Low-Smoke Incense",
+   "datasets": [
+    "forms"
+   ],
+   "url": "https://data.incenseherbs.com/entities/low-smoke/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "magnolia-flower",
+   "name": "Magnolia Flower",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/magnolia-flower/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/magnolia-flower/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "makko",
+   "name": "Makko",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/makko/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "mastic",
+   "name": "Mastic",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/mastic/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/mastic/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "michelia-figo",
+   "name": "Banana Shrub",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/michelia-figo/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/michelia-figo/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "mint",
+   "name": "Mint",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/mint/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/mint/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "mugwort",
+   "name": "Mugwort",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/mugwort/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/mugwort/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "mulberry-leaf",
+   "name": "Mulberry Leaf",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/mulberry-leaf/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/mulberry-leaf/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "musk",
+   "name": "Musk",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/musk/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/musk/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "mustard",
+   "name": "Mustard Seed",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/mustard/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/mustard/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "myrrh",
+   "name": "Myrrh",
+   "datasets": [
+    "ingredients",
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/myrrh/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/myrrh/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "neroli",
+   "name": "Neroli",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/neroli/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/neroli/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "no-flame-heating",
+   "name": "No-Flame Heating",
+   "datasets": [
+    "techniques"
+   ],
+   "url": "https://data.incenseherbs.com/entities/no-flame-heating/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "nutmeg",
+   "name": "Nutmeg",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/nutmeg/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/nutmeg/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "onycha",
+   "name": "Onycha",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/onycha/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/onycha/",
+   "relationCount": 3
+  },
+  {
+   "termCode": "orange-peel",
+   "name": "Orange Peel / Chenpi",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/orange-peel/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/orange-peel/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "orchid",
+   "name": "Orchid",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/orchid/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/orchid/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "orris-root",
+   "name": "Orris Root",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/orris-root/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/orris-root/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "osmanthus",
+   "name": "Osmanthus",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/osmanthus/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/osmanthus/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "oxyphylla",
+   "name": "Sharp-Leaf Galangal",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/oxyphylla/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/oxyphylla/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "paicao",
+   "name": "Paicao",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/paicao/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/paicao/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "patchouli",
+   "name": "Patchouli",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/patchouli/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/patchouli/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "peony",
+   "name": "Peony",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/peony/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/peony/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "pepper",
+   "name": "Pepper",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/pepper/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/pepper/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "peppermint",
+   "name": "Peppermint",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/peppermint/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/peppermint/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "perilla",
+   "name": "Perilla",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/perilla/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/perilla/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "peru-balsam",
+   "name": "Peru Balsam",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/peru-balsam/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/peru-balsam/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "pill",
+   "name": "Incense Pill",
+   "datasets": [
+    "forms"
+   ],
+   "url": "https://data.incenseherbs.com/entities/pill/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "pill-forming",
+   "name": "Pill Forming",
+   "datasets": [
+    "techniques"
+   ],
+   "url": "https://data.incenseherbs.com/entities/pill-forming/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "pine-needles",
+   "name": "Pine Needles",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/pine-needles/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/pine-needles/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "pine-resin",
+   "name": "Pine Resin",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/pine-resin/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/pine-resin/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "plaque",
+   "name": "Incense Plaque",
+   "datasets": [
+    "forms"
+   ],
+   "url": "https://data.incenseherbs.com/entities/plaque/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "platycladus-leaves",
+   "name": "Arborvitae Leaves",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/platycladus-leaves/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/platycladus-leaves/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "plum-blossom",
+   "name": "Plum Blossom",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/plum-blossom/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/plum-blossom/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "plum-powder",
+   "name": "White Plum",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/plum-powder/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "pomelo-peel",
+   "name": "Pomelo Peel",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/pomelo-peel/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/pomelo-peel/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "powder",
+   "name": "Incense Powder",
+   "datasets": [
+    "forms"
+   ],
+   "url": "https://data.incenseherbs.com/entities/powder/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "prickly-ash",
+   "name": "Sichuan Pepper",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/prickly-ash/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/prickly-ash/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "quince",
+   "name": "Quince",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/quince/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/quince/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "red-sandalwood",
+   "name": "Red Sandalwood",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/red-sandalwood/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/red-sandalwood/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "resin",
+   "name": "Resin",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/resin/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "resinous",
+   "name": "Resinous",
+   "datasets": [
+    "aroma"
+   ],
+   "url": "https://data.incenseherbs.com/entities/resinous/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "rose",
+   "name": "Rose",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/rose/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/rose/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "rosemary",
+   "name": "Rosemary",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/rosemary/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/rosemary/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "rue",
+   "name": "Rue",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/rue/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/rue/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "sachet",
+   "name": "Scented Sachet",
+   "datasets": [
+    "techniques"
+   ],
+   "url": "https://data.incenseherbs.com/entities/sachet/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "sage",
+   "name": "Sage",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/sage/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/sage/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "sand-ginger",
+   "name": "Sand Ginger",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/sand-ginger/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/sand-ginger/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "sandalwood",
+   "name": "Sandalwood",
+   "datasets": [
+    "ingredients",
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/sandalwood/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/sandalwood/",
+   "relationCount": 9
+  },
+  {
+   "termCode": "sawdust",
+   "name": "Sawdust",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/sawdust/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "schisandra",
+   "name": "Schisandra",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/schisandra/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/schisandra/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "schizonepeta",
+   "name": "Schizonepeta",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/schizonepeta/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/schizonepeta/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "seal-incense",
+   "name": "Seal Incense",
+   "datasets": [
+    "techniques",
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/seal-incense/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "shellac",
+   "name": "Shellac",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/shellac/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/shellac/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "silk-tree",
+   "name": "Silk Tree Flower",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/silk-tree/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/silk-tree/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "single-material",
+   "name": "Single-Material Appreciation",
+   "datasets": [
+    "techniques"
+   ],
+   "url": "https://data.incenseherbs.com/entities/single-material/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "smokeless",
+   "name": "Smokeless Incense",
+   "datasets": [
+    "forms"
+   ],
+   "url": "https://data.incenseherbs.com/entities/smokeless/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "smoky",
+   "name": "Smoky",
+   "datasets": [
+    "aroma"
+   ],
+   "url": "https://data.incenseherbs.com/entities/smoky/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "sophora-flower",
+   "name": "Sophora Flower",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/sophora-flower/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/sophora-flower/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "spearmint",
+   "name": "Spearmint",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/spearmint/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/spearmint/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "spicy",
+   "name": "Spicy",
+   "datasets": [
+    "aroma"
+   ],
+   "url": "https://data.incenseherbs.com/entities/spicy/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "spikenard-nardostachys",
+   "name": "Spikenard",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/spikenard-nardostachys/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/spikenard-nardostachys/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "star-anise",
+   "name": "Star Anise",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/star-anise/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/star-anise/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "stick",
+   "name": "Incense Stick",
+   "datasets": [
+    "forms"
+   ],
+   "url": "https://data.incenseherbs.com/entities/stick/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "styrax-resin",
+   "name": "Storax",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/styrax-resin/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/styrax-resin/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "sweet",
+   "name": "Sweet",
+   "datasets": [
+    "aroma"
+   ],
+   "url": "https://data.incenseherbs.com/entities/sweet/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "sweetgum",
+   "name": "Sweetgum",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/sweetgum/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/sweetgum/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "synthetic-binder",
+   "name": "Synthetic Binder",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/synthetic-binder/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "tarragon",
+   "name": "Tarragon",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/tarragon/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/tarragon/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "thuja",
+   "name": "Thuja",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/thuja/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/thuja/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "thyme",
+   "name": "Thyme",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/thyme/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/thyme/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "torreya",
+   "name": "Torreya",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/torreya/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/torreya/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "tree-peony",
+   "name": "Tree Peony",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/tree-peony/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/tree-peony/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "tree-peony-bark",
+   "name": "Tree Peony Bark",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/tree-peony-bark/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/tree-peony-bark/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "tsao-ko",
+   "name": "Tsaoko",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/tsao-ko/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/tsao-ko/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "tuberose",
+   "name": "Tuberose",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/tuberose/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/tuberose/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "turmeric",
+   "name": "Turmeric",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/turmeric/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/turmeric/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "valerian",
+   "name": "Valerian",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/valerian/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/valerian/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "vanilla",
+   "name": "Vanilla Bean",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/vanilla/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/vanilla/",
+   "relationCount": 5
+  },
+  {
+   "termCode": "vetiver",
+   "name": "Vetiver",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/vetiver/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/vetiver/",
+   "relationCount": 7
+  },
+  {
+   "termCode": "violet",
+   "name": "Violet",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/violet/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/violet/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "wintersweet",
+   "name": "Wintersweet",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/wintersweet/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/wintersweet/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "wood-chips",
+   "name": "Wood Chips",
+   "datasets": [
+    "comparisons"
+   ],
+   "url": "https://data.incenseherbs.com/entities/wood-chips/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "wood-powder",
+   "name": "Wood Powder / Chips",
+   "datasets": [
+    "materials"
+   ],
+   "url": "https://data.incenseherbs.com/entities/wood-powder/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "woody",
+   "name": "Woody",
+   "datasets": [
+    "aroma"
+   ],
+   "url": "https://data.incenseherbs.com/entities/woody/",
+   "mainSiteUrl": null,
+   "relationCount": 0
+  },
+  {
+   "termCode": "ylang-ylang",
+   "name": "Ylang-Ylang",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/ylang-ylang/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/ylang-ylang/",
+   "relationCount": 6
+  },
+  {
+   "termCode": "yulan-magnolia",
+   "name": "Yulan Magnolia",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/yulan-magnolia/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/yulan-magnolia/",
+   "relationCount": 4
+  },
+  {
+   "termCode": "zedoary",
+   "name": "Zedoary",
+   "datasets": [
+    "ingredients"
+   ],
+   "url": "https://data.incenseherbs.com/entities/zedoary/",
+   "mainSiteUrl": "https://incenseherbs.com/ingredients/zedoary/",
+   "relationCount": 4
+  }
+ ]
+}

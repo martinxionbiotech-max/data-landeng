@@ -11,6 +11,7 @@ nav:
   - Home: index.md
   - Datasets Overview: datasets.md
   - Ingredient Database: ingredients.md
+  - Entity Index: entities/index.md
   - Terminology Database: terminology.md
   - Aroma Database: aroma.md
   - Material Database: materials.md
