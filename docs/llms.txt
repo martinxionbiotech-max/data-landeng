@@ -1,0 +1,15 @@
+# LanDeng — Fragrance Data
+
+> Structured reference data for plant-based fragrance and aromatherapy work: aroma profiles, ingredient records, botanical entities and comparison datasets.
+
+## Data
+- [Index](index.md): How the dataset is organised.
+- [Datasets](datasets.md): Available datasets and their fields.
+- [Aromas](aroma.md): Aroma profile records.
+- [Ingredients](ingredients.md): Ingredient-level entries.
+- [Comparisons](comparisons.md): Side-by-side comparisons.
+- [Entities](entities/): Botanical and material entity records.
+- [Format](format.md): Data format and field definitions.
+
+## Notes
+- Records are reference data compiled for educational use, not therapeutic claims.
